@@ -1,0 +1,43 @@
+graph "bupropion-nicotine" {
+bgcolor = "#FFFFFFFF"
+splines = "false"
+outputorder = "edgesfirst"
+esep = "0"
+pad = "2"
+node [label = "",penwidth = "2.000000",height = "1.111111",width = "1.111111",tooltip = "",color = "#FFFFFFFF",fillcolor = "#C80000FF",shape = "ellipse",style = "solid,filled",fontname = "Dialog",fontsize = "12",fontcolor = "#000000FF",fixedsize = "true",labelloc = "c"]
+edge [label = "",penwidth = "3.000000",tooltip = "",arrowhead = "none",arrowtail = "none",color = "#404040FF",fontname = "Dialog",fontsize = "11",fontcolor = "#000000FF",style = "solid",dir = "both"]
+"Presynaptic nicotinic acetylcholine receptors§62" [label = "Presynaptic nAChRs",pos = "-181.679512,223.908234",fillcolor = "#FF9300FF",fontname = "SansSerif"]
+"Highly sodium permeable acetylcholine nicotinic receptors§63" [label = "Highly sodium permeable nAChRs",pos = "-110.413116,28.068611",fillcolor = "#FF9300FF",fontname = "SansSerif"]
+"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors§64" [label = "Highly calcium permeable postsynaptic nAChRs",pos = "-69.618392,111.389907",fillcolor = "#FF9300FF",fontname = "SansSerif"]
+"Terminal insomnia§65" [label = "Terminal insomnia",pos = "-203.471825,-144.247498",fillcolor = "#FFFB00FF",fontname = "SansSerif"]
+"CHRNA6§66" [label = "CHRNA6",pos = "83.901306,127.327080",fillcolor = "#0096FFFF",fontname = "SansSerif"]
+"CHRNB3§67" [label = "CHRNB3",pos = "82.217583,206.937599",fillcolor = "#0096FFFF",fontname = "SansSerif"]
+"Highly calcium permeable nicotinic acetylcholine receptors§68" [label = "Highly calcium permeable nAChRs",pos = "-122.095178,171.688852",fillcolor = "#FF9300FF",fontname = "SansSerif"]
+"CHRNB4§69" [label = "CHRNB4",pos = "54.389831,12.862862",fillcolor = "#0096FFFF",fontname = "SansSerif"]
+"Nicotine Activity on Chromaffin Cells§70" [label = "Nicotine Activity on Chromaffin Cells",pos = "-70.575439,-49.700356",fillcolor = "#FF9300FF",fontname = "SansSerif"]
+"Varenicline§71" [label = "Varenicline",pos = "-49.614403,-140.039741",fillcolor = "#FF2600FF",fontname = "SansSerif"]
+"nicotine dependence§72" [label = "nicotine dependence",pos = "203.449982,58.054198",fillcolor = "#8E4F00FF",fontname = "SansSerif"]
+"CHRNA3§73" [label = "CHRNA3",pos = "-299.023865,74.208572",fillcolor = "#0096FFFF",fontname = "SansSerif"]
+"Bupropion§74" [label = "Bupropion",pos = "-272.625114,-47.182442",fillcolor = "#FF2600FF",fontname = "SansSerif"]
+"CHRNB3§67" -- "Highly calcium permeable nicotinic acetylcholine receptors§68" [label = "participates",color = "#999999FF"]
+"CHRNB4§69" -- "Highly sodium permeable acetylcholine nicotinic receptors§63" [label = "participates",color = "#999999FF"]
+"CHRNB4§69" -- "Nicotine Activity on Chromaffin Cells§70" [label = "participates",color = "#999999FF"]
+"Varenicline§71" -- "Terminal insomnia§65" [label = "causes",color = "#999999FF"]
+"Varenicline§71" -- "nicotine dependence§72" [label = "treats",color = "#999999FF"]
+"Varenicline§71" -- "CHRNA3§73" [label = "binds",color = "#999999FF"]
+"nicotine dependence§72" -- "CHRNA6§66" [label = "associates",color = "#999999FF"]
+"nicotine dependence§72" -- "CHRNB3§67" [label = "associates",color = "#999999FF"]
+"nicotine dependence§72" -- "CHRNB4§69" [label = "associates",color = "#999999FF"]
+"nicotine dependence§72" -- "CHRNA3§73" [label = "associates",color = "#999999FF"]
+"CHRNA3§73" -- "Presynaptic nicotinic acetylcholine receptors§62" [label = "participates",color = "#999999FF"]
+"CHRNA3§73" -- "Highly sodium permeable acetylcholine nicotinic receptors§63" [label = "participates",color = "#999999FF"]
+"CHRNA3§73" -- "Highly calcium permeable postsynaptic nicotinic acetylcholine receptors§64" [label = "participates",color = "#999999FF"]
+"CHRNA3§73" -- "Highly calcium permeable nicotinic acetylcholine receptors§68" [label = "participates",color = "#999999FF"]
+"CHRNA3§73" -- "Nicotine Activity on Chromaffin Cells§70" [label = "participates",color = "#999999FF"]
+"Bupropion§74" -- "Terminal insomnia§65" [label = "causes",color = "#999999FF"]
+"Bupropion§74" -- "CHRNA3§73" [label = "binds",color = "#999999FF"]
+"CHRNA6§66" -- "Highly calcium permeable postsynaptic nicotinic acetylcholine receptors§64" [label = "participates",color = "#999999FF"]
+"CHRNA6§66" -- "Highly calcium permeable nicotinic acetylcholine receptors§68" [label = "participates",color = "#999999FF"]
+"CHRNB3§67" -- "Presynaptic nicotinic acetylcholine receptors§62" [label = "participates",color = "#999999FF"]
+"CHRNB3§67" -- "Highly calcium permeable postsynaptic nicotinic acetylcholine receptors§64" [label = "participates",color = "#999999FF"]
+}
