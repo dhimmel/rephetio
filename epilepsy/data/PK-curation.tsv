@@ -1,0 +1,101 @@
+name	prediction	disease_pctl	phcodb	trials	category	comment	sources
+Topiramate	0.603	1	DM	35	AIGD		
+Ethotoin	0.589	0.9993		0	AIGD		
+Quazepam	0.57	0.9987		0	AIGD		
+Alprazolam	0.565	0.998		1	AIGD		
+Primidone	0.494	0.9974	DM	0	AIGD		
+Lorazepam	0.489	0.9967		11	AIGD		
+Gabapentin	0.477	0.9961	DM	7	AIGD		
+Diazepam	0.46	0.9954	DM	6	AIGD		
+Methsuximide	0.434	0.9948		0	AIGD		
+Estazolam	0.43	0.9941		0	AIGD		
+Valproic Acid	0.409	0.9935	DM	21	AIGD		
+Triazolam	0.402	0.9928		0	AIGD		
+Oxazepam	0.381	0.9922		0	AIGD		
+Temazepam	0.375	0.9915		0	AIGD		
+Phenytoin	0.362	0.9909	DM	12	AIGD		
+Clorazepate	0.362	0.9902		0	AIGD		
+Clonazepam	0.354	0.9896	DM	5	AIGD		
+Oxcarbazepine	0.354	0.9889	DM	16	AIGD		
+Carbamazepine	0.341	0.9883	DM	31	AIGD		
+Midazolam	0.33	0.9876	DM	3	AIGD		
+Flurazepam	0.289	0.987		0	AIGD		
+Tiagabine	0.284	0.9863	NOT	1	AIGD		
+Felbamate	0.282	0.9857	DM	0	AIGD		
+Chlordiazepoxide	0.282	0.985		0	AIGD		
+Amitriptyline	0.252	0.9844		0	IGD	# Induces seizure - TCA	
+Lacosamide	0.248	0.9837	DM	34	AIGD		
+Fosphenytoin	0.246	0.9831	DM	4	AIGD		
+Lamotrigine	0.222	0.9824	DM	26	AIGD		
+Clobazam	0.214	0.9818	DM	8	AIGD		
+Pentobarbital	0.147	0.9811		1	AIGD		
+Butabarbital	0.133	0.9805		0	AIGD		
+Secobarbital	0.132	0.9798		0	AIGD		
+Bromazepam	0.127	0.9792		0	AIGD		
+Zonisamide	0.127	0.9785	DM	14	AIGD		
+Levetiracetam	0.123	0.9779	DM	81	AIGD		
+Talbutal	0.115	0.9772		0	AIGD		
+Methylphenobarbital	0.114	0.9766		0	AIGD		
+Heptabarbital	0.107	0.9759		0	AIGD		
+Nitrazepam	0.104	0.9753		0	AIGD		
+Butethal	0.104	0.9746		0	AIGD		
+Clotiazepam	0.103	0.974		0	AIGD		
+Fospropofol	0.102	0.9733		0	AIGD		
+Sevoflurane	0.1	0.9727		0	UNKD	# Halogenated Ether	
+Aprobarbital	0.0995	0.972		0	AIGD		
+Thiopental	0.0987	0.9714		1	AIGD		
+Halazepam	0.0978	0.9707		0	AIGD		
+Phenobarbital	0.0971	0.9701	DM	7	AIGD		
+Desflurane	0.0899	0.9688		0	AIGD		
+Fludiazepam	0.0877	0.9681		0	AIGD		
+Amobarbital	0.085	0.9675	DM	0	AIGD		
+Butalbital	0.0833	0.9668		0	AIGD		
+Prazepam	0.0829	0.9662		0	AIGD		
+Thiamylal	0.0814	0.9655		0	AIGD		
+Cinolazepam	0.0814	0.9649		0	AIGD		
+Glutethimide	0.0805	0.9642		0	UNKD	# GABA Agonist?	
+Isoflurane	0.079	0.9636		0	AIGD		
+Adinazolam	0.0777	0.9629		0	AIGD		
+Quinidine	0.077	0.9623		0	AIGD		
+Flunitrazepam	0.0756	0.9616		0	AIGD		
+Clozapine	0.0745	0.961		0	IGD	# Induces seizure - APs	
+Ethosuximide	0.0725	0.9603		1	AIGD		
+Trimethadione	0.0701	0.9597	DM	0	AIGD		
+Ketamine	0.0692	0.959		2	AIGD		
+Imipramine	0.0664	0.9584		0	IGD	# Induces seizure - TCA	
+Methazolamide	0.0657	0.9577		0	AIGD	# AED (Carbonic Anhydrase inhibitor)	https://www.ncbi.nlm.nih.gov/pubmed/23514045
+Ketazolam	0.0614	0.9571		0	AIGD		
+Etomidate	0.0577	0.9564	NOT	0	AIGD		https://www.ncbi.nlm.nih.gov/pubmed/2745868
+Nortriptyline	0.056	0.9558		0	IGD	# Induces seizure - TCA	
+Clomipramine	0.0554	0.9551		0	IGD	# Induces seizure - TCA	
+Acetazolamide	0.0527	0.9545	DM	0	AIGD	# AED (Carbonic Anhydrase inhibitor)	https://www.ncbi.nlm.nih.gov/pubmed/23514045
+Enflurane	0.0503	0.9538		0	UNKD	# Halogenated Ether	
+Modafinil	0.0503	0.9532		0	AIGD	# AED (repurposed BP medication)	https://www.ncbi.nlm.nih.gov/pubmed/25869564
+Phensuximide	0.0487	0.9525		0	AIGD		
+Paramethadione	0.0469	0.9519		0	AIGD		
+Verapamil	0.0463	0.9512		3	AIGD	# AED (repurposed BP medication)	https://www.ncbi.nlm.nih.gov/pubmed/27513375
+Chlorthalidone	0.0444	0.9506		0	UNKD	BP medication, Acts on Na/Cl channels	
+Indapamide	0.0437	0.9499		0	AIGD	# AED (partially repurposed BP medication)	https://www.ncbi.nlm.nih.gov/pubmed/19366652
+Antipyrine	0.0401	0.9493		0	IGD	# Induces seizure - analgesic	
+Cyproheptadine	0.0397	0.9486		0	IGD	# Induces seizure - antihistamine and antiseratonin	
+Isocarboxazid	0.0383	0.948		0	IGD	# Induces seizure - MAOi	
+Bortezomib	0.0383	0.9473		0	UNKD	# antineoplastic agent	
+Phenelzine	0.0374	0.9467		0	IGD	# Induces seizure - MAOi	
+Diclofenamide	0.0371	0.946		0	AIGD	# AED (Carbonic Anhydrase inhibitor)	https://www.ncbi.nlm.nih.gov/pubmed/352085
+Pregabalin	0.0347	0.9454	DM	0	AIGD		
+Hexobarbital	0.0346	0.9447		0	AIGD		
+Loxapine	0.0343	0.9441		0	IGD	# Induces seizure - APs	
+Dalfampridine	0.0332	0.9434		0	IGD	# Induces seizure - K-Channel antagonist	
+Phenazopyridine	0.033	0.9428		0	UNKD	Urinary analgesic, excreted immediately in urine	
+Zopiclone	0.0329	0.9421		0	AIGD		
+Ranolazine	0.0327	0.9415		0	AIGD	# AED (sodium channel)	https://www.ncbi.nlm.nih.gov/pubmed/24202911
+Amoxapine	0.0327	0.9408		0	IGD	# Induces seizure - MAOi	
+Baclofen	0.0325	0.9402		0	IGD	# Induces seizure - muscle relaxant	
+Phenacemide	0.0324	0.9395		0	AIGD		
+Eszopiclone	0.0315	0.9389		0	AIGD		
+Desipramine	0.0308	0.9382		0	IGD	# Induces seizure - TCA	
+Dabrafenib	0.0306	0.9376		0	UNKD	# antineoplastic agent	
+Rufinamide	0.0305	0.9369	DM	0	AIGD	AED	
+Memantine	0.0303	0.9363		2	IGD	# Induces seizure - anti-NMDA	
+Zolpidem	0.0298	0.9356		0	AIGD	AED	
+Acamprosate	0.0296	0.935		0	UNKD	# Alcohol dependence	
