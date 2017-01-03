@@ -1,0 +1,1668 @@
+source_edge	paths	contribution
+Compound—includes—Decreased Central Nervous System Disorganized Electrical Activity	238	6.3412
+Compound—includes—Benzodiazepines	52	3.8446
+Compound—binds—GABRA1	12385	2.8192
+Compound—resembles—Diazepam	402	2.7081
+Compound—includes—General Anesthesia	6	2.456
+Compound—binds—GABRG2	8522	2.4024
+Compound—palliates—multiple sclerosis	84	2.156
+Compound—resembles—Amobarbital	87	2.1309
+Compound—resembles—Clobazam	227	2.1275
+Compound—resembles—Phenobarbital	165	2.0366
+Compound—resembles—Clonazepam	131	1.8277
+Compound—binds—GABRB2	7554	1.819
+Compound—resembles—Midazolam	228	1.6999
+Compound—binds—GABRA5	7835	1.6446
+Compound—binds—CYP2C19	4316	1.5572
+Compound—resembles—Lacosamide	24	1.5527
+Compound—resembles—Oxcarbazepine	51	1.3743
+Compound—binds—GABRB3	7390	1.2506
+Compound—treats—migraine	5	1.13
+Compound—binds—GABRD	274	1.0898
+Compound—binds—GRIA2	2951	1.0444
+Compound—binds—CACNA1G	686	1.0115
+Compound—resembles—Phenytoin	116	0.96921
+Compound—binds—SCN9A	945	0.92676
+Compound—resembles—Primidone	82	0.90927
+Compound—binds—GRIK2	2216	0.89277
+Compound—includes—Sulfonamides	4	0.8912
+Compound—palliates—bipolar disorder	56	0.88307
+Compound—binds—SCN1A	1135	0.87013
+Compound—binds—CYP3A4	7173	0.83851
+Compound—binds—GABRA3	8523	0.82121
+Compound—palliates—panic disorder	14	0.8112
+Compound—resembles—Carbamazepine	46	0.79607
+Compound—binds—CA4	612	0.77912
+Compound—binds—GABRA2	8556	0.75987
+Compound—palliates—schizophrenia	32	0.75576
+Compound—binds—CHRNA7	2349	0.72226
+Compound—binds—CYP2E1	3051	0.70235
+Compound—binds—CHRNA4	2573	0.68521
+Compound—binds—SCN3A	899	0.58843
+Compound—includes—Cytochrome P450 2D6 Inhibitors	2	0.575
+Compound—binds—GABBR1	442	0.54185
+Compound—resembles—Methylphenobarbital	106	0.52497
+Compound—binds—SCN5A	1904	0.51947
+Compound—binds—GRIN2A	715	0.5018
+Compound—resembles—Trimethadione	3	0.49278
+Compound—binds—SCN4A	744	0.47284
+Compound—binds—GRIN2B	1163	0.46826
+Compound—resembles—Felbamate	9	0.4602
+Compound—binds—GABRA4	5849	0.45465
+Compound—resembles—Acetazolamide	3	0.44996
+Compound—binds—CYP2B6	2459	0.4486
+Compound—binds—SCN8A	552	0.44858
+Compound—binds—GABRA6	5667	0.44542
+Compound—binds—ALB	3382	0.43155
+Compound—resembles—Propofol	10	0.42596
+Compound—binds—SLC6A1	383	0.40706
+Compound—binds—CACNA2D2	390	0.40421
+Compound—binds—CYP2C8	2635	0.39555
+Compound—binds—CACNA1H	544	0.37472
+Compound—binds—SCN2A	794	0.37176
+Compound—binds—ABCB1	3272	0.36115
+Compound—binds—ABAT	245	0.34756
+Compound—resembles—Methsuximide	66	0.33829
+Compound—binds—CYP2C9	3681	0.33818
+Compound—binds—GRM5	593	0.32707
+Compound—binds—CACNA1B	403	0.29308
+Compound—resembles—Fosphenytoin	11	0.29228
+Compound—palliates—Parkinson's disease	6	0.2811
+Compound—binds—CYP2C18	905	0.2805
+Compound—binds—CYP2D6	1431	0.27998
+Compound—resembles—Heptabarbital	54	0.27798
+Compound—binds—GABRG3	4918	0.27706
+Compound—binds—CHRFAM7A	123	0.27195
+Compound—binds—GABRB1	4828	0.26783
+Compound—binds—KCNK9	348	0.26734
+Compound—binds—GRIA1	1044	0.26722
+Compound—resembles—Delorazepam	104	0.26433
+Compound—resembles—Phenindione	65	0.26195
+Compound—binds—KCNK3	332	0.26147
+Compound—resembles—Butethal	78	0.24572
+Compound—resembles—Pentobarbital	130	0.24542
+Compound—resembles—Butabarbital	97	0.24517
+Compound—resembles—Talbutal	130	0.24476
+Compound—binds—CHRM1	3088	0.24448
+Compound—resembles—Fludiazepam	256	0.24298
+Compound—binds—TSPO	128	0.23451
+Compound—binds—CA5B	540	0.23235
+Compound—resembles—Secobarbital	98	0.22511
+Compound—resembles—Aprobarbital	78	0.22333
+Compound—palliates—restless legs syndrome	12	0.22328
+Compound—binds—CHRM3	3164	0.21742
+Compound—resembles—Alprazolam	194	0.21054
+Compound—binds—GABRG1	297	0.21041
+Compound—binds—CACNA1A	417	0.20998
+Compound—binds—SV2A	42	0.20955
+Compound—resembles—Prazepam	236	0.20613
+Compound—binds—GABRR1	3054	0.206
+Compound—resembles—Estazolam	216	0.20483
+Compound—binds—GABRR2	3166	0.20418
+Compound—resembles—Oxazepam	196	0.20205
+Compound—resembles—Halazepam	216	0.20135
+Compound—binds—CA9	756	0.20035
+Compound—resembles—Lorazepam	129	0.19271
+Compound—binds—CHRM2	3344	0.1875
+Compound—resembles—Flunitrazepam	122	0.18557
+Compound—binds—GABRQ	2896	0.18277
+Compound—resembles—Glutethimide	53	0.1775
+Compound—binds—CA2	620	0.17596
+Compound—binds—CYP3A5	1591	0.17543
+Compound—resembles—Phenacemide	10	0.1716
+Compound—binds—AQP1	134	0.17141
+Compound—binds—GABRE	130	0.17135
+Compound—resembles—Clorazepate	158	0.17131
+Compound—includes—Cytochrome P450 2B6 Inducers	4	0.1704
+Compound—includes—Cytochrome P450 2C19 Inducers	4	0.1704
+Compound—includes—Cytochrome P450 2C9 Inducers	4	0.1704
+Compound—resembles—Triazolam	186	0.16666
+Compound—resembles—Flurazepam	194	0.16214
+Compound—binds—CA6	392	0.15997
+Compound—resembles—Phensuximide	45	0.15906
+Compound—binds—CA5A	438	0.15853
+Compound—binds—HTR2A	3609	0.15739
+Compound—resembles—Temazepam	227	0.15678
+Compound—binds—SLC1A1	183	0.15606
+Compound—binds—CA1	535	0.15552
+Compound—resembles—Quinidine barbiturate	9	0.15498
+Compound—binds—GABRP	61	0.15354
+Compound—binds—CYP1A2	2788	0.15244
+Compound—binds—GABRR3	62	0.14953
+Compound—binds—ABCC2	350	0.14824
+Compound—resembles—Chlordiazepoxide	159	0.1447
+Compound—binds—KCND2	333	0.14409
+Compound—binds—CA7	459	0.14328
+Compound—binds—CACNA1I	474	0.14141
+Compound—resembles—L-Phenylalanine	13	0.1406
+Compound—resembles—Adinazolam	197	0.13987
+Compound—resembles—Methocarbamol	1	0.138
+Compound—resembles—Quazepam	141	0.13782
+Compound—binds—SLC2A1	223	0.13688
+Compound—binds—SLC6A4	696	0.13518
+Compound—binds—CYP2A6	1152	0.13275
+Compound—resembles—Ethyl loflazepate	48	0.13245
+Compound—binds—CA14	342	0.1277
+Compound—resembles—Camazepam	57	0.12736
+Compound—binds—CA12	480	0.12726
+Compound—includes—Cytochrome P450 2C8 Inducers	1	0.127
+Compound—binds—CA3	207	0.12445
+Compound—binds—SCN10A	552	0.11632
+Compound—binds—HTR7	1840	0.11407
+Compound—palliates—systemic lupus erythematosus	4	0.1117
+Compound—resembles—Ethotoin	52	0.11147
+Compound—binds—CACNA2D1	40	0.11127
+Compound—resembles—Ketazolam	81	0.11105
+Compound—includes—Cytochrome P450 3A4 Inducers	4	0.1108
+Compound—resembles—Clotiazepam	107	0.11062
+Compound—resembles—Thiopental	71	0.10978
+Compound—binds—ADRA2A	2395	0.10908
+Compound—binds—SCN11A	430	0.1089
+Compound—binds—CYP3A7	1171	0.10868
+Compound—includes—P-Glycoprotein Inhibitors	1	0.108
+Compound—binds—GRIN3A	27	0.10465
+Compound—binds—CYP3A7-CYP3A51P	65	0.1029
+Compound—resembles—Thiamylal	63	0.10231
+Compound—resembles—Epinastine	40	0.10109
+Compound—resembles—Butalbital	71	0.10008
+Compound—binds—UGT1A3	342	0.097904
+Compound—resembles—Clozapine	153	0.094606
+Compound—binds—UGT1A4	365	0.091997
+Compound—binds—MAOA	713	0.091509
+Compound—resembles—Mazindol	22	0.091337
+Compound—resembles—Cloxazolam	18	0.09022
+Compound—binds—MAOB	266	0.088285
+Compound—palliates—endogenous depression	3	0.0881
+Compound—includes—Cytochrome P450 1A2 Inducers	2	0.0859
+Compound—binds—ABCG2	256	0.08515
+Compound—binds—SLC36A1	80	0.082102
+Compound—resembles—Chlorthalidone	5	0.081182
+Compound—resembles—Nitrazepam	148	0.080447
+Compound—resembles—Brotizolam	14	0.07929
+Compound—resembles—Cinolazepam	126	0.072209
+Compound—causes—Ataxia	1312	0.069241
+Compound—binds—CACNB4	207	0.067044
+Compound—binds—KCNQ3	372	0.066457
+Compound—binds—KCNQ2	370	0.066196
+Compound—binds—PTGS1	1178	0.064365
+Compound—resembles—Nateglinide	11	0.06427
+Compound—binds—SCN7A	308	0.063339
+Compound—resembles—Bromazepam	61	0.062324
+Compound—resembles—Aspartame	5	0.061476
+Compound—binds—CA13	70	0.060122
+Compound—binds—GABBR2	461	0.059892
+Compound—binds—KCNC1	93	0.058933
+Compound—resembles—Loxapine	88	0.058841
+Compound—binds—OPRD1	792	0.058064
+Compound—binds—KCNC4	90	0.058062
+Compound—binds—GRIN1	1089	0.057984
+Compound—binds—KCNB1	174	0.057568
+Compound—resembles—Phenylbutazone	13	0.05296
+Compound—resembles—Bethanidine	3	0.05296
+Compound—binds—SLCO1A2	294	0.052076
+Compound—binds—CYP11A1	112	0.051715
+Compound—resembles—Indapamide	3	0.050523
+Compound—binds—KCNJ11	320	0.049943
+Compound—resembles—Trimipramine	54	0.049671
+Compound—binds—KCNQ4	85	0.049418
+Compound—binds—SCN1B	104	0.048555
+Compound—causes—Nystagmus	611	0.0485
+Compound—resembles—Chlorprothixene	89	0.046831
+Compound—binds—OPRM1	838	0.045852
+Compound—resembles—Modafinil	16	0.045299
+Compound—causes—Diplopia	948	0.044986
+Compound—binds—KCNV1	86	0.044824
+Compound—resembles—Desipramine	58	0.044414
+Compound—causes—Somnolence	1577	0.043543
+Compound—binds—GRIK5	140	0.043373
+Compound—causes—Vomiting	1777	0.042753
+Compound—causes—Agitation	1382	0.042186
+Compound—causes—Headache	1802	0.040683
+Compound—resembles—Nepafenac	10	0.040399
+Compound—causes—Nausea	1802	0.040122
+Compound—resembles—Mianserin	35	0.038864
+Compound—resembles—Clomipramine	70	0.038784
+Compound—resembles—Dimetacrine	10	0.03859
+Compound—binds—HRH3	365	0.03849
+Compound—binds—KCNH1	86	0.03848
+Compound—resembles—Benzyl Benzoate	12	0.03829
+Compound—resembles—Protriptyline	15	0.03815
+Compound—resembles—Imipramine	70	0.038111
+Compound—resembles—Methdilazine	10	0.03806
+Compound—binds—CYP4B1	210	0.037604
+Compound—resembles—Methamphetamine	15	0.037441
+Compound—binds—GRIA4	163	0.037188
+Compound—causes—Rash	1610	0.035399
+Compound—causes—Dermatitis	1610	0.034533
+Compound—resembles—Promethazine	46	0.03453
+Compound—binds—DRD2	4030	0.034155
+Compound—causes—Drowsiness	676	0.033995
+Compound—causes—Dizziness	1634	0.033918
+Compound—resembles—Antipyrine	15	0.033869
+Compound—resembles—Nortriptyline	53	0.033637
+Compound—resembles—Alimemazine	10	0.03361
+Compound—causes—Confusional state	1256	0.033554
+Compound—binds—PTGS2	209	0.033513
+Compound—binds—FAAH	14	0.032799
+Compound—causes—Feeling abnormal	1405	0.032485
+Compound—resembles—Phenformin	5	0.031482
+Compound—resembles—Lisdexamfetamine	2	0.0314
+Compound—binds—CYP11B1	233	0.03065
+Compound—binds—KCNA1	564	0.03021
+Compound—binds—SLC22A6	298	0.029865
+Compound—binds—GRIK1	144	0.029797
+Compound—causes—Asthenia	1428	0.02979
+Compound—causes—Hallucination	848	0.029456
+Compound—resembles—Promazine	46	0.029262
+Compound—resembles—Amitriptyline	107	0.028701
+Compound—causes—Fatigue	1190	0.028473
+Compound—causes—Depressed level of consciousness	562	0.02805
+Compound—resembles—Oxaprozin	10	0.027819
+Compound—causes—Aggression	451	0.027731
+Compound—resembles—Amoxapine	79	0.027696
+Compound—resembles—Doxepin	59	0.027586
+Compound—causes—Irritability	647	0.027533
+Compound—causes—Constipation	1177	0.027442
+Compound—resembles—Cyproheptadine	24	0.027136
+Compound—binds—SLC6A2	792	0.026709
+Compound—binds—GRIN2C	358	0.026702
+Compound—binds—HTR2C	3285	0.026641
+Compound—binds—CACNA1D	209	0.026626
+Compound—resembles—Phenindamine	3	0.02661
+Compound—causes—Hyperkinesia	494	0.026435
+Compound—causes—Hypotension	902	0.026389
+Compound—causes—Psychotic disorder	685	0.026295
+Compound—causes—Tremor	952	0.026219
+Compound—binds—CYP1A1	571	0.026126
+Compound—causes—Mental disability	530	0.025539
+Compound—binds—GRIN2D	360	0.025373
+Compound—binds—NTRK2	218	0.025315
+Compound—causes—CNS depression NOS	160	0.025104
+Compound—resembles—Indecainide	3	0.0251
+Compound—binds—HTR6	2728	0.024843
+Compound—causes—Thinking abnormal	422	0.024842
+Compound—causes—Apnoea	221	0.024277
+Compound—binds—HTR1A	3256	0.02426
+Compound—causes—Hypoventilation	92	0.024101
+Compound—causes—Tension	875	0.023757
+Compound—causes—Nervousness	875	0.023714
+Compound—resembles—Cyclobenzaprine	14	0.023665
+Compound—causes—Respiratory depression	172	0.023319
+Compound—causes—Pulmonary function test decreased	172	0.023319
+Compound—resembles—Warfarin	10	0.023298
+Compound—binds—KCNK10	364	0.023284
+Compound—resembles—Mephentermine	2	0.02316
+Compound—binds—RAF1	1345	0.023058
+Compound—causes—Gastrointestinal disorder	875	0.022802
+Compound—resembles—Isocarboxazid	1	0.0228
+Compound—causes—Decreased appetite	1001	0.022652
+Compound—causes—Dysarthria	465	0.022269
+Compound—causes—Coordination abnormal	481	0.022049
+Compound—causes—Body temperature increased	982	0.022003
+Compound—binds—SLC6A3	1010	0.021903
+Compound—binds—SLC22A8	247	0.021783
+Compound—binds—SLC22A1	1179	0.021706
+Compound—binds—UGT2B15	194	0.021627
+Compound—resembles—Phentermine	8	0.021496
+Compound—causes—Leukopenia	774	0.021417
+Compound—binds—UGT2B7	322	0.021142
+Compound—binds—KCNK18	312	0.020997
+Compound—causes—Balance disorder	198	0.020978
+Compound—causes—Paraesthesia	848	0.020663
+Compound—causes—Euphoric mood	466	0.020641
+Compound—binds—KCNQ1	238	0.02037
+Compound—causes—Pruritus	1094	0.020318
+Compound—causes—Anorexia	846	0.020187
+Compound—causes—Dyspepsia	829	0.020178
+Compound—causes—Insomnia	922	0.020159
+Compound—causes—Agranulocytosis	490	0.019825
+Compound—causes—Anxiety	776	0.01973
+Compound—causes—Vertigo	801	0.019675
+Compound—causes—Shock	753	0.019651
+Compound—binds—HTR3A	376	0.019572
+Compound—causes—Respiratory failure	222	0.01941
+Compound—causes—Hypoxia	113	0.019036
+Compound—causes—Anaemia megaloblastic	42	0.018843
+Compound—causes—Convulsion	590	0.017749
+Compound—resembles—Amphetamine	8	0.017645
+Compound—resembles—Dextroamphetamine	5	0.017594
+Compound—causes—Diarrhoea	982	0.017547
+Compound—causes—Hypersensitivity	847	0.017536
+Compound—causes—Suicidal behaviour	91	0.017402
+Compound—causes—Dry mouth	800	0.017374
+Compound—causes—Bradycardia	481	0.017312
+Compound—causes—Vision blurred	646	0.017201
+Compound—causes—Syncope	646	0.016969
+Compound—resembles—Doxapram	6	0.016888
+Compound—causes—Suicidal ideation	220	0.016858
+Compound—causes—Urticaria	922	0.016731
+Compound—causes—Nightmare	189	0.016704
+Compound—resembles—Pirenzepine	5	0.016548
+Compound—causes—Excitement	112	0.016309
+Compound—binds—CYP1B1	261	0.016161
+Compound—causes—Muscle twitching	366	0.016119
+Compound—resembles—Prochlorperazine	17	0.015821
+Compound—causes—Thrombocytopenia	684	0.015746
+Compound—resembles—Chlorcyclizine	3	0.01548
+Compound—binds—SLC6A11	252	0.015372
+Compound—causes—Loss of consciousness	589	0.015229
+Compound—causes—Slurred speech	119	0.015201
+Compound—causes—Delusion	240	0.015191
+Compound—binds—TRPA1	56	0.015083
+Compound—causes—Mental disorder	545	0.01505
+Compound—causes—Nervous system disorder	631	0.014914
+Compound—causes—Amnesia	466	0.01486
+Compound—resembles—Chlorpromazine	65	0.014706
+Compound—resembles—Magnesium salicylate	6	0.014565
+Compound—causes—Hostility	220	0.014516
+Compound—binds—CHRM4	2328	0.014244
+Compound—causes—Anterograde amnesia	36	0.014049
+Compound—causes—Erythema multiforme	494	0.013976
+Compound—causes—Eosinophilia	390	0.013934
+Compound—causes—Gait disturbance	300	0.013822
+Compound—binds—KCNK2	304	0.013758
+Compound—causes—Hiccups	201	0.013531
+Compound—causes—Disinhibition	29	0.013507
+Compound—binds—UGT1A8	67	0.013418
+Compound—causes—Hepatitis	341	0.013385
+Compound—causes—Salivary hypersecretion	266	0.013142
+Compound—binds—KCND3	279	0.013139
+Compound—causes—Lethargy	339	0.012985
+Compound—causes—Weight decreased	416	0.012985
+Compound—causes—Unspecified disorder of skin and subcutaneous tissue	497	0.012979
+Compound—causes—Disturbance in attention	241	0.012972
+Compound—causes—Muscular weakness	512	0.01292
+Compound—causes—Eye disorder	494	0.012865
+Compound—causes—Affect lability	488	0.012767
+Compound—binds—CHRM5	2268	0.012745
+Compound—causes—Tinnitus	492	0.012743
+Compound—causes—Stevens-Johnson syndrome	417	0.012644
+Compound—causes—Systemic lupus erythematosus	117	0.01255
+Compound—causes—Urinary retention	361	0.012503
+Compound—causes—Skin disorder	513	0.012436
+Compound—binds—HRH1	2896	0.012349
+Compound—causes—Delirium	200	0.012294
+Compound—causes—Mood swings	488	0.012287
+Compound—binds—BRAF	522	0.012119
+Compound—causes—Discomfort	593	0.012044
+Compound—causes—Memory impairment	221	0.01182
+Compound—causes—Tachycardia	646	0.011793
+Compound—causes—Osteoarthritis	465	0.011765
+Compound—causes—Lymphadenopathy	308	0.011761
+Compound—causes—Urinary incontinence	325	0.011687
+Compound—binds—SLC22A2	1140	0.011574
+Compound—causes—Depression	478	0.011533
+Compound—binds—SLC12A3	138	0.011517
+Compound—binds—UGT1A6	92	0.011378
+Compound—causes—Liver injury	70	0.011327
+Compound—causes—Amblyopia	217	0.011317
+Compound—causes—Hyperhidrosis	616	0.011266
+Compound—causes—Incontinence	77	0.011221
+Compound—causes—Malnutrition	466	0.011183
+Compound—causes—Chills	449	0.011128
+Compound—binds—ADRA1B	2310	0.011026
+Compound—causes—Hepatic failure	168	0.01099
+Compound—causes—Apathy	199	0.010791
+Compound—causes—Status epilepticus	64	0.010779
+Compound—causes—Flat affect	199	0.010697
+Compound—binds—DRD3	1592	0.010568
+Compound—resembles—Flurbiprofen	17	0.010562
+Compound—causes—Cough	512	0.010555
+Compound—causes—Muscle spasms	497	0.010537
+Compound—binds—HTR1B	1492	0.010424
+Compound—causes—Hypoaesthesia	417	0.010346
+Compound—causes—Visual impairment	353	0.010339
+Compound—causes—Malaise	491	0.010322
+Compound—resembles—Ethopropazine	11	0.010315
+Compound—binds—HTR2B	1077	0.010294
+Compound—causes—Ill-defined disorder	477	0.010293
+Compound—causes—Muscle relaxant therapy	167	0.01024
+Compound—causes—Palpitations	533	0.01022
+Compound—causes—Photosensitivity reaction	348	0.01021
+Compound—causes—Weight increased	391	0.010138
+Compound—causes—Infection	562	0.010044
+Compound—causes—Blood disorder	108	0.010012
+Compound—causes—Toxic epidermal necrolysis	253	0.01001
+Compound—causes—Dyskinesia	282	0.009971
+Compound—causes—Increased appetite	289	0.0098761
+Compound—binds—ADRA1A	2298	0.0098648
+Compound—binds—SLC22A5	251	0.0098401
+Compound—causes—Musculoskeletal discomfort	648	0.0098315
+Compound—causes—Digestion impaired	56	0.0097505
+Compound—causes—Laryngospasm	73	0.0097264
+Compound—causes—Orthostatic hypotension	280	0.0097054
+Compound—causes—Hypotonia	167	0.0096886
+Compound—binds—TACR1	427	0.009688
+Compound—palliates—rheumatoid arthritis	1	0.00965
+Compound—causes—Polyuria	260	0.0096149
+Compound—binds—HTR1D	1119	0.009564
+Compound—causes—Drug withdrawal syndrome	91	0.009532
+Compound—binds—DRD1	1098	0.0095242
+Compound—causes—Withdrawal symptom	71	0.0094965
+Compound—causes—Urine output increased	228	0.0094834
+Compound—causes—Dysgeusia	463	0.0094439
+Compound—binds—ABCB11	263	0.0093538
+Compound—binds—HRH4	1348	0.0093529
+Compound—causes—Pollakiuria	310	0.0092915
+Compound—causes—Coma	210	0.0092744
+Compound—causes—Angioedema	302	0.0092298
+Compound—binds—GPT	76	0.0092137
+Compound—causes—Suicide attempt	151	0.0091706
+Compound—causes—Disorientation	209	0.0091698
+Compound—causes—Myoclonus	105	0.0091428
+Compound—causes—Connective tissue disorder	337	0.0091316
+Compound—causes—Myalgia	578	0.009131
+Compound—binds—GLRA1	220	0.009128
+Compound—causes—Anger	84	0.0091246
+Compound—binds—SLC12A1	77	0.0091226
+Compound—binds—KCNH2	512	0.008942
+Compound—causes—Abdominal pain	572	0.0089373
+Compound—resembles—Phenelzine	5	0.0088976
+Compound—causes—Chest pain	497	0.0088765
+Compound—causes—Anaemia	460	0.0087897
+Compound—binds—LIMK1	201	0.0087595
+Compound—binds—GPT2	77	0.0087532
+Compound—causes—Hepatocellular injury	75	0.0086817
+Compound—causes—Nephrolithiasis	90	0.0086264
+Compound—causes—Speech disorder	241	0.008603
+Compound—causes—Metabolic acidosis	36	0.0085787
+Compound—causes—Extrapyramidal disorder	144	0.0084955
+Compound—binds—PSMD2	382	0.0084441
+Compound—binds—HRH2	1008	0.0084283
+Compound—causes—Upper airway obstruction	3	0.008428
+Compound—causes—Liver function test abnormal	299	0.0083719
+Compound—binds—ATP5D	300	0.0083591
+Compound—causes—Personality disorder	131	0.0082987
+Compound—causes—Dysuria	325	0.0082903
+Compound—binds—ATP2C1	232	0.0082474
+Compound—causes—Stupor	210	0.00824
+Compound—causes—Pneumonia	385	0.0081936
+Compound—causes—Dyspnoea	556	0.0081383
+Compound—binds—DRD4	1203	0.0081006
+Compound—causes—Epistaxis	325	0.0080973
+Compound—resembles—Diphenhydramine	15	0.0080832
+Compound—binds—SCN3B	154	0.0080804
+Compound—causes—Pain	467	0.0080553
+Compound—causes—Urinary tract infection	337	0.0080475
+Compound—binds—KCNK1	87	0.0080153
+Compound—binds—UGT1A9	221	0.0079335
+Compound—causes—Hyperventilation	121	0.0078887
+Compound—causes—Aplastic anaemia	104	0.0078794
+Compound—causes—Erectile dysfunction	271	0.0078744
+Compound—binds—KCNK6	79	0.0078564
+Compound—causes—Dysphagia	364	0.0078463
+Compound—binds—CACNB3	317	0.0077621
+Compound—causes—Photophobia	210	0.0077522
+Compound—causes—Back pain	393	0.0077168
+Compound—causes—Pancytopenia	253	0.0077117
+Compound—causes—Anaphylactic shock	352	0.0077022
+Compound—causes—Hyperreflexia	111	0.0076774
+Compound—causes—Immune system disorder	299	0.0076323
+Compound—causes—Hepatobiliary disease	241	0.0076151
+Compound—resembles—Salsalate	4	0.0076102
+Compound—causes—Rhinitis	390	0.0075561
+Compound—causes—Hangover	32	0.0075548
+Compound—binds—SCN2B	110	0.0075387
+Compound—causes—Arthralgia	477	0.0075138
+Compound—causes—Gastrointestinal pain	505	0.0074651
+Compound—causes—Mediastinal disorder	260	0.0074648
+Compound—causes—Conversion disorder	25	0.0074384
+Compound—causes—Sweating	270	0.0074338
+Compound—binds—ALDH5A1	123	0.0074236
+Compound—causes—Hypertension	397	0.0073542
+Compound—causes—Asthma	286	0.0073505
+Compound—causes—Lupus erythematosus	72	0.0073112
+Compound—causes—Hyporeflexia	118	0.0072817
+Compound—causes—Alopecia	336	0.0072404
+Compound—causes—Haematuria	240	0.007164
+Compound—causes—Bronchitis	309	0.0071639
+Compound—causes—Cardiac arrest	221	0.0071063
+Compound—binds—PSMD1	371	0.0070923
+Compound—causes—Mania	145	0.0070613
+Compound—binds—KCNC3	91	0.0069679
+Compound—binds—SCN4B	140	0.0069
+Compound—causes—Disturbance in sexual arousal	225	0.0068789
+Compound—binds—ABCC3	291	0.0068362
+Compound—causes—Accidental injury	170	0.0068055
+Compound—causes—Dermatitis exfoliative	91	0.006782
+Compound—binds—SIK1	45	0.0066571
+Compound—causes—Encephalopathy	141	0.0066552
+Compound—binds—CACNB1	226	0.0066002
+Compound—causes—Depersonalisation	153	0.0065924
+Compound—causes—Unsteadiness	24	0.0065849
+Compound—causes—Abnormal behaviour	64	0.0065661
+Compound—causes—Gingival bleeding	99	0.0065654
+Compound—causes—Neurosis	84	0.0065584
+Compound—causes—Sleep disorder	161	0.0065225
+Compound—binds—ADRA2B	1218	0.0065054
+Compound—causes—Renal failure	253	0.0064535
+Compound—binds—PSMA1	367	0.006446
+Compound—causes—Pharyngitis	351	0.0063877
+Compound—causes—Hypokalaemia	171	0.0063419
+Compound—binds—CTSG	54	0.0063134
+Compound—causes—Influenza	232	0.0063042
+Compound—causes—Body temperature decreased	91	0.0062412
+Compound—causes—Hypothermia	91	0.0062412
+Compound—causes—Sinusitis	331	0.0062373
+Compound—causes—Osteomalacia	20	0.0061768
+Compound—causes—Hypokinesia	160	0.0061715
+Compound—binds—PSMB2	372	0.0061571
+Compound—causes—Sleep disturbance	56	0.0061556
+Compound—causes—Fracture	104	0.0061468
+Compound—causes—Multiple fractures	104	0.0061468
+Compound—causes—Visual disturbance	105	0.0061267
+Compound—causes—Ear pain	249	0.0060692
+Compound—causes—Oedema	354	0.0060671
+Compound—binds—CYP3A43	240	0.0060605
+Compound—binds—SLCO1B1	459	0.0060402
+Compound—causes—Hypertonia	200	0.0060401
+Compound—causes—Tingling sensation	49	0.0060289
+Compound—binds—GLRB	126	0.0060273
+Compound—causes—Hyponatraemia	180	0.006026
+Compound—causes—Mydriasis	119	0.0060255
+Compound—resembles—Phenprocoumon	3	0.0060136
+Compound—causes—Injury	209	0.0060136
+Compound—causes—Cardiac disorder	240	0.0059852
+Compound—binds—HTR1E	738	0.0059785
+Compound—causes—Cerebration impaired	92	0.0059592
+Compound—binds—KCNN4	76	0.0059508
+Compound—causes—Pancreatitis	199	0.0059377
+Compound—causes—Atrioventricular block	137	0.0058653
+Compound—causes—Pneumonia aspiration	40	0.0058288
+Compound—binds—PSMB1	371	0.0057931
+Compound—causes—Libido decreased	184	0.0057472
+Compound—binds—KCNJ8	113	0.0057267
+Compound—binds—KCNA2	94	0.0057009
+Compound—binds—HTR5A	367	0.0057007
+Compound—causes—Hyperglycaemia	211	0.0056209
+Compound—causes—Arrhythmia	157	0.0055639
+Compound—causes—Dehydration	210	0.0055258
+Compound—binds—ADORA1	377	0.0054776
+Compound—causes—Non-Hodgkin's lymphoma	35	0.0054287
+Compound—causes—Lymphoma	35	0.0054287
+Compound—binds—KCNC2	169	0.0054187
+Compound—binds—UGT1A1	94	0.0054091
+Compound—causes—Purpura	161	0.0053964
+Compound—resembles—Antazoline	1	0.00539
+Compound—binds—ADRA1D	1143	0.0053553
+Compound—causes—Rage	12	0.005336
+Compound—causes—Dermatitis bullous	162	0.0053351
+Compound—binds—PSMB5	368	0.0053261
+Compound—causes—Jaundice	135	0.0053146
+Compound—causes—Infestation NOS	161	0.0053029
+Compound—causes—Infestation	161	0.0053029
+Compound—binds—GRIA3	196	0.0052545
+Compound—causes—Neuropathy peripheral	212	0.0052491
+Compound—causes—Hepatic insufficiency	4	0.005248
+Compound—causes—Conjunctivitis	287	0.0052464
+Compound—causes—Aggressive reaction	43	0.0052357
+Compound—causes—Alertness decreased	8	0.005199
+Compound—causes—Albuminuria	88	0.005186
+Compound—binds—KCNH3	92	0.0051419
+Compound—causes—Myasthenia	104	0.0051219
+Compound—causes—Appetite absent	24	0.0050422
+Compound—causes—Nasopharyngitis	136	0.0050027
+Compound—binds—KCNA4	92	0.0049829
+Compound—causes—Cardiac failure	177	0.0049741
+Compound—binds—KCNA6	89	0.0049399
+Compound—causes—Face oedema	217	0.0049299
+Compound—causes—Photosensitivity	80	0.0049248
+Compound—binds—SLC31A1	71	0.0049224
+Compound—binds—GRIK4	139	0.0048962
+Compound—causes—Folate deficiency	12	0.004893
+Compound—binds—PSMB8	383	0.0048798
+Compound—causes—Injection site reaction	70	0.0048552
+Compound—binds—KCNA3	119	0.0048528
+Compound—causes—Emotional distress	24	0.0048451
+Compound—causes—Thirst	181	0.0048382
+Compound—causes—Calculus of kidney	52	0.0048113
+Compound—causes—Nocturia	105	0.0047923
+Compound—binds—OPRK1	824	0.0047791
+Compound—causes—Rash pustular	104	0.0047656
+Compound—binds—GRIK3	143	0.0047612
+Compound—causes—Oedema peripheral	254	0.0047474
+Compound—causes—Rash maculo-papular	151	0.0047422
+Compound—binds—KCNF1	93	0.0047391
+Compound—binds—KCNE1	3	0.004738
+Compound—causes—Accommodation disorder	78	0.0047346
+Compound—causes—Tingling of extremity	10	0.004697
+Compound—binds—KCND1	90	0.0046929
+Compound—binds—KCNH8	91	0.0046739
+Compound—causes—Thrombophlebitis	170	0.0046738
+Compound—causes—Flatulence	288	0.0046735
+Compound—causes—Clonic movements	1	0.00467
+Compound—causes—Cough increased	117	0.0046663
+Compound—causes—Hysteria	21	0.0046593
+Compound—causes—Petechiae	84	0.0046495
+Compound—causes—Gynaecomastia	119	0.0046444
+Compound—causes—Vaginal haemorrhage	78	0.0046214
+Compound—causes—Vascular purpura	127	0.0045898
+Compound—causes—Emotional disorder	9	0.004586
+Compound—causes—Dependence	42	0.0045474
+Compound—causes—Choreoathetosis	35	0.004528
+Compound—causes—Stomatitis	207	0.0045243
+Compound—causes—Sensory loss	61	0.004524
+Compound—causes—Neutropenia	130	0.0045074
+Compound—causes—Cerebellar syndrome	42	0.0044821
+Compound—causes—Urinary tract disorder	198	0.0044768
+Compound—binds—KCNS1	90	0.0044529
+Compound—causes—Urethral disorder	198	0.0044436
+Compound—causes—Ecchymosis	135	0.0044121
+Compound—causes—Cramps of lower extremities	170	0.0044102
+Compound—causes—Tongue oedema	66	0.0043818
+Compound—causes—Scotoma	131	0.0043797
+Compound—binds—KCNA5	91	0.0043236
+Compound—causes—Tongue disorder	91	0.004323
+Compound—causes—Hypomania	37	0.004293
+Compound—causes—Airway obstruction NOS	8	0.004284
+Compound—binds—KCNB2	87	0.0042509
+Compound—binds—KCNG4	87	0.0042509
+Compound—binds—KCNH4	87	0.0042509
+Compound—binds—CACNB2	290	0.0042019
+Compound—binds—CALM1	929	0.0041909
+Compound—binds—KCNH5	87	0.0041599
+Compound—causes—Leukocytosis	105	0.0041593
+Compound—causes—Ventricular extrasystoles	78	0.0041352
+Compound—causes—Withdrawal seizures	9	0.004134
+Compound—causes—Drug withdrawal convulsions	9	0.004134
+Compound—causes—Gingival hyperplasia	42	0.0041158
+Compound—causes—Paranoia	78	0.0041088
+Compound—binds—KCNS2	87	0.0040899
+Compound—causes—Emotional disturbance NOS	4	0.004089
+Compound—binds—ALPL	51	0.0040506
+Compound—causes—Dysmenorrhoea	136	0.0040468
+Compound—binds—KCNG1	88	0.0040409
+Compound—causes—Paralysis	96	0.0040102
+Compound—causes—Paranoid reaction	49	0.00401
+Compound—binds—ABCC1	331	0.004005
+Compound—binds—SLC22A3	266	0.003996
+Compound—binds—KCNV2	87	0.0039919
+Compound—binds—ADRB1	714	0.0039795
+Compound—binds—ADRA2C	992	0.0039739
+Compound—binds—KCNG3	87	0.0039549
+Compound—causes—Myopia transient	1	0.00393
+Compound—binds—HDAC2	312	0.0039119
+Compound—causes—Flushing	181	0.0039114
+Compound—binds—CALM2	928	0.0038953
+Compound—causes—Hirsutism	70	0.003854
+Compound—causes—Contusion	64	0.0038499
+Compound—binds—SMPD1	109	0.0038469
+Compound—causes—Bladder pain	126	0.0038191
+Compound—causes—Mouth ulceration	144	0.0038074
+Compound—causes—Libido increased	77	0.003794
+Compound—causes—Abdominal pain upper	85	0.0037696
+Compound—causes—Galactorrhoea	56	0.0037642
+Compound—causes—Breast disorder	129	0.003764
+Compound—causes—Migraine	162	0.0037538
+Compound—causes—Hyperacusis	45	0.0037439
+Compound—causes—Gastritis	190	0.0037395
+Compound—causes—Erythema	145	0.0037329
+Compound—causes—Haemorrhage	161	0.0037315
+Compound—causes—Injection site pain	65	0.0037252
+Compound—causes—Manic psychosis	40	0.0037017
+Compound—causes—Skin discolouration	130	0.0036984
+Compound—causes—Vaginal inflammation	120	0.0036938
+Compound—binds—KCNQ5	89	0.0036746
+Compound—causes—Abnormal vision	137	0.0036646
+Compound—causes—Hyperkalaemia	37	0.0036594
+Compound—binds—KCNS3	167	0.0036576
+Compound—causes—Meningitis aseptic	4	0.0036436
+Compound—binds—OGDH	81	0.0036329
+Compound—causes—Shivering	7	0.003608
+Compound—binds—CYP11B2	103	0.0035988
+Compound—binds—BCAT1	77	0.0035954
+Compound—causes—Angiopathy	140	0.00357
+Compound—causes—Obstructive airways disorder	10	0.003567
+Compound—binds—KCNG2	164	0.0035667
+Compound—causes—Abnormal dreams	106	0.0035667
+Compound—binds—SLCO1B3	144	0.0035616
+Compound—causes—Parosmia	72	0.0035615
+Compound—causes—Drug eruption	54	0.0035009
+Compound—binds—KCNA10	84	0.0034989
+Compound—causes—Depressed mood	43	0.0034972
+Compound—causes—Otitis media	97	0.0034928
+Compound—causes—Vaginal infection	120	0.0034878
+Compound—causes—Deafness	151	0.0034792
+Compound—causes—Grand mal convulsion	42	0.0034551
+Compound—binds—ND1	210	0.0034535
+Compound—causes—Epilepsy	17	0.0034478
+Compound—causes—Eye pain	137	0.0034401
+Compound—causes—Haemoglobin	136	0.0034369
+Compound—causes—Movement disorder	43	0.0034284
+Compound—causes—Completed suicide	77	0.0034223
+Compound—causes—Personality change	4	0.003353
+Compound—causes—Atelectasis	20	0.0033434
+Compound—causes—Myopia	10	0.00332
+Compound—causes—Musculoskeletal stiffness	85	0.0032841
+Compound—binds—CA10	13	0.003264
+Compound—causes—Tooth disorder	81	0.0032405
+Compound—causes—Rectal haemorrhage	91	0.0032301
+Compound—causes—Melaena	78	0.0032004
+Compound—causes—Feeling drunk	25	0.003186
+Compound—binds—KCNA7	83	0.0031819
+Compound—causes—Enuresis	16	0.0031463
+Compound—causes—Hepatic function abnormal	65	0.0031451
+Compound—binds—KCNH6	90	0.0031439
+Compound—causes—Oliguria	79	0.0031415
+Compound—causes—Paraesthesia oral	56	0.0031367
+Compound—binds—SLC22A4	240	0.0030721
+Compound—causes—Rash morbilliform	1	0.00307
+Compound—causes—Suicide	60	0.0030528
+Compound—binds—SLCO2A1	69	0.0030396
+Compound—resembles—Benzphetamine	3	0.0030214
+Compound—causes—Vesiculobullous rash	54	0.0030201
+Compound—causes—Forgetfulness	7	0.0030019
+Compound—causes—Ear infection	26	0.0029955
+Compound—causes—Akathisia	32	0.0029908
+Compound—causes—Cognitive disorder	48	0.0029902
+Compound—causes—Block heart	41	0.0029444
+Compound—causes—Atrial fibrillation	78	0.0029381
+Compound—causes—Neuritis	44	0.0029345
+Compound—causes—Oesophagitis	105	0.0029166
+Compound—binds—HDAC9	202	0.0029054
+Compound—causes—Anaemia macrocytic	16	0.002889
+Compound—causes—Ventricular bigeminy	10	0.002889
+Compound—causes—Developmental delay	21	0.0028871
+Compound—causes—Congenital anomaly	21	0.0028871
+Compound—causes—Menorrhagia	77	0.0028731
+Compound—binds—CACNA1C	219	0.0028381
+Compound—causes—Cystitis noninfective	90	0.0028335
+Compound—causes—Bone disorder	40	0.0028291
+Compound—causes—Cramp muscle	76	0.0028174
+Compound—causes—Blood alkaline phosphatase increased	90	0.0028149
+Compound—causes—Withdrawal syndrome	18	0.0028071
+Compound—causes—Cystitis	90	0.002801
+Compound—causes—Bundle branch block	33	0.0027977
+Compound—causes—Anaphylactoid reaction	71	0.0027863
+Compound—causes—Coagulopathy	71	0.0027587
+Compound—binds—GSTP1	101	0.0027543
+Compound—causes—Atrial arrhythmia	13	0.0027504
+Compound—causes—Ileus	29	0.0027423
+Compound—binds—SLCO1C1	74	0.0027302
+Compound—causes—Pulmonary embolism	89	0.0027263
+Compound—causes—Urine abnormality	50	0.0027241
+Compound—binds—CALM3	882	0.0027202
+Compound—causes—Aphasia	70	0.0027049
+Compound—causes—Hemiplegia	42	0.0027009
+Compound—causes—Numbness	28	0.0026931
+Compound—causes—Ulcerative stomatitis	45	0.0026832
+Compound—causes—Gingivitis	77	0.0026373
+Compound—binds—DRD5	337	0.0026259
+Compound—causes—Muscle spasticity	9	0.002603
+Compound—causes—Joint swelling	40	0.0025842
+Compound—binds—KCNH7	107	0.0025839
+Compound—causes—Glycosuria	32	0.0025671
+Compound—causes—Retrograde amnesia	3	0.002549
+Compound—causes—Pneumothorax	24	0.0025362
+Compound—causes—Aspartate aminotransferase increased	96	0.002523
+Compound—causes—Hyperaesthesia	77	0.0025135
+Compound—causes—Traumatic liver injury	6	0.0025023
+Compound—causes—Distress	6	0.002484
+Compound—causes—Eczema	98	0.0024756
+Compound—causes—Nephrosis	12	0.0024527
+Compound—causes—Faecal incontinence	54	0.0024498
+Compound—causes—Phosphatase alkaline increased	65	0.0024088
+Compound—causes—Ventricular tachycardia	34	0.0024046
+Compound—causes—Behavior disorder	6	0.002404
+Compound—causes—Myasthenic syndrome	2	0.002393
+Compound—causes—Hypercapnia	2	0.002392
+Compound—causes—Carbon dioxide increased	2	0.002392
+Compound—causes—Viral infection	81	0.00239
+Compound—causes—Atrial flutter	24	0.0023843
+Compound—causes—Hypophosphataemia	35	0.0023821
+Compound—causes—Ageusia	77	0.0023777
+Compound—causes—Bronchospasm	66	0.0023619
+Compound—binds—CYP19A1	124	0.0023537
+Compound—causes—Vasculitis	45	0.002349
+Compound—causes—Rhabdomyolysis	55	0.0023487
+Compound—causes—Inappropriate antidiuretic hormone secretion	24	0.0023272
+Compound—causes—Abdominal discomfort	71	0.0023175
+Compound—resembles—Desflurane	20	0.0022986
+Compound—causes—Urine analysis abnormal	48	0.0022909
+Compound—resembles—Isoflurane	20	0.0022888
+Compound—resembles—Zopiclone	5	0.002259
+Compound—causes—Circumoral paresthesia	30	0.0022459
+Compound—causes—Dermatitis contact	55	0.0022157
+Compound—causes—Snoring	4	0.0022051
+Compound—causes—Haematemesis	56	0.0022
+Compound—causes—Disorder sight	30	0.0021617
+Compound—causes—Neck stiffness	29	0.0021547
+Compound—causes—Thrombocytopenic purpura	15	0.0021481
+Compound—causes—Haemolytic anaemia	24	0.002127
+Compound—causes—Acne	50	0.0021234
+Compound—causes—Acute coronary syndrome	81	0.0021101
+Compound—causes—Necrosis	24	0.002108
+Compound—causes—Myocardial infarction	81	0.0020983
+Compound—causes—Lightheadedness	42	0.0020957
+Compound—causes—Renal pain	45	0.0020901
+Compound—causes—Arthropathy	73	0.0020863
+Compound—binds—NEK11	3	0.002081
+Compound—resembles—Eszopiclone	4	0.002079
+Compound—binds—CES1	21	0.0020753
+Compound—causes—Metabolic disorder	6	0.002075
+Compound—causes—Pulmonary oedema	51	0.0020696
+Compound—causes—Hepatic necrosis	7	0.0020604
+Compound—causes—Menstrual disorder	64	0.002059
+Compound—causes—Increased bronchial secretion	16	0.0020439
+Compound—causes—Brain oedema	20	0.002026
+Compound—causes—Skin mass	24	0.0020129
+Compound—causes—Alcohol intoxication	2	0.002001
+Compound—causes—Cerebral haemorrhage	28	0.0019945
+Compound—causes—Panic reaction	15	0.0019857
+Compound—causes—Nuchal rigidity	29	0.0019779
+Compound—binds—CACNA1S	130	0.0019745
+Compound—causes—Gastric ulcer	32	0.0019718
+Compound—binds—RALBP1	121	0.0019694
+Compound—causes—Arrhythmia supraventricular	13	0.0019684
+Compound—resembles—Methyprylon	4	0.001952
+Compound—causes—Neuralgia	40	0.001951
+Compound—causes—Gastroenteritis	78	0.0019414
+Compound—causes—Clonus	1	0.00194
+Compound—causes—Sweating increased	85	0.0019327
+Compound—causes—Tubulointerstitial nephritis	21	0.0019311
+Compound—causes—Panic attack	24	0.001901
+Compound—causes—Hypocalcaemia	42	0.0019002
+Compound—causes—Polydipsia	12	0.0018849
+Compound—causes—Pharyngolaryngeal pain	17	0.0018829
+Compound—causes—Respiratory insufficiency	12	0.00188
+Compound—causes—Haemoptysis	45	0.0018793
+Compound—causes—Thyroid function abnormal	6	0.001872
+Compound—causes—Cerebrovascular accident	56	0.0018713
+Compound—causes—Laryngeal pain	17	0.0018661
+Compound—causes—Bone marrow depression	32	0.0018554
+Compound—resembles—Paramethadione	2	0.001832
+Compound—binds—CA11	12	0.0018313
+Compound—causes—Upper respiratory tract infection	89	0.0018295
+Compound—causes—Acidosis	35	0.0018288
+Compound—causes—Otitis externa	21	0.0018264
+Compound—causes—Neuroleptic malignant syndrome	16	0.0018207
+Compound—causes—Glossitis	80	0.0018196
+Compound—causes—Apraxia	12	0.00181
+Compound—causes—Talkativeness	2	0.001809
+Compound—causes—Head injury	2	0.0018
+Compound—causes—Hearing impaired	55	0.0017983
+Compound—causes—Hyperpyrexia	10	0.0017976
+Compound—causes—Tachypnoea	7	0.001787
+Compound—causes—Amenorrhoea	60	0.0017666
+Compound—causes—Hypothyroidism	45	0.0017615
+Compound—binds—CACNA1F	27	0.0017548
+Compound—causes—Lymphocytosis	25	0.001737
+Compound—binds—ADRB2	355	0.0017295
+Compound—causes—Subdural haematoma	12	0.0017071
+Compound—causes—Breast enlargement	33	0.0017069
+Compound—causes—Ventricular fibrillation	25	0.0016991
+Compound—causes—Repetitive speech	1	0.00169
+Compound—binds—AOC3	7	0.001689
+Compound—causes—Lassitude	6	0.0016833
+Compound—causes—Pseudolymphoma	16	0.0016826
+Compound—causes—Abnormal ejaculation	15	0.0016803
+Compound—causes—Nasal congestion	41	0.0016799
+Compound—causes—Glaucoma	36	0.0016483
+Compound—causes—Hypoglycaemia	63	0.0016459
+Compound—resembles—Enflurane	8	0.0016439
+Compound—binds—NTRK1	276	0.0016362
+Compound—causes—Extensor plantar response	6	0.001633
+Compound—causes—Salivation	8	0.0016306
+Compound—causes—Hypomagnesaemia	13	0.0016289
+Compound—causes—Ejaculation disorder	24	0.0016226
+Compound—causes—Nephritis interstitial	15	0.0016189
+Compound—causes—Loss of libido	25	0.0015892
+Compound—causes—Extrasystoles	22	0.0015888
+Compound—binds—ACADSB	70	0.0015684
+Compound—causes—Drug interaction	56	0.0015624
+Compound—causes—Dry skin	70	0.0015567
+Compound—causes—Altered visual depth perception	4	0.001553
+Compound—causes—Renal failure acute	44	0.001545
+Compound—causes—Dependence physiological	12	0.0015439
+Compound—causes—Toothache	31	0.0015424
+Compound—causes—Meningitis	20	0.0015396
+Compound—causes—Excitability	6	0.001535
+Compound—binds—AOX1	105	0.0015346
+Compound—causes—Pain in extremity	56	0.0015346
+Compound—causes—Drug intolerance	3	0.001534
+Compound—causes—Alanine aminotransferase increased	60	0.0015254
+Compound—causes—Vasodilation procedure	45	0.0015244
+Compound—causes—Vasodilation	45	0.0015244
+Compound—causes—Drug abuse	16	0.0015088
+Compound—causes—Hypoaesthesia oral	9	0.0015071
+Compound—causes—Iron deficiency anaemia	6	0.0014987
+Compound—causes—Micturition urgency	35	0.0014943
+Compound—causes—Colitis	50	0.0014865
+Compound—binds—CA8	7	0.001475
+Compound—causes—Epigastric discomfort	15	0.0014591
+Compound—causes—Drooling	9	0.0014589
+Compound—causes—Ear disorder	25	0.001458
+Compound—causes—Sedation	4	0.001453
+Compound—causes—Muscle rigidity	7	0.0014398
+Compound—binds—SLC16A1	158	0.0014304
+Compound—causes—Creatinine increased	29	0.0014292
+Compound—causes—Cholelithiasis	32	0.0014263
+Compound—causes—Phlebitis	55	0.0014162
+Compound—causes—Cyanosis	30	0.0014135
+Compound—causes—Upset stomach	16	0.0014027
+Compound—causes—Gout	33	0.0014027
+Compound—causes—Electroencephalogram abnormal	10	0.001394
+Compound—causes—Arthritis	56	0.0013873
+Compound—causes—Action tremor	6	0.001385
+Compound—causes—Yawning	20	0.0013844
+Compound—causes—Neck pain	45	0.0013754
+Compound—causes—Illusion	5	0.001367
+Compound—causes—Atrioventricular block complete	8	0.0013615
+Compound—causes—Atrioventricular block first degree	6	0.0013589
+Compound—causes—Thyroid function test abnormal	6	0.001353
+Compound—resembles—Methazolamide	3	0.001351
+Compound—causes—Myopathy	24	0.0013434
+Compound—causes—Hepatic enzyme increased	32	0.0013305
+Compound—binds—CALY	9	0.001328
+Compound—causes—Alcohol poisoning	2	0.001328
+Compound—causes—Blood creatinine increased	41	0.0013203
+Compound—causes—Nodal arrhythmia	3	0.001315
+Compound—resembles—Methohexital	24	0.0013142
+Compound—causes—Chest discomfort	18	0.0013106
+Compound—causes—Gastrointestinal haemorrhage	51	0.0013056
+Compound—causes—Sputum increased	9	0.0013041
+Compound—binds—CYP4A11	116	0.0012947
+Compound—causes—Sepsis	49	0.0012909
+Compound—causes—Sudden death	16	0.0012892
+Compound—causes—Osteoporosis	36	0.001287
+Compound—causes—Electrolyte imbalance	4	0.001286
+Compound—causes—Peripheral embolism	4	0.001284
+Compound—causes—Anorgasmia	9	0.0012821
+Compound—causes—Hypersomnia	8	0.0012804
+Compound—causes—Proctalgia	20	0.0012764
+Compound—causes—Mastitis	12	0.001276
+Compound—causes—Altered state of consciousness	18	0.0012671
+Compound—causes—Cardiac failure congestive	45	0.0012639
+Compound—causes—Gamma-glutamyltransferase increased	35	0.0012546
+Compound—causes—Enteritis	15	0.0012493
+Compound—causes—Rectal tenesmus	16	0.0012485
+Compound—causes—Intracranial pressure increased	13	0.0012463
+Compound—causes—Sexual dysfunction	28	0.0012421
+Compound—causes—Ketosis	6	0.001229
+Compound—causes—Hepatotoxicity	10	0.0012263
+Compound—causes—Electrocardiogram abnormal	22	0.0012189
+Compound—causes—Lactation female	6	0.001214
+Compound—causes—Swelling	48	0.0012023
+Compound—causes—Neuropathy	46	0.0011917
+Compound—causes—Oversedation	1	0.00119
+Compound—causes—Derealisation	4	0.001187
+Compound—causes—Extrapyramidal symptoms	10	0.0011832
+Compound—binds—ORM1	18	0.0011784
+Compound—causes—Menstruation irregular	12	0.0011754
+Compound—causes—Iritis	20	0.001174
+Compound—causes—Dysphoria	12	0.0011696
+Compound—causes—Nephritis	6	0.001166
+Compound—causes—Endocrine disorder	36	0.0011603
+Compound—causes—Seborrhoeic dermatitis	35	0.0011577
+Compound—causes—Aura	6	0.001152
+Compound—causes—Hypochromic anaemia	16	0.0011518
+Compound—causes—Nephrotic syndrome	12	0.0011517
+Compound—causes—Eructation	45	0.0011517
+Compound—resembles—Bumetanide	5	0.0011509
+Compound—causes—Paralysis flaccid	1	0.00115
+Compound—causes—Jaundice cholestatic	12	0.0011476
+Compound—causes—Breast pain	45	0.0011473
+Compound—causes—Bradyphrenia	9	0.0011372
+Compound—causes—Pallor	33	0.0011274
+Compound—causes—Ligament sprain	9	0.0011253
+Compound—binds—FMO3	108	0.0011232
+Compound—causes—Visual field constriction	1	0.00112
+Compound—causes—Stiffness	7	0.001114
+Compound—causes—Miosis	16	0.0011088
+Compound—causes—Eye movement disorder	6	0.001082
+Compound—causes—Blood urea increased	25	0.0010778
+Compound—binds—H1F0	47	0.0010778
+Compound—causes—Breath odour	18	0.0010761
+Compound—causes—Oscillopsia	2	0.001076
+Compound—causes—Eruption	4	0.0010669
+Compound—causes—Electrocardiogram QRS complex	5	0.001065
+Compound—causes—QRS complex	5	0.001065
+Compound—causes—Skin nodule	9	0.0010625
+Compound—causes—Diabetic neuropathy	6	0.001057
+Compound—causes—Hyperlipidaemia	29	0.0010554
+Compound—causes—Major depression	8	0.0010551
+Compound—causes—Ankle edema	2	0.001055
+Compound—causes—Congenital genital malformation	1	0.00105
+Compound—causes—Metrorrhagia	28	0.0010467
+Compound—causes—Nephropathy	16	0.0010431
+Compound—causes—Drug level increased	6	0.001043
+Compound—causes—Influenza like illness	28	0.0010399
+Compound—causes—Goitre	15	0.0010317
+Compound—resembles—Halothane	12	0.0010273
+Compound—causes—Blood prolactin increased	6	0.0010256
+Compound—binds—ABCC4	116	0.0010223
+Compound—causes—Hyperchloraemia	2	0.001018
+Compound—causes—Pancreatitis acute	15	0.0010167
+Compound—causes—Encephalitis	4	0.001015
+Compound—causes—Hypernatraemia	15	0.0010133
+Compound—causes—Blood uric acid increased	16	0.0009999
+Compound—causes—Paresis	15	0.0009997
+Compound—causes—Hepatosplenomegaly	2	0.000999
+Compound—causes—Partial hearing loss	5	0.000987
+Compound—causes—Hot flush	40	0.00098291
+Compound—resembles—Ropivacaine	7	0.0009828
+Compound—causes—Furunculosis	18	0.0009762
+Compound—causes—Menopausal symptoms	40	0.00097443
+Compound—causes—Blister	20	0.0009631
+Compound—causes—Tongue coated	3	0.00096
+Compound—causes—Rigors	21	0.0009558
+Compound—causes—Cellulitis	27	0.0009514
+Compound—causes—Dry eye	40	0.00094831
+Compound—causes—Rhinorrhoea	24	0.0009474
+Compound—causes—Hernia	16	0.0009431
+Compound—causes—Bursitis	18	0.0009324
+Compound—binds—ABCC10	45	0.00091783
+Compound—resembles—Anisotropine Methylbromide	3	0.000913
+Compound—causes—Psychiatric symptom	2	0.000912
+Compound—causes—White blood cell count decreased	16	0.0009107
+Compound—causes—Ileus paralytic	9	0.0009102
+Compound—resembles—Pethidine	28	0.00090913
+Compound—causes—Laryngitis	30	0.0009035
+Compound—causes—Raised liver function tests	12	0.0009011
+Compound—causes—Memory loss	5	0.000899
+Compound—causes—Vestibular disorder	8	0.0008922
+Compound—causes—Haemorrhoids	24	0.0008887
+Compound—causes—Nodal tachycardia	1	0.000888
+Compound—causes—Psoriasis	21	0.0008871
+Compound—causes—Reflexes abnormal	2	0.000885
+Compound—causes—Fluid retention	49	0.00088419
+Compound—causes—Drug reaction with eosinophilia and systemic symptoms	6	0.000882
+Compound—causes—Conduction disorder	4	0.000881
+Compound—causes—Dysphonia	35	0.0008809
+Compound—causes—Injection site haemorrhage	9	0.0008801
+Compound—causes—Gastrointestinal symptom NOS	5	0.0008757
+Compound—causes—Generalised oedema	30	0.0008645
+Compound—causes—Skin odour abnormal	16	0.0008626
+Compound—causes—Movements involuntary	3	0.000857
+Compound—causes—Breast neoplasm	8	0.0008549
+Compound—causes—Anorectal discomfort	16	0.0008506
+Compound—causes—Melanosis	4	0.00085
+Compound—causes—Abnormal faeces	12	0.0008482
+Compound—causes—Dreaming excessive	2	0.000848
+Compound—causes—Furuncle	18	0.0008462
+Compound—causes—Tendinous contracture	4	0.00084
+Compound—causes—Renal impairment	35	0.00083678
+Compound—causes—Abscess periodontal	12	0.0008293
+Compound—causes—Oligomenorrhoea	1	0.000829
+Compound—causes—Logorrhoea	2	0.000827
+Compound—causes—Herpes zoster	24	0.000827
+Compound—resembles—Quinethazone	2	0.000826
+Compound—causes—Oculogyric crisis	6	0.0008254
+Compound—causes—Body odor	12	0.0008215
+Compound—causes—Torsade de pointes	10	0.0008215
+Compound—causes—Sinus bradycardia	16	0.0008189
+Compound—causes—Asterixis	6	0.000817
+Compound—causes—Intraocular pressure increased	10	0.0008138
+Compound—causes—Difficulty focusing eyes	2	0.00081
+Compound—resembles—Ibuprofen	7	0.0008081
+Compound—causes—Cerebral infarction	9	0.0008072
+Compound—causes—Cholestasis	6	0.0008026
+Compound—causes—Dysautonomia	2	0.000801
+Compound—causes—Injection site inflammation	9	0.0007998
+Compound—causes—Wheezing	9	0.0007951
+Compound—causes—Throat irritation	6	0.0007943
+Compound—causes—Hyperplasia	6	0.0007852
+Compound—causes—Calculus bladder	2	0.000785
+Compound—causes—Cerebrovascular disorder	10	0.0007828
+Compound—causes—Angina pectoris	44	0.00078097
+Compound—causes—Urethral pain	6	0.0007753
+Compound—causes—Respiratory arrest	6	0.000771
+Compound—causes—Neoplasm	28	0.00076966
+Compound—causes—Vaginal moniliasis	20	0.0007686
+Compound—causes—Transaminases increased	12	0.000768
+Compound—binds—NAT2	66	0.00076781
+Compound—causes—Alcohol intolerance	16	0.0007671
+Compound—causes—Foetal disorder	1	0.000766
+Compound—causes—Orofacial dyskinesia	4	0.0007568
+Compound—causes—Chondrodystrophy	1	0.000756
+Compound—causes—Xerophthalmia	9	0.0007549
+Compound—causes—Psychotic depression	4	0.000753
+Compound—causes—Epididymitis	12	0.0007526
+Compound—binds—UGT1A10	9	0.0007518
+Compound—causes—Fungal infection	20	0.00075
+Compound—causes—Distress gastrointestinal	2	0.000746
+Compound—causes—Tonic-clonic seizures	2	0.000741
+Compound—causes—Tongue discolouration	6	0.0007403
+Compound—causes—Porphyria acute	2	0.000739
+Compound—causes—Vulvovaginal candidiasis	20	0.0007376
+Compound—resembles—Hexobarbital	14	0.0007306
+Compound—causes—Candida infection	31	0.00072512
+Compound—causes—Electrocardiogram ST segment depression	3	0.000724
+Compound—causes—Convulsions aggravated	2	0.000723
+Compound—causes—Cardiomegaly	9	0.0007217
+Compound—causes—Lacrimal disorder	15	0.0007199
+Compound—causes—Pelvic pain	20	0.0007187
+Compound—causes—Cutaneous vasculitis	3	0.0007176
+Compound—causes—Gastric irritation	3	0.000712
+Compound—causes—Vulvovaginal mycotic infection	20	0.0007096
+Compound—causes—Pyelonephritis	12	0.0007078
+Compound—causes—Optic atrophy	3	0.000706
+Compound—causes—Hyperbilirubinaemia	14	0.0007058
+Compound—causes—Subcutaneous nodule	4	0.000705
+Compound—causes—Tardive dyskinesia	6	0.0007021
+Compound—causes—Azotaemia	8	0.0007012
+Compound—causes—Muscle contractions involuntary	12	0.0006982
+Compound—causes—Sudden unexplained death in epilepsy	2	0.000694
+Compound—causes—Pregnancy	8	0.0006914
+Compound—causes—Pharmacokinetic interaction	1	0.000681
+Compound—causes—Supraventricular extrasystoles	7	0.0006751
+Compound—causes—Otitis	4	0.0006742
+Compound—causes—Disseminated intravascular coagulation	6	0.0006729
+Compound—causes—Lactic dehydrogenase activity increased	9	0.0006703
+Compound—causes—Aplasia pure red cell	6	0.0006702
+Compound—causes—Retinal degeneration	4	0.0006675
+Compound—causes—Muscle fatigue	1	0.000666
+Compound—causes—Abdominal cramps	7	0.0006587
+Compound—causes—Drug hypersensitivity	4	0.000656
+Compound—causes—Haemorrhage intracranial	8	0.0006537
+Compound—causes—Chromaturia	3	0.0006532
+Compound—resembles—Tropicamide	6	0.0006526
+Compound—causes—Somnambulism	5	0.0006458
+Compound—causes—Redness	13	0.0006442
+Compound—causes—Word finding difficulty	2	0.00064
+Compound—causes—Diabetes mellitus	24	0.00063922
+Compound—causes—Abscess	18	0.0006372
+Compound—causes—Feeling jittery	6	0.0006339
+Compound—causes—Hepatomegaly	18	0.0006329
+Compound—causes—Skin ulcer	21	0.00063
+Compound—causes—Antisocial personality disorder	2	0.000628
+Compound—causes—Antisocial behaviour	2	0.000628
+Compound—causes—Asocial behaviour	2	0.000628
+Compound—causes—Hyperthyroidism	15	0.0006268
+Compound—causes—Central nervous system neoplasm	4	0.000624
+Compound—causes—Supraventricular tachycardia	10	0.0006239
+Compound—causes—Uveitis	4	0.0006236
+Compound—causes—Varicose vein	8	0.0006217
+Compound—causes—Clumsiness	2	0.000621
+Compound—causes—Stridor	3	0.00062
+Compound—causes—Labyrinthitis	2	0.000618
+Compound—causes—Breast abscess	2	0.000618
+Compound—causes—Akinesia	4	0.0006144
+Compound—causes—Shallow breathing	2	0.000613
+Compound—causes—Sprain	2	0.000608
+Compound—causes—Nail disorder	20	0.0006039
+Compound—causes—Rash erythematous	10	0.0006036
+Compound—causes—Haemorrhage urinary tract	2	0.0006
+Compound—causes—Thrombosis	13	0.0005996
+Compound—causes—Cholecystitis	12	0.000596
+Compound—causes—Intentional injury	1	0.000596
+Compound—causes—Proteinuria	8	0.0005936
+Compound—causes—Bipolar disorder	6	0.0005926
+Compound—causes—Blood lactate dehydrogenase increased	9	0.000591
+Compound—causes—Enzyme induction	2	0.000587
+Compound—causes—Protein urine present	8	0.0005861
+Compound—causes—Sickness	3	0.000585
+Compound—causes—Periorbital oedema	6	0.0005825
+Compound—causes—Gastric dilatation	1	0.000581
+Compound—causes—Stomach dilation procedure	1	0.000581
+Compound—causes—Aplasia	1	0.00058
+Compound—causes—Pain during injection	1	0.000578
+Compound—causes—Renal colic	1	0.000578
+Compound—resembles—Quinine	5	0.000574
+Compound—causes—Diabetes insipidus	2	0.000574
+Compound—causes—Abdominal distension	26	0.00056835
+Compound—causes—Convulsive seizure	1	0.000567
+Compound—causes—Asthenopia	3	0.00056
+Compound—causes—Vaginal discharge	20	0.0005576
+Compound—causes—Bipolar I disorder	6	0.0005564
+Compound—causes—Blindness transient	2	0.000555
+Compound—causes—Mental retardation	7	0.0005541
+Compound—causes—Hydronephrosis	4	0.00055
+Compound—binds—SLC22A7	61	0.00054921
+Compound—causes—Abnormal involuntary movements	2	0.000549
+Compound—causes—Hepatitis granulomatous	1	0.000548
+Compound—causes—Heat stroke	2	0.000544
+Compound—causes—Duodenal ulcer	9	0.0005419
+Compound—causes—Blood creatine phosphokinase increased	9	0.0005417
+Compound—causes—Eye irritation	12	0.0005364
+Compound—causes—Tooth abscess	12	0.0005349
+Compound—causes—Anticholinergic syndrome	1	0.000532
+Compound—causes—Panic disorder	4	0.0005308
+Compound—causes—Anxiety depression	4	0.0005305
+Compound—causes—Sialoadenitis	4	0.00053
+Compound—causes—Electrocardiogram QT prolonged	8	0.0005286
+Compound—causes—Avitaminosis	1	0.000527
+Compound—causes—Night blindness	6	0.0005236
+Compound—causes—Dizziness postural	6	0.0005209
+Compound—causes—Intestinal obstruction	15	0.0005187
+Compound—causes—Ejaculation failure	3	0.000516
+Compound—causes—Muscle contracture	2	0.000515
+Compound—causes—Retching	4	0.0005148
+Compound—causes—Swollen tongue	3	0.000513
+Compound—causes—Electrocardiogram T wave inversion	2	0.000512
+Compound—causes—Respiratory rate decreased	1	0.00051
+Compound—causes—Muscle stiffness	4	0.000508
+Compound—causes—Papanicolaou smear suspicious	1	0.000507
+Compound—causes—Livedo reticularis	1	0.000504
+Compound—causes—Hypopnoea	2	0.000501
+Compound—causes—Dermatitis atopic	10	0.0005009
+Compound—causes—Leukaemoid reaction	1	0.000499
+Compound—causes—Granulomatous liver disease	1	0.000498
+Compound—causes—Osteopenia	6	0.0004966
+Compound—causes—Bone pain	24	0.00049495
+Compound—causes—Gangrene	4	0.0004915
+Compound—causes—Leukorrhea	16	0.000486
+Compound—causes—Pyuria	8	0.0004835
+Compound—causes—Hordeolum	4	0.0004832
+Compound—causes—Heart rate irregular	2	0.000483
+Compound—causes—Depressive symptom	2	0.000482
+Compound—causes—Myocardial ischaemia	9	0.000482
+Compound—causes—Gastrooesophageal reflux disease	18	0.0004796
+Compound—causes—Blood in stool	2	0.000479
+Compound—causes—Infectious mononucleosis	2	0.000479
+Compound—causes—Hemianopia	2	0.000478
+Compound—causes—Hypovitaminosis	1	0.000473
+Compound—causes—Diabetic peripheral neuropathy	2	0.000472
+Compound—causes—Haematoma	12	0.0004719
+Compound—causes—Cryptococcosis	2	0.00047
+Compound—causes—Herpes simplex	18	0.0004697
+Compound—causes—Rectal disorder	9	0.0004663
+Compound—causes—Creatine phosphokinase increased	4	0.000463
+Compound—causes—Peptic ulcer	16	0.0004611
+Compound—causes—Pleurisy	4	0.0004582
+Compound—causes—Expressive language disorder	1	0.000458
+Compound—causes—Prolonged menses	2	0.000456
+Compound—causes—Eye haemorrhage	6	0.0004549
+Compound—causes—Clonic convulsion	2	0.000454
+Compound—causes—Coronary artery insufficiency	1	0.000451
+Compound—causes—Neonatal disorder	1	0.00045
+Compound—causes—Laboratory test abnormal	6	0.0004499
+Compound—resembles—Olanzapine	30	0.00044662
+Compound—resembles—Chlorpropamide	3	0.0004408
+Compound—causes—Anorectal disorder	9	0.0004351
+Compound—resembles—Hydrochlorothiazide	2	0.000435
+Compound—causes—Drug effect increased	1	0.000427
+Compound—causes—Cardiovascular disorder	20	0.00042519
+Compound—causes—Influenza-like symptoms	12	0.0004247
+Compound—causes—Cardiac output decreased	1	0.000422
+Compound—causes—Capillary fragility increased	2	0.000418
+Compound—causes—Cognitive impairment	6	0.0004155
+Compound—causes—Sensory disturbance	5	0.0004154
+Compound—causes—Chest tightness	4	0.0004118
+Compound—causes—Gastrointestinal inflammation	1	0.000411
+Compound—resembles—Maprotiline	21	0.00040858
+Compound—causes—Urination impaired	2	0.000408
+Compound—causes—Hyperuricaemia	7	0.0004063
+Compound—causes—Purpuric rash	2	0.000405
+Compound—causes—Lymphoedema	2	0.0004014
+Compound—causes—Oedema genital	2	0.0004
+Compound—causes—Enlargement abdomen	9	0.0003998
+Compound—causes—Extravasation	7	0.0003995
+Compound—causes—Conjunctival hyperaemia	3	0.0003964
+Compound—causes—Vascular anomaly	2	0.000394
+Compound—causes—Thyrotropin high	1	0.000393
+Compound—causes—Keratitis	8	0.0003919
+Compound—causes—Attention concentration difficulty	1	0.000391
+Compound—resembles—Metolazone	2	0.000389
+Compound—causes—Cardiomyopathy	5	0.000385
+Compound—causes—Haematochezia	6	0.0003842
+Compound—causes—Bullous eruption	3	0.000384
+Compound—causes—Hypochloraemia	2	0.00038
+Compound—causes—Optic neuritis	5	0.0003784
+Compound—causes—Road traffic accident	4	0.000375
+Compound—causes—Hepatic encephalopathy	1	0.000374
+Compound—causes—Retinal disorder	7	0.0003703
+Compound—causes—Ocular hyperaemia	6	0.0003697
+Compound—causes—Generalised spasm	2	0.000369
+Compound—causes—Dysgraphia	2	0.000368
+Compound—causes—Pain in jaw	3	0.000365
+Compound—causes—Stinging	1	0.000365
+Compound—causes—Retinitis	1	0.000363
+Compound—causes—Ventricular arrhythmia	6	0.0003627
+Compound—causes—Polyarteritis nodosa	1	0.000361
+Compound—causes—Crystalluria	1	0.00036
+Compound—causes—Photopsia	6	0.0003594
+Compound—causes—Appetite disorder	1	0.000357
+Compound—resembles—Olopatadine	4	0.0003535
+Compound—causes—Lichen planus	1	0.000352
+Compound—causes—Dental caries	5	0.0003488
+Compound—causes—Skin burning sensation	1	0.000348
+Compound—causes—Hypercalcaemia	4	0.0003476
+Compound—causes—Dementia	6	0.0003472
+Compound—causes—Anuria	4	0.0003443
+Compound—causes—Aortic valve stenosis	1	0.000344
+Compound—causes—Hypercholesterolaemia	14	0.0003424
+Compound—causes—Urethritis noninfective	3	0.0003424
+Compound—causes—Respiratory tract infection	10	0.0003404
+Compound—causes—Ulcerative keratitis	2	0.000339
+Compound—causes—Facial paralysis	6	0.0003389
+Compound—causes—Dysphemia	2	0.000338
+Compound—causes—Thrombocytosis	8	0.0003378
+Compound—causes—Obesity	4	0.0003374
+Compound—causes—Hyperammonaemia	2	0.000336
+Compound—causes—Lacrimation increased	12	0.00033543
+Compound—causes—Polycythaemia	4	0.0003334
+Compound—causes—Skin necrosis	6	0.0003332
+Compound—causes—Parkinsonism	6	0.0003318
+Compound—causes—Anhidrosis	2	0.000331
+Compound—causes—Renal tubular acidosis	2	0.000331
+Compound—causes—Urethritis	3	0.0003298
+Compound—causes—Cataract	12	0.0003297
+Compound—causes—Blood thyroid stimulating hormone increased	1	0.000329
+Compound—causes—Eye redness	4	0.0003275
+Compound—resembles—Furosemide	3	0.0003255
+Compound—causes—Opisthotonus	1	0.000325
+Compound—causes—Pigmentation disorder	4	0.0003233
+Compound—causes—Blindness	8	0.0003225
+Compound—causes—Tenderness	9	0.000322
+Compound—causes—Heartburn	4	0.0003205
+Compound—causes—Phobia	1	0.00032
+Compound—causes—Labyrinthine disorder	1	0.000318
+Compound—causes—Inner ear disorder	1	0.000318
+Compound—causes—Blepharitis	8	0.0003073
+Compound—causes—Musculoskeletal disorder	2	0.000307
+Compound—causes—Elevated mood	2	0.000307
+Compound—causes—Infertility male	2	0.000306
+Compound—causes—Hair disorder	4	0.0003013
+Compound—causes—Taste metallic	2	0.000299
+Compound—causes—Hyperpathia	2	0.000297
+Compound—causes—Embolism venous	2	0.0002968
+Compound—causes—Throat tightness	3	0.000294
+Compound—causes—Haemolytic uraemic syndrome	1	0.000294
+Compound—causes—Strangury	2	0.0002933
+Compound—causes—Blood pressure increased	10	0.0002925
+Compound—causes—Presyncope	4	0.0002917
+Compound—causes—Smear cervix abnormal	1	0.000291
+Compound—causes—Visual acuity reduced	6	0.0002893
+Compound—causes—Malignant melanoma	1	0.000289
+Compound—causes—Multi-organ failure	3	0.0002871
+Compound—causes—Autonomic nervous system imbalance	2	0.000287
+Compound—causes—Duodenitis	2	0.0002865
+Compound—causes—Pupils unequal	1	0.000286
+Compound—causes—Scleritis	2	0.000285
+Compound—causes—Mental status changes	2	0.000284
+Compound—resembles—Bupivacaine	3	0.000284
+Compound—causes—Low back pain	2	0.000283
+Compound—causes—Brain injury	2	0.000283
+Compound—causes—Teratogenicity	2	0.000282
+Compound—causes—Glossodynia	4	0.0002793
+Compound—causes—Lacrimation abnormal NOS	3	0.0002785
+Compound—causes—Pleural effusion	9	0.0002771
+Compound—causes—Oropharyngeal pain	3	0.0002765
+Compound—resembles—Asenapine	10	0.0002755
+Compound—causes—Angle closure glaucoma	3	0.0002754
+Compound—causes—Hypersensitive syndrome	2	0.000275
+Compound—resembles—Chlorphenesin	2	0.0002746
+Compound—causes—Lower respiratory tract infection	2	0.000274
+Compound—causes—Lung disorder	8	0.0002735
+Compound—causes—Peripheral coldness	4	0.0002731
+Compound—causes—Hepatocellular carcinoma	1	0.000272
+Compound—causes—Coronary artery disease	4	0.0002695
+Compound—causes—Alkalosis	2	0.000269
+Compound—causes—Depression aggravated	3	0.000268
+Compound—causes—Vivid dreams	1	0.000267
+Compound—causes—Respiratory tract congestion	3	0.0002666
+Compound—causes—Acute psychosis	1	0.000265
+Compound—resembles—Orphenadrine	12	0.000263
+Compound—causes—Breast feeding	6	0.0002627
+Compound—causes—VIIth nerve paralysis	6	0.0002626
+Compound—causes—Local reaction	4	0.0002599
+Compound—causes—Skin carcinoma	4	0.0002591
+Compound—resembles—Quetiapine	27	0.00025883
+Compound—causes—Kidney function abnormal	4	0.0002544
+Compound—resembles—Levobupivacaine	1	0.000253
+Compound—causes—Platelet disorder	1	0.00025
+Compound—causes—Joint sprain	1	0.00025
+Compound—causes—Laceration	1	0.000249
+Compound—causes—Dysaesthesia	6	0.0002488
+Compound—causes—Foetor hepaticus	2	0.0002484
+Compound—causes—Hepatic cancer	1	0.000247
+Compound—resembles—Methyclothiazide	1	0.000247
+Compound—causes—Prostatic disorder	6	0.0002434
+Compound—causes—Drug dependence	2	0.000242
+Compound—causes—Psychomotor retardation	2	0.0002416
+Compound—causes—Retinal vein thrombosis	2	0.0002405
+Compound—causes—Schizophrenic reaction	1	0.00024
+Compound—causes—Schizophreniform disorder	1	0.00024
+Compound—causes—Gastritis haemorrhagic	1	0.000239
+Compound—causes—Cheilitis	6	0.0002388
+Compound—causes—Injection site swelling	2	0.000238
+Compound—resembles—Chlorothiazide	1	0.000238
+Compound—causes—Tendonitis	4	0.0002364
+Compound—causes—Alkaline phosphatase serum increased	1	0.000236
+Compound—causes—Carcinoma	2	0.000236
+Compound—causes—Sneezing	4	0.0002351
+Compound—causes—Torticollis	2	0.0002344
+Compound—causes—Speech impairment NOS	2	0.0002336
+Compound—causes—Cold sweat	3	0.0002335
+Compound—resembles—Pyrimethamine	1	0.000233
+Compound—causes—Hepatitis cholestatic	4	0.0002325
+Compound—causes—Hallucination, auditory	1	0.00023
+Compound—causes—Thyroid neoplasm	1	0.00023
+Compound—causes—Uterine haemorrhage	3	0.0002296
+Compound—causes—NPN increased	1	0.000229
+Compound—causes—Pharyngeal oedema	4	0.0002282
+Compound—causes—Balanitis	2	0.0002267
+Compound—causes—Antinuclear antibody positive	1	0.000226
+Compound—causes—Lichenoid keratosis	2	0.000224
+Compound—causes—Trembling	2	0.000223
+Compound—causes—Folliculitis	2	0.0002212
+Compound—causes—Thyroid disorder	1	0.000221
+Compound—causes—Megacolon	1	0.000221
+Compound—causes—Swelling face	4	0.0002206
+Compound—causes—Prothrombin level increased	6	0.0002205
+Compound—causes—Gastrointestinal tract irritation	2	0.0002173
+Compound—causes—Oral candidiasis	6	0.000217
+Compound—causes—Oesophageal spasm	1	0.000216
+Compound—causes—Red blood cell sedimentation rate increased	2	0.000215
+Compound—causes—Enzyme abnormality	1	0.000215
+Compound—causes—Fungal skin infection	6	0.0002141
+Compound—causes—Skin exfoliation	9	0.00021347
+Compound—causes—Henoch-Schonlein purpura	2	0.0002118
+Compound—causes—Conjunctival haemorrhage	2	0.0002115
+Compound—causes—Salivary gland enlargement	4	0.0002099
+Compound—causes—Hypovolaemia	2	0.0002095
+Compound—causes—Eyelid oedema	4	0.0002081
+Compound—causes—Exophthalmos	2	0.000208
+Compound—causes—Endophthalmitis	3	0.0002076
+Compound—causes—Function kidney decreased	2	0.0002075
+Compound—causes—Liver disorder	2	0.0002064
+Compound—causes—Nasal dryness	1	0.000205
+Compound—resembles—Pseudoephedrine	4	0.0002043
+Compound—causes—Rash papular	1	0.000203
+Compound—causes—Chorea	2	0.0002027
+Compound—causes—Rash macular	2	0.0002023
+Compound—causes—Peripheral ischaemia	2	0.0002022
+Compound—causes—Impaired gastric emptying	2	0.000201
+Compound—causes—Ejaculation delayed	2	0.0001989
+Compound—causes—Neoplasm malignant	4	0.0001983
+Compound—causes—Ichthyosis acquired	1	0.000196
+Compound—causes—Ichthyosis	1	0.000196
+Compound—causes—Leg pain	4	0.0001953
+Compound—causes—Acute generalised exanthematous pustulosis	2	0.0001902
+Compound—causes—Skin cancer	4	0.0001897
+Compound—causes—Pulmonary fibrosis	2	0.0001893
+Compound—causes—Cachexia	2	0.0001891
+Compound—resembles—Azelastine	12	0.00018862
+Compound—causes—Toxicity to various agents	2	0.0001874
+Compound—resembles—Triflupromazine	12	0.00018428
+Compound—causes—Abdominal pain lower	1	0.000183
+Compound—resembles—Benzthiazide	1	0.000182
+Compound—causes—Lip swelling	1	0.000181
+Compound—causes—Corneal lesion	1	0.00018
+Compound—causes—Decubitus ulcer	1	0.00018
+Compound—causes—Polyp	2	0.000178
+Compound—causes—Sinus tachycardia	3	0.0001743
+Compound—resembles—Trichlormethiazide	1	0.000174
+Compound—causes—Auditory disorder NOS	2	0.0001738
+Compound—causes—Intestinal ulcer	2	0.0001731
+Compound—causes—Administration site reaction	2	0.0001725
+Compound—causes—Penis disorder	2	0.0001702
+Compound—binds—SIGMAR1	6	0.0001682
+Compound—causes—Hypertrichosis	4	0.0001675
+Compound—causes—Pruritus genital	4	0.000167
+Compound—causes—Local swelling	4	0.0001668
+Compound—causes—Parkinson's disease	1	0.000166
+Compound—causes—Arteriosclerosis	1	0.000165
+Compound—resembles—Metixene	3	0.0001649
+Compound—causes—Atrioventricular block second degree	1	0.000164
+Compound—causes—Rheumatoid arthritis	1	0.000164
+Compound—causes—Platelet count decreased	4	0.0001626
+Compound—causes—Cyst	2	0.0001623
+Compound—causes—Pulmonary haemorrhage	1	0.000161
+Compound—resembles—Aminophenazone	4	0.0001608
+Compound—causes—Abrasion NOS	1	0.00016
+Compound—causes—Biliary colic	2	0.00016
+Compound—causes—Ascites	2	0.0001586
+Compound—causes—Muscle atrophy	2	0.0001581
+Compound—causes—Uremia	1	0.000158
+Compound—causes—Hypogeusia	1	0.000156
+Compound—causes—Periodontitis	1	0.000155
+Compound—causes—Irritable bowel syndrome	2	0.0001549
+Compound—causes—Skin hypertrophy	4	0.0001533
+Compound—causes—Unintended pregnancy	2	0.0001526
+Compound—causes—Red blood cell abnormality	1	0.000152
+Compound—causes—Respiratory alkalosis	1	0.000151
+Compound—resembles—Aminoglutethimide	2	0.0001506
+Compound—causes—Eye swelling	2	0.0001506
+Compound—resembles—Lucanthone	1	0.000149
+Compound—causes—Lymphopenia	2	0.000148
+Compound—causes—Functional gastrointestinal disorder	2	0.0001445
+Compound—causes—Hypertrophy of breast	1	0.000144
+Compound—resembles—Guanfacine	2	0.0001423
+Compound—causes—Splenomegaly	2	0.0001404
+Compound—resembles—Cinnarizine	4	0.00013831
+Compound—causes—Cushing's syndrome	1	0.000138
+Compound—causes—Proctitis	1	0.000136
+Compound—causes—Tetany	1	0.000136
+Compound—causes—Embolism	4	0.0001354
+Compound—causes—Leukaemia	1	0.000135
+Compound—causes—Miliaria	2	0.0001326
+Compound—causes—Prothrombin level decreased	2	0.0001314
+Compound—causes—Thromboembolism	1	0.00013
+Compound—causes—Benign neoplasm of skin	1	0.00013
+Compound—causes—Hypohidrosis	2	0.0001276
+Compound—causes—Sweating decreased	2	0.0001276
+Compound—causes—Seasonal allergy	1	0.000127
+Compound—causes—Premature ejaculation	1	0.000127
+Compound—causes—Lacrimal structural disorder	2	0.0001267
+Compound—causes—Instillation site pain	1	0.000126
+Compound—causes—Mucous membrane disorder	2	0.0001254
+Compound—causes—Epigastric pain	1	0.000125
+Compound—causes—Hemiparesis	1	0.000125
+Compound—resembles—Ziprasidone	8	0.00012362
+Compound—causes—Vasospasm	2	0.0001226
+Compound—causes—Rhinitis seasonal	1	0.000122
+Compound—resembles—Tranylcypromine	6	0.00012197
+Compound—causes—Pulmonary hypertension	2	0.0001213
+Compound—causes—Peripheral vascular disorder	4	0.0001199
+Compound—causes—Retrosternal pain	2	0.0001195
+Compound—causes—Urine color abnormal	1	0.000117
+Compound—causes—Dry throat	2	0.0001163
+Compound—causes—Cardio-respiratory arrest	1	0.000115
+Compound—resembles—Atomoxetine	12	0.00011445
+Compound—causes—Inflammation	4	0.0001142
+Compound—causes—Salpingitis	1	0.000113
+Compound—causes—IIIrd nerve paralysis	1	0.000112
+Compound—causes—Hypoproteinaemia	2	0.0001118
+Compound—resembles—Zuclopenthixol	9	0.0001114
+Compound—causes—Bacterial infection	2	0.000111
+Compound—resembles—Carvedilol	4	0.0001104
+Compound—causes—Corneal opacity	1	0.00011
+Compound—causes—Retinal detachment	1	0.00011
+Compound—causes—Deep vein thrombosis	3	0.0001094
+Compound—causes—Cerebral ischaemia	2	0.000109
+Compound—causes—Herpes NOS	1	0.000108
+Compound—causes—Burning sensation	4	0.000107
+Compound—resembles—Methotrimeprazine	12	0.0001064
+Compound—causes—Ear discomfort	1	0.000106
+Compound—causes—Throat sore	1	0.000105
+Compound—causes—Oropharyngeal discomfort	1	0.000104
+Compound—causes—Polyneuropathy	1	0.000104
+Compound—resembles—Dimetindene	4	0.000104
+Compound—causes—Dysphasia	1	0.000104
+Compound—resembles—Tolazoline	2	0.0001024
+Compound—causes—Pericardial effusion	2	0.0001011
+Compound—causes—Congenital eye disorder	1	0.000101
+Compound—causes—Crying	1	0.000101
+Compound—causes—Testicular disorder	1	0.0001
+Compound—causes—Neurotoxicity	1	9.83e-05
+Compound—resembles—Desloratadine	3	9.77e-05
+Compound—causes—Tendon disorder	2	9.65e-05
+Compound—resembles—Diclofenac	7	9.602e-05
+Compound—resembles—Thiothixene	12	9.601e-05
+Compound—causes—Keratoconjunctivitis	1	9.6e-05
+Compound—causes—Fibrocystic breast disease	1	9.6e-05
+Compound—causes—Enterocolitis	1	9.56e-05
+Compound—causes—Papule	1	9.47e-05
+Compound—resembles—Fenoprofen	4	9.427e-05
+Compound—causes—Application site pain	1	9.37e-05
+Compound—causes—Oral pain	2	9.21e-05
+Compound—causes—Breast discharge	2	9.06e-05
+Compound—resembles—Trazodone	10	9.052e-05
+Compound—causes—Hallucination, visual	2	9.01e-05
+Compound—causes—Abdominal tenderness	1	9e-05
+Compound—causes—Venous thrombosis	1	8.83e-05
+Compound—causes—Retinal haemorrhage	1	8.79e-05
+Compound—causes—Excoriation	1	8.7e-05
+Compound—resembles—Isopropamide	2	8.4e-05
+Compound—causes—Pulmonary congestion	1	8.3e-05
+Compound—resembles—Benzyl alcohol	3	8.22e-05
+Compound—causes—Erythema nodosum	2	8.17e-05
+Compound—resembles—Ephedrine	1	8.11e-05
+Compound—resembles—Benzatropine	4	7.96e-05
+Compound—causes—Aphthous stomatitis	2	7.94e-05
+Compound—causes—Sluggishness	1	7.94e-05
+Compound—causes—Faecalith	1	7.89e-05
+Compound—causes—Faecaloma	1	7.89e-05
+Compound—causes—Oesophageal ulcer	1	7.85e-05
+Compound—causes—Flank pain	2	7.74e-05
+Compound—causes—Bleeding time prolonged	2	7.7e-05
+Compound—causes—Chloasma	1	7.67e-05
+Compound—causes—Autonomic neuropathy	1	7.66e-05
+Compound—causes—Herpes virus infection	1	7.45e-05
+Compound—causes—Lung infiltration	1	7.26e-05
+Compound—causes—Peripheral sensory neuropathy	1	7.24e-05
+Compound—causes—Blood glucose increased	1	7.07e-05
+Compound—resembles—Mequitazine	4	7.02e-05
+Compound—resembles—Selegiline	3	6.98e-05
+Compound—causes—Amylase increased	2	6.9e-05
+Compound—causes—Breast cancer	2	6.9e-05
+Compound—causes—Joint stiffness	1	6.85e-05
+Compound—resembles—Cyamemazine	4	6.8e-05
+Compound—causes—Hoarseness	2	6.55e-05
+Compound—resembles—Doxylamine	2	6.53e-05
+Compound—causes—Viral diarrhoea	1	6.49e-05
+Compound—causes—Pruritus generalised	2	6.48e-05
+Compound—resembles—Acenocoumarol	4	6.26e-05
+Compound—causes—Laryngeal oedema	1	5.94e-05
+Compound—causes—Blood potassium decreased	2	5.82e-05
+Compound—causes—Dyspnoea exertional	1	5.76e-05
+Compound—causes—Trauma	1	5.68e-05
+Compound—causes—Blepharospasm	1	5.65e-05
+Compound—resembles—Dextropropoxyphene	3	5.629e-05
+Compound—resembles—Trifluoperazine	9	5.626e-05
+Compound—resembles—Methadyl Acetate	1	5.55e-05
+Compound—causes—Nodule	1	5.47e-05
+Compound—resembles—Pipotiazine	8	5.369e-05
+Compound—resembles—Dimenhydrinate	1	5.36e-05
+Compound—resembles—Fentanyl	3	5.341e-05
+Compound—causes—Impaired healing	1	5.21e-05
+Compound—resembles—Phenylpropanolamine	1	5.16e-05
+Compound—resembles—Bortezomib	2	5.08e-05
+Compound—resembles—Methadone	5	4.951e-05
+Compound—causes—Interstitial lung disease	1	4.78e-05
+Compound—causes—Pericarditis	1	4.78e-05
+Compound—resembles—Propiomazine	4	4.759e-05
+Compound—resembles—Thioridazine	6	4.662e-05
+Compound—resembles—Ketoprofen	3	4.354e-05
+Compound—resembles—Acepromazine	6	4.241e-05
+Compound—resembles—Propranolol	3	4.042e-05
+Compound—resembles—Aprindine	3	3.91e-05
+Compound—causes—Feeling hot	1	3.69e-05
+Compound—causes—Myositis	1	3.52e-05
+Compound—resembles—Perphenazine	5	3.313e-05
+Compound—resembles—Chloroquine	3	2.497e-05
+Compound—resembles—Levomethadyl Acetate	1	2.42e-05
+Compound—resembles—Thioproperazine	4	2.399e-05
+Compound—resembles—Tripelennamine	2	2.32e-05
+Compound—resembles—Propericiazine	1	1.96e-05
+Compound—resembles—Piroxicam	2	1.931e-05
+Compound—resembles—Carbinoxamine	2	1.882e-05
+Compound—causes—Musculoskeletal pain	1	1.76e-05
+Compound—resembles—Bifonazole	1	1.68e-05
+Compound—resembles—Chlorphenamine	2	1.653e-05
+Compound—resembles—Phenoxybenzamine	1	1.26e-05
+Compound—resembles—Amodiaquine	1	9.9e-06
+Compound—resembles—Fenbufen	1	7.69e-06
+Compound—resembles—Quinacrine	1	5.76e-06
