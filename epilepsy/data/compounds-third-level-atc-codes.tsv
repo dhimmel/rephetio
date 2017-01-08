@@ -1,9 +1,9 @@
 atc_code	atc_name	count	compounds
-N03A	antiepileptics	27	Carbamazepine, Clonazepam, Ethosuximide, Ethotoin, Felbamate, Gabapentin, Lacosamide, Lamotrigine, Levetiracetam, Methsuximide, Methylphenobarbital, Oxcarbazepine, Paramethadione, Phenacemide, Phenobarbital, Phensuximide, Phenytoin, Phenytoin, Phenytoin, Pregabalin, Primidone, Rufinamide, Tiagabine, Topiramate, Trimethadione, Valproic Acid, Zonisamide
+N03A	antiepileptics	25	Carbamazepine, Clonazepam, Ethosuximide, Ethotoin, Felbamate, Gabapentin, Lacosamide, Lamotrigine, Levetiracetam, Methsuximide, Methylphenobarbital, Oxcarbazepine, Paramethadione, Phenacemide, Phenobarbital, Phensuximide, Phenytoin, Pregabalin, Primidone, Rufinamide, Tiagabine, Topiramate, Trimethadione, Valproic Acid, Zonisamide
 N05C	hypnotics and sedatives	21	Amobarbital, Aprobarbital, Cinolazepam, Estazolam, Eszopiclone, Flunitrazepam, Flurazepam, Glutethimide, Heptabarbital, Hexobarbital, Midazolam, Nitrazepam, Pentobarbital, Quazepam, Secobarbital, Talbutal, Temazepam, Thiopental, Triazolam, Zolpidem, Zopiclone
-N05B	anxiolytics	13	Adinazolam, Alprazolam, Bromazepam, Chlordiazepoxide, Clobazam, Clorazepate, Diazepam, Diazepam, Halazepam, Ketazolam, Lorazepam, Oxazepam, Prazepam
-N06A	antidepressants	10	Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Imipramine, Imipramine, Isocarboxazid, Nortriptyline, Phenelzine
-N01A	anesthetics, general	9	Desflurane, Enflurane, Etomidate, Hexobarbital, Isoflurane, Ketamine, Ketamine, Sevoflurane, Thiopental
+N05B	anxiolytics	12	Adinazolam, Alprazolam, Bromazepam, Chlordiazepoxide, Clobazam, Clorazepate, Diazepam, Halazepam, Ketazolam, Lorazepam, Oxazepam, Prazepam
+N01A	anesthetics, general	8	Desflurane, Enflurane, Etomidate, Hexobarbital, Isoflurane, Ketamine, Sevoflurane, Thiopental
+N06A	antidepressants	8	Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Isocarboxazid, Nortriptyline, Phenelzine
 S01E	antiglaucoma preparations and miotics	3	Acetazolamide, Diclofenamide, Methazolamide
 C03B	low-ceiling diuretics, excl. thiazides	2	Chlorthalidone, Indapamide
 N05A	antipsychotics	2	Clozapine, Loxapine
