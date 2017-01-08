@@ -1,0 +1,27 @@
+atc_code	atc_name	count	compounds
+N03A	antiepileptics	27	Carbamazepine, Clonazepam, Ethosuximide, Ethotoin, Felbamate, Gabapentin, Lacosamide, Lamotrigine, Levetiracetam, Methsuximide, Methylphenobarbital, Oxcarbazepine, Paramethadione, Phenacemide, Phenobarbital, Phensuximide, Phenytoin, Phenytoin, Phenytoin, Pregabalin, Primidone, Rufinamide, Tiagabine, Topiramate, Trimethadione, Valproic Acid, Zonisamide
+N05C	hypnotics and sedatives	21	Amobarbital, Aprobarbital, Cinolazepam, Estazolam, Eszopiclone, Flunitrazepam, Flurazepam, Glutethimide, Heptabarbital, Hexobarbital, Midazolam, Nitrazepam, Pentobarbital, Quazepam, Secobarbital, Talbutal, Temazepam, Thiopental, Triazolam, Zolpidem, Zopiclone
+N05B	anxiolytics	13	Adinazolam, Alprazolam, Bromazepam, Chlordiazepoxide, Clobazam, Clorazepate, Diazepam, Diazepam, Halazepam, Ketazolam, Lorazepam, Oxazepam, Prazepam
+N06A	antidepressants	10	Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Imipramine, Imipramine, Isocarboxazid, Nortriptyline, Phenelzine
+N01A	anesthetics, general	9	Desflurane, Enflurane, Etomidate, Hexobarbital, Isoflurane, Ketamine, Ketamine, Sevoflurane, Thiopental
+S01E	antiglaucoma preparations and miotics	3	Acetazolamide, Diclofenamide, Methazolamide
+C03B	low-ceiling diuretics, excl. thiazides	2	Chlorthalidone, Indapamide
+N05A	antipsychotics	2	Clozapine, Loxapine
+N06D	anti-dementia drugs	1	Memantine
+S02D	other otologicals	1	Antipyrine
+S01A	antiinfectives	1	Primidone
+R06A	antihistamines for systemic use	1	Cyproheptadine
+R02A	throat preparations	1	Primidone
+R01A	decongestants and other nasal preparations for topical use	1	Primidone
+N07X	other nervous system drugs	1	Dalfampridine
+N07B	drugs used in addictive disorders	1	Acamprosate
+C01B	antiarrhythmics, class i and iii	1	Quinidine
+N06B	psychostimulants, agents used for adhd and nootropics	1	Modafinil
+C01E	other cardiac preparations	1	Ranolazine
+N02B	other analgesics and antipyretics	1	Antipyrine
+M03B	muscle relaxants, centrally acting agents	1	Baclofen
+L01X	other antineoplastic agents	1	Bortezomib
+G04B	urologicals	1	Phenazopyridine
+D08A	antiseptics and disinfectants	1	Primidone
+C08D	selective calcium channel blockers with direct cardiac effects	1	Verapamil
+S03A	antiinfectives	1	Primidone

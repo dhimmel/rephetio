@@ -1,0 +1,122 @@
+gene_main_name	paths	contribution	gene_symbols
+gamma-aminobutyric acid (GABA) A receptor	91967	15.329	GABRA1, GABRG2, GABRB2, GABRA5, GABRB3, GABRD, GABRA3, GABRA2, GABRA4, GABRA6, GABRG3, GABRB1, GABRG1, GABRR1, GABRR2, GABRQ, GABRE, GABRP, GABRR3
+cytochrome P450	34323	5.5857	CYP2C19, CYP3A4, CYP2E1, CYP2B6, CYP2C8, CYP2C9, CYP2C18, CYP2D6, CYP3A5, CYP1A2, CYP2A6, CYP3A7, CYP11A1, CYP4B1, CYP11B1, CYP1A1, CYP1B1, CYP3A43, CYP11B2, CYP19A1, CYP4A11
+sodium channel	8771	4.5576	SCN9A, SCN1A, SCN3A, SCN5A, SCN4A, SCN8A, SCN2A, SCN10A, SCN11A, SCN7A, SCN1B, SCN3B, SCN2B, SCN4B
+glutamate receptor	11441	3.8415	GRIA2, GRIK2, GRIN2A, GRIN2B, GRM5, GRIA1, GRIN3A, GRIN1, GRIK5, GRIA4, GRIK1, GRIN2C, GRIN2D, GRIA3, GRIK4, GRIK3
+calcium channel	4579	2.665	CACNA1G, CACNA2D2, CACNA1H, CACNA1B, CACNA1A, CACNA1I, CACNA2D1, CACNB4, CACNA1D, CACNB3, CACNB1, CACNB2, CACNA1C, CACNA1S, CACNA1F
+cholinergic receptor	19114	2.0839	CHRNA7, CHRNA4, CHRM1, CHRM3, CHRM2, CHRM4, CHRM5
+potassium channel	7958	1.4308	KCNK9, KCNK3, KCND2, KCNQ3, KCNQ2, KCNC1, KCNC4, KCNB1, KCNJ11, KCNQ4, KCNV1, KCNH1, KCNA1, KCNK10, KCNK18, KCNQ1, KCNK2, KCND3, KCNH2, KCNK1, KCNK6, KCNC3, KCNN4, KCNJ8, KCNA2, KCNC2, KCNH3, KCNA4, KCNA6, KCNA3, KCNF1, KCNE1, KCND1, KCNH8, KCNA5, KCNB2, KCNG4, KCNH4, KCNH5, KCNG1, KCNV2, KCNG3, KCNQ5, KCNG2, KCNA10, KCNA7, KCNH6, KCNH7
+carbonic anhydrase IV	612	0.77912	CA4
+ATP-binding cassette	4924	0.61667	ABCB1, ABCC2, ABCG2, ABCB11, ABCC3, ABCC1, ABCC4, ABCC10
+solute carrier family 6 (neurotransmitter transporter)	3133	0.60622	SLC6A1, SLC6A4, SLC6A2, SLC6A3, SLC6A11
+gamma-aminobutyric acid (GABA) B receptor	903	0.60174	GABBR1, GABBR2
+albumin	3382	0.43155	ALB
+4-aminobutyrate aminotransferase	245	0.34756	ABAT
+CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	123	0.27195	CHRFAM7A
+translocator protein (18kDa)	128	0.23451	TSPO
+carbonic anhydrase VB	540	0.23235	CA5B
+UDP glucuronosyltransferase 1 family	1190	0.22879	UGT1A3, UGT1A4, UGT1A8, UGT1A6, UGT1A9, UGT1A1, UGT1A10
+synaptic vesicle glycoprotein 2A	42	0.20955	SV2A
+carbonic anhydrase IX	756	0.20035	CA9
+carbonic anhydrase II	620	0.17596	CA2
+aquaporin 1 (Colton blood group)	134	0.17141	AQP1
+carbonic anhydrase VI	392	0.15997	CA6
+carbonic anhydrase VA	438	0.15853	CA5A
+5-hydroxytryptamine (serotonin) receptor 2A	3609	0.15739	HTR2A
+solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag)	183	0.15606	SLC1A1
+carbonic anhydrase I	535	0.15552	CA1
+carbonic anhydrase VII	459	0.14328	CA7
+solute carrier family 2 (facilitated glucose transporter)	223	0.13688	SLC2A1
+carbonic anhydrase XIV	342	0.1277	CA14
+carbonic anhydrase XII	480	0.12726	CA12
+carbonic anhydrase III	207	0.12445	CA3
+5-hydroxytryptamine (serotonin) receptor 7	1840	0.11407	HTR7
+adrenoceptor alpha 2A	2395	0.10908	ADRA2A
+opioid receptor	2454	0.10869	OPRD1, OPRM1, OPRK1
+CYP3A7-CYP3A51P readthrough	65	0.1029	CYP3A7-CYP3A51P
+monoamine oxidase A	713	0.091509	MAOA
+monoamine oxidase B	266	0.088285	MAOB
+solute carrier family 36 (proton/amino acid symporter)	80	0.082102	SLC36A1
+solute carrier organic anion transporter family	1040	0.067448	SLCO1A2, SLCO1B1, SLCO1B3, SLCO2A1, SLCO1C1
+prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	1178	0.064365	PTGS1
+carbonic anhydrase XIII	70	0.060122	CA13
+solute carrier family 22 (organic anion transporter)	606	0.052197	SLC22A6, SLC22A8, SLC22A7
+UDP glucuronosyltransferase 2 family	516	0.042769	UGT2B15, UGT2B7
+histamine receptor H3	365	0.03849	HRH3
+solute carrier family 22 (organic cation transporter)	2585	0.037276	SLC22A1, SLC22A2, SLC22A3
+dopamine receptor D2	4030	0.034155	DRD2
+prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	209	0.033513	PTGS2
+fatty acid amide hydrolase	14	0.032799	FAAH
+proteasome (prosome, macropain) subunit	1861	0.028602	PSMA1, PSMB2, PSMB1, PSMB5, PSMB8
+neurotrophic tyrosine kinase	494	0.026951	NTRK2, NTRK1
+5-hydroxytryptamine (serotonin) receptor 2C	3285	0.026641	HTR2C
+5-hydroxytryptamine (serotonin) receptor 6	2728	0.024843	HTR6
+5-hydroxytryptamine (serotonin) receptor 1A	3256	0.02426	HTR1A
+Raf-1 proto-oncogene	1345	0.023058	RAF1
+5-hydroxytryptamine (serotonin) receptor 3A	376	0.019572	HTR3A
+proteasome (prosome, macropain) 26S subunit	753	0.015536	PSMD2, PSMD1
+glycine receptor	346	0.015155	GLRA1, GLRB
+transient receptor potential cation channel	56	0.015083	TRPA1
+histamine receptor H1	2896	0.012349	HRH1
+potassium voltage-gated channel	344	0.0122	KCNS1, KCNS2, KCNS3
+B-Raf proto-oncogene	522	0.012119	BRAF
+solute carrier family 12 (sodium/chloride transporter)	138	0.011517	SLC12A3
+adrenoceptor alpha 1B	2310	0.011026	ADRA1B
+dopamine receptor D3	1592	0.010568	DRD3
+5-hydroxytryptamine (serotonin) receptor 1B	1492	0.010424	HTR1B
+5-hydroxytryptamine (serotonin) receptor 2B	1077	0.010294	HTR2B
+adrenoceptor alpha 1A	2298	0.0098648	ADRA1A
+solute carrier family 22 (organic cation/carnitine transporter)	251	0.0098401	SLC22A5
+tachykinin receptor 1	427	0.009688	TACR1
+5-hydroxytryptamine (serotonin) receptor 1D	1119	0.009564	HTR1D
+dopamine receptor D1	1098	0.0095242	DRD1
+histamine receptor H4	1348	0.0093529	HRH4
+glutamic-pyruvate transaminase (alanine aminotransferase)	76	0.0092137	GPT
+solute carrier family 12 (sodium/potassium/chloride transporter)	77	0.0091226	SLC12A1
+LIM domain kinase 1	201	0.0087595	LIMK1
+glutamic pyruvate transaminase (alanine aminotransferase) 2	77	0.0087532	GPT2
+histamine receptor H2	1008	0.0084283	HRH2
+ATP synthase	300	0.0083591	ATP5D
+ATPase	232	0.0082474	ATP2C1
+dopamine receptor D4	1203	0.0081006	DRD4
+aldehyde dehydrogenase 5 family	123	0.0074236	ALDH5A1
+salt-inducible kinase 1	45	0.0066571	SIK1
+adrenoceptor alpha 2B	1218	0.0065054	ADRA2B
+cathepsin G	54	0.0063134	CTSG
+5-hydroxytryptamine (serotonin) receptor 1E	738	0.0059785	HTR1E
+5-hydroxytryptamine (serotonin) receptor 5A	367	0.0057007	HTR5A
+adenosine A1 receptor	377	0.0054776	ADORA1
+adrenoceptor alpha 1D	1143	0.0053553	ADRA1D
+solute carrier family 31 (copper transporter)	71	0.0049224	SLC31A1
+calmodulin 1 (phosphorylase kinase, delta)	929	0.0041909	CALM1
+alkaline phosphatase	51	0.0040506	ALPL
+adrenoceptor beta 1	714	0.0039795	ADRB1
+adrenoceptor alpha 2C	992	0.0039739	ADRA2C
+histone deacetylase 2	312	0.0039119	HDAC2
+calmodulin 2 (phosphorylase kinase, delta)	928	0.0038953	CALM2
+sphingomyelin phosphodiesterase 1	109	0.0038469	SMPD1
+oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	81	0.0036329	OGDH
+branched chain amino-acid transaminase 1	77	0.0035954	BCAT1
+NADH dehydrogenase	210	0.0034535	ND1
+carbonic anhydrase X	13	0.003264	CA10
+solute carrier family 22 (organic cation/zwitterion transporter)	240	0.0030721	SLC22A4
+histone deacetylase 9	202	0.0029054	HDAC9
+glutathione S-transferase pi 1	101	0.0027543	GSTP1
+calmodulin 3 (phosphorylase kinase, delta)	882	0.0027202	CALM3
+dopamine receptor D5	337	0.0026259	DRD5
+NIMA-related kinase 11	3	0.002081	NEK11
+carboxylesterase 1	21	0.0020753	CES1
+ralA binding protein 1	121	0.0019694	RALBP1
+carbonic anhydrase XI	12	0.0018313	CA11
+adrenoceptor beta 2	355	0.0017295	ADRB2
+amine oxidase	7	0.001689	AOC3
+acyl-CoA dehydrogenase	70	0.0015684	ACADSB
+aldehyde oxidase 1	105	0.0015346	AOX1
+carbonic anhydrase VIII	7	0.001475	CA8
+solute carrier family 16 (monocarboxylate transporter)	158	0.0014304	SLC16A1
+calcyon neuron-specific vesicular protein	9	0.001328	CALY
+orosomucoid 1	18	0.0011784	ORM1
+flavin containing monooxygenase 3	108	0.0011232	FMO3
+H1 histone family	47	0.0010778	H1F0
+N-acetyltransferase 2 (arylamine N-acetyltransferase)	66	0.00076781	NAT2
+sigma non-opioid intracellular receptor 1	6	0.0001682	SIGMAR1

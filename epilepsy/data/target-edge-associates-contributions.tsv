@@ -1,0 +1,257 @@
+gene_main_name	paths	contribution	gene_symbols
+gamma-aminobutyric acid (GABA) A receptor	23347	6.834	GABRG2, GABRA1, GABRA5, GABRB3, GABRB2, GABRD
+glutamate receptor	20142	2.2849	GRIA2, GRIK2, GRIN2A, GRIN2B, GRM5, GRIA1, GRIK5, GRIA4, GRIK1, GRM1, GRM2, GRM8, GRM4, GRM3
+sodium channel	2678	2.1133	SCN9A, SCN1A, SCN3A, SCN8A, SCN4A, SCN2A, SCN1B
+calcium channel	10209	1.5873	CACNA1G, CACNA1H, CACNA2D2, CACNA1A, CACNB4, CACNG2, CACNG3, CACNA1D
+potassium channel	15467	1.547	KCNK3, KCNK9, KCND2, KCNQ2, KCNQ3, KCNC4, KCNC1, KCNB1, KCNQ4, KCNV1, KCNJ11, KCNH1, KCNJ10, KCNAB2, KCNMA1
+cholinergic receptor	13397	1.5254	CHRNA7, CHRNA4, CHRM1, CHRM3, CHRM2, CHRNA2, CHRNB2
+cytochrome P450	9365	1.1146	CYP2C19, CYP2D6, CYP11A1
+carbonic anhydrase IV	649	0.65743	CA4
+solute carrier family 6 (neurotransmitter transporter)	3053	0.36114	SLC6A1, SLC6A4, SLC6A8
+ATP-binding cassette	4639	0.34958	ABCB1, ABCC2, ABCG2
+gamma-aminobutyric acid (GABA) B receptor	2976	0.28106	GABBR1
+4-aminobutyrate aminotransferase	1215	0.22823	ABAT
+synaptic vesicle glycoprotein 2A	23	0.20028	SV2A
+aquaporin 1 (Colton blood group)	1130	0.17183	AQP1
+solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag)	1847	0.14991	SLC1A1
+Cdc42 guanine nucleotide exchange factor (GEF) 9	4915	0.13466	ARHGEF9
+carbonic anhydrase XIII	619	0.13419	CA13
+albumin	1552	0.12797	ALB
+solute carrier family 2 (facilitated glucose transporter)	1359	0.1227	SLC2A1
+5-hydroxytryptamine (serotonin) receptor 2A	1747	0.12196	HTR2A
+adrenoceptor alpha 2A	2128	0.1148	ADRA2A
+5-hydroxytryptamine (serotonin) receptor 7	1489	0.106	HTR7
+opioid receptor	2154	0.10255	OPRD1, OPRM1
+solute carrier organic anion transporter family	1438	0.067658	SLCO1A2
+histamine receptor H3	1264	0.046922	HRH3
+chloride channel	2006	0.044369	CLCN6, CLCN2
+solute carrier family 1 (glial high affinity glutamate transporter)	3834	0.041318	SLC1A2, SLC1A3
+N-ethylmaleimide-sensitive factor	1834	0.038183	NSF
+discs	2238	0.033544	DLG4
+prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	1054	0.033189	PTGS2
+syntaxin binding protein 1	1854	0.03115	STXBP1
+synapsin I	1316	0.026737	SYN1
+neurotrophic tyrosine kinase	535	0.026308	NTRK2, NTRK3
+solute carrier family 17 (vesicular glutamate transporter)	1869	0.026116	SLC17A7
+solute carrier family 8 (sodium/calcium exchanger)	2166	0.022134	SLC8A3, SLC8A2, SLC8A1
+cytochrome c oxidase III	1524	0.020947	COX3
+spectrin	417	0.020518	SPTAN1
+glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa)	1223	0.020243	GAD2
+glutamate-ammonia ligase	1753	0.020158	GLUL
+ankyrin 3	382	0.019554	ANK3
+phospholipase C	3083	0.019322	PLCB1
+glutamate decarboxylase 1 (brain, 67kDa)	1249	0.01855	GAD1
+hyperpolarization activated cyclic nucleotide gated potassium channel 1	719	0.018382	HCN1
+contactin 2 (axonal)	352	0.016445	CNTN2
+solute carrier family 12 (potassium/chloride transporter)	644	0.015175	SLC12A5
+butyrylcholinesterase	2035	0.015119	BCHE
+apolipoprotein D	1054	0.015064	APOD
+protein kinase C	2601	0.012046	PRKCB
+ATPase	1348	0.011529	ATP2A2, ATP6AP2
+doublecortin	306	0.011385	DCX
+glial cell derived neurotrophic factor	300	0.011376	GDNF
+transient receptor potential cation channel	1010	0.010397	TRPV1
+solute carrier family 35 (UDP-galactose transporter)	658	0.010235	SLC35A2
+solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter)	658	0.010235	SLC35A3
+solute carrier family 4	662	0.0096017	SLC4A10
+solute carrier family 12 (sodium/potassium/chloride transporter)	646	0.009494	SLC12A2
+somatostatin receptor 2	1271	0.0092601	SSTR2
+somatostatin receptor 1	1227	0.0088431	SSTR1
+tyrosine hydroxylase	852	0.0085737	TH
+prion protein	274	0.0082951	PRNP
+somatostatin receptor 4	1079	0.0082809	SSTR4
+somatostatin receptor 5	1079	0.0082809	SSTR5
+plasminogen activator	1306	0.0080788	PLAT, PLAU, PLAUR
+chemokine (C-C motif) receptor 10	1079	0.0079383	CCR10
+glutamate dehydrogenase 1	560	0.0078046	GLUD1
+proopiomelanocortin	2682	0.0077271	POMC
+solute carrier family 9	640	0.0073583	SLC9A6
+arginine vasopressin	1884	0.0073547	AVP
+guanidinoacetate N-methyltransferase	585	0.0071813	GAMT
+microtubule-associated protein 2	240	0.0071071	MAP2
+syntrophin	148	0.0070986	SNTA1
+cell division cycle 42	1082	0.0069188	CDC42
+FYN proto-oncogene	788	0.0068935	FYN
+bradykinin receptor B1	1256	0.006785	BDKRB1
+atypical chemokine receptor 4	835	0.006751	ACKR4
+neuropeptide Y receptor Y2	1128	0.0066436	NPY2R
+aquaporin 4	714	0.0064456	AQP4
+tryptophanyl-tRNA synthetase	140	0.0064334	WARS
+somatostatin receptor 3	1079	0.0062756	SSTR3
+methyl CpG binding protein 2	179	0.0061984	MECP2
+integrin	356	0.0061954	ITGA2
+syntaxin 1B	40	0.0061069	STX1B
+chemokine (C-C motif) receptor 8	1079	0.0060168	CCR8
+chemokine (C-C motif) receptor 9	1079	0.0060168	CCR9
+chemokine (C-C motif) receptor 7	1079	0.0051158	CCR7
+thioredoxin reductase 1	846	0.0049847	TXNRD1
+pyridoxamine 5'-phosphate oxidase	597	0.0049651	PNPO
+phosphofructokinase	606	0.0049146	PFKL
+actin	317	0.0048926	ACTB
+somatostatin	1091	0.0047781	SST
+slit homolog 2 (Drosophila)	230	0.004756	SLIT2
+bradykinin receptor B2	1258	0.0047307	BDKRB2
+cyclin-dependent kinase-like 5	65	0.0046533	CDKL5
+achaete-scute family bHLH transcription factor 1	155	0.0046131	ASCL1
+hydroxysteroid (17-beta) dehydrogenase 4	747	0.0046051	HSD17B4
+ceramide synthase 1	716	0.0045513	CERS1
+heme oxygenase 1	1229	0.0045386	HMOX1
+cannabinoid receptor 1 (brain)	1192	0.0045295	CNR1
+pyridoxal (pyridoxine, vitamin B6) kinase	571	0.0044622	PDXK
+fatty acyl CoA reductase 1	715	0.0043823	FAR1
+prodynorphin	930	0.0043352	PDYN
+ceroid-lipofuscinosis	15	0.0042851	CLN8
+SRC proto-oncogene	945	0.0042806	SRC
+ret proto-oncogene	183	0.004256	RET
+angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1826	0.0042211	AGT
+interleukin 6 signal transducer	832	0.0041159	IL6ST
+ubiquitin protein ligase E3A	219	0.0040985	UBE3A
+guanine nucleotide binding protein (G protein)	482	0.0039489	GNAO1
+L-2-hydroxyglutarate dehydrogenase	556	0.0039357	L2HGDH
+chemokine (C-C motif) receptor 3	1080	0.0039178	CCR3
+vitamin D (1,25- dihydroxyvitamin D3) receptor	307	0.0038992	VDR
+myocyte enhancer factor 2C	610	0.0038209	MEF2C
+quinoid dihydropteridine reductase	558	0.0038143	QDPR
+nitric oxide synthase 1 (neuronal)	138	0.0036941	NOS1
+galanin/GMAP prepropeptide	917	0.0036606	GAL
+chemokine (C-C motif) receptor 2	1102	0.0035755	CCR2
+tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein	620	0.0035749	YWHAZ
+cadherin 2	210	0.0035464	CDH2
+erythropoietin	88	0.0035435	EPO
+prickle homolog 1 (Drosophila)	215	0.0035236	PRICKLE1
+chemokine (C-X3-C motif) receptor 1	842	0.0035067	CX3CR1
+ADAM metallopeptidase domain 10	473	0.0034502	ADAM10
+v-akt murine thymoma viral oncogene homolog 3	857	0.003428	AKT3
+sialidase 1 (lysosomal sialidase)	718	0.0033947	NEU1
+ureidopropionase	563	0.0033748	UPB1
+NHL repeat containing E3 ubiquitin protein ligase 1	572	0.0033276	NHLRC1
+epilepsy	572	0.0033276	EPM2A
+endoplasmic reticulum to nucleus signaling 1	33	0.0032596	ERN1
+oxytocin/neurophysin I prepropeptide	985	0.0032446	OXT
+vascular endothelial growth factor A	842	0.003231	VEGFA
+jun proto-oncogene	720	0.0032118	JUN
+adenosine kinase	545	0.0031449	ADK
+N-acylsphingosine amidohydrolase (acid ceramidase) 1	719	0.0031378	ASAH1
+chemokine (C-X-C motif) ligand 12	970	0.0031155	CXCL12
+neuropeptide Y	928	0.0031042	NPY
+mitogen-activated protein kinase 10	174	0.0030768	MAPK10
+apolipoprotein E	1105	0.0030664	APOE
+growth associated protein 43	24	0.0030441	GAP43
+chemokine (C-X-C motif) ligand 2	923	0.0030067	CXCL2
+5'-nucleotidase	576	0.0029996	NT5E
+aldehyde dehydrogenase 7 family	559	0.0029717	ALDH7A1
+glutathione peroxidase 1	919	0.002958	GPX1
+platelet-activating factor acetylhydrolase 1b	60	0.0029413	PAFAH1B1
+catalase	742	0.0029237	CAT
+nerve growth factor (beta polypeptide)	448	0.0028541	NGF
+hes family bHLH transcription factor 1	520	0.0028239	HES1
+FBJ murine osteosarcoma viral oncogene homolog	260	0.0027426	FOS
+brain-derived neurotrophic factor	280	0.0027155	BDNF
+heparin-binding EGF-like growth factor	625	0.002712	HBEGF
+corticotropin releasing hormone	763	0.0026419	CRH
+transcription factor 4	132	0.0026165	TCF4
+Dab	11	0.00259	DAB1
+chemokine (C-C motif) receptor 5 (gene/pseudogene)	1153	0.002561	CCR5
+protein phosphatase 1	573	0.0024907	PPP1R3C
+ST3 beta-galactoside alpha-2	754	0.0024502	ST3GAL3, ST3GAL5
+neurotrophin 3	96	0.0024305	NTF3
+chemokine (C-X3-C motif) ligand 1	682	0.0024111	CX3CL1
+glucan (1,4-alpha-)	575	0.0023966	GBE1
+aminolevulinate dehydratase	550	0.0023723	ALAD
+interleukin 1	365	0.0023656	IL1B
+tumor necrosis factor	542	0.0023301	TNF
+v-akt murine thymoma viral oncogene homolog 1	1759	0.0023283	AKT1
+kinase insert domain receptor	455	0.0023199	KDR
+tuberous sclerosis 2	432	0.0023112	TSC2
+jun D proto-oncogene	132	0.0022741	JUND
+caspase 3	542	0.0022412	CASP3
+protein tyrosine kinase 2 beta	301	0.0022305	PTK2B
+v-rel avian reticuloendotheliosis viral oncogene homolog A	575	0.0022024	RELA
+5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase	545	0.0021801	ATIC
+calpain 1	51	0.0020991	CAPN1
+myelin basic protein	36	0.0020802	MBP
+chemokine (C-C motif) ligand 3	682	0.0019829	CCL3
+jun B proto-oncogene	306	0.0019453	JUNB
+fibroblast growth factor 2 (basic)	547	0.001858	FGF2
+FBJ murine osteosarcoma viral oncogene homolog B	15	0.0017636	FOSB
+mechanistic target of rapamycin (serine/threonine kinase)	468	0.0017081	MTOR
+nuclear receptor subfamily 3	190	0.001705	NR3C1
+eukaryotic translation initiation factor 2-alpha kinase 3	23	0.0016891	EIF2AK3
+matrix metallopeptidase 9	447	0.0016791	MMP9
+interleukin 1 receptor antagonist	164	0.0016521	IL1RN
+adenylosuccinate lyase	545	0.0016521	ADSL
+lysosomal-associated membrane protein 2	102	0.0016141	LAMP2
+ATM serine/threonine kinase	96	0.0016038	ATM
+corticotropin releasing hormone binding protein	10	0.0015664	CRHBP
+heat shock 27kDa protein 1	230	0.0014876	HSPB1
+reelin	13	0.0014727	RELN
+parkin RBR E3 ubiquitin protein ligase	52	0.0014427	PARK2
+chemokine (C-C motif) ligand 2	753	0.0013958	CCL2
+APEX nuclease (multifunctional DNA repair enzyme) 1	47	0.001317	APEX1
+gap junction protein	70	0.0013121	GJB6
+selenoprotein W	26	0.0012752	SEPW1
+B-cell CLL/lymphoma 2	109	0.0012263	BCL2
+filamin A	114	0.0011992	FLNA
+SIX homeobox 3	49	0.001194	SIX3
+prospero homeobox 1	49	0.001194	PROX1
+H2A histone family	301	0.0011846	H2AFX
+caspase 6	29	0.0011669	CASP6
+PR domain containing 4	192	0.001164	PRDM4
+peptidylprolyl isomerase A (cyclophilin A)	136	0.0011543	PPIA
+eukaryotic translation initiation factor 2	76	0.001144	EIF2S1
+dystrophin	21	0.0010818	DMD
+serpin peptidase inhibitor	2	0.001042	SERPINI1
+caspase 8	109	0.0010002	CASP8
+protein tyrosine phosphatase	6	0.000967	PTPRZ1
+tuberous sclerosis 1	208	0.0009067	TSC1
+caspase 2	217	0.00086807	CASP2
+suppressor of cytokine signaling 3	241	0.00084939	SOCS3
+nitric oxide synthase 2	142	0.00083681	NOS2
+sirtuin 1	102	0.00076511	SIRT1
+C-reactive protein	84	0.00073445	CRP
+allograft inflammatory factor 1	6	0.0007324	AIF1
+dual specificity phosphatase 4	216	0.00070143	DUSP4
+bone morphogenetic protein 4	21	0.00069628	BMP4
+glial fibrillary acidic protein	190	0.00068168	GFAP
+matrix metallopeptidase 8	3	0.0006092	MMP8
+ADAM metallopeptidase domain 9	3	0.0006039	ADAM9
+S100 calcium binding protein B	203	0.00058404	S100B
+intersectin 2	1	0.000583	ITSN2
+folate receptor 1 (adult)	15	0.0005555	FOLR1
+eukaryotic translation initiation factor 2-alpha kinase 2	62	0.00054663	EIF2AK2
+caspase 1	38	0.00050843	CASP1
+placental growth factor	190	0.00049511	PGF
+Smad nuclear interacting protein 1	3	0.0004935	SNIP1
+HtrA serine peptidase 2	5	0.0004894	HTRA2
+adducin 1 (alpha)	10	0.0004626	ADD1
+STAM binding protein	4	0.0004562	STAMBP
+dual specificity phosphatase 6	221	0.00045072	DUSP6
+single-strand-selective monofunctional uracil-DNA glycosylase 1	18	0.00044645	SMUG1
+dedicator of cytokinesis 7	34	0.00044228	DOCK7
+aristaless related homeobox	5	0.0003918	ARX
+interleukin 18	28	0.00037419	IL18
+macrophage migration inhibitory factor (glycosylation-inhibiting factor)	6	0.00037	MIF
+neurofibromin 2 (merlin)	6	0.0002803	NF2
+TEK tyrosine kinase	36	0.00024702	TEK
+small nuclear ribonucleoprotein polypeptide E	16	0.00024702	SNRPE
+eukaryotic translation initiation factor 2B	13	0.00023893	EIF2B5
+zinc finger E-box binding homeobox 2	2	0.0002305	ZEB2
+CD40 molecule	43	0.00022115	CD40
+dual specificity phosphatase 1	11	0.00021919	DUSP1
+phosphatidylinositol glycan anchor biosynthesis	3	0.0001917	PIGT, PIGN, PIGA
+cleavage and polyadenylation specific factor 4	20	0.00018882	CPSF4
+beclin 1	2	0.0001779	BECN1
+transcription factor A	19	0.00017562	TFAM
+dual specificity phosphatase 5	5	0.0001729	DUSP5
+bromodomain containing 2	1	0.000164	BRD2
+purinergic receptor P2X	17	0.00016313	P2RX7
+peripheral myelin protein 22	2	0.0001521	PMP22
+integrin-linked kinase	4	0.0001337	ILK
+synaptic Ras GTPase activating protein 1	3	0.0001141	SYNGAP1
+voltage-dependent anion channel 1	1	9.56e-05	VDAC1
+glutaminyl-tRNA synthetase	8	9.361e-05	QARS
+golgi SNAP receptor complex member 2	1	6.63e-05	GOSR2
+casein kinase 1	1	5.8e-05	CSNK1G1
+tripeptidyl peptidase I	1	4.67e-05	TPP1
+elongator acetyltransferase complex subunit 4	1	2.5e-05	ELP4
+NECAP endocytosis associated 1	3	2.391e-05	NECAP1

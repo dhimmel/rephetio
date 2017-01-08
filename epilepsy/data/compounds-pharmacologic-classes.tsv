@@ -1,0 +1,207 @@
+class_id	class_name	class_source	class_type	count	compounds
+D002491	Central Nervous System Agents	MeSH	Pharmacological Action	76	Acamprosate, Acetazolamide, Adinazolam, Alprazolam, Amitriptyline, Amobarbital, Amoxapine, Baclofen, Bromazepam, Butabarbital, Butethal, Carbamazepine, Chlordiazepoxide, Clobazam, Clomipramine, Clonazepam, Clorazepate, Clozapine, Desflurane, Desipramine, Diazepam, Enflurane, Estazolam, Eszopiclone, Ethosuximide, Ethotoin, Etomidate, Felbamate, Fludiazepam, Flunitrazepam, Flurazepam, Fosphenytoin, Fospropofol, Gabapentin, Glutethimide, Halazepam, Hexobarbital, Imipramine, Isocarboxazid, Isoflurane, Ketamine, Ketazolam, Lacosamide, Lamotrigine, Lorazepam, Loxapine, Memantine, Methsuximide, Methylphenobarbital, Midazolam, Modafinil, Nitrazepam, Nortriptyline, Oxazepam, Oxcarbazepine, Pentobarbital, Phenelzine, Phenobarbital, Phenytoin, Prazepam, Pregabalin, Primidone, Quazepam, Secobarbital, Sevoflurane, Temazepam, Thiamylal, Thiopental, Tiagabine, Topiramate, Triazolam, Trimethadione, Valproic Acid, Zolpidem, Zonisamide, Zopiclone
+D002492	Central Nervous System Depressants	MeSH	Pharmacological Action	46	Alprazolam, Amobarbital, Bromazepam, Butabarbital, Butethal, Carbamazepine, Chlordiazepoxide, Clorazepate, Clozapine, Desflurane, Diazepam, Enflurane, Estazolam, Eszopiclone, Etomidate, Fludiazepam, Flunitrazepam, Flurazepam, Fospropofol, Gabapentin, Glutethimide, Halazepam, Hexobarbital, Isoflurane, Ketamine, Ketazolam, Lorazepam, Loxapine, Methylphenobarbital, Midazolam, Nitrazepam, Oxazepam, Pentobarbital, Phenobarbital, Prazepam, Pregabalin, Quazepam, Secobarbital, Sevoflurane, Temazepam, Thiamylal, Thiopental, Triazolam, Valproic Acid, Zolpidem, Zopiclone
+D018377	Neurotransmitter Agents	MeSH	Pharmacological Action	42	Alprazolam, Amitriptyline, Amobarbital, Amoxapine, Baclofen, Bromazepam, Chlordiazepoxide, Clomipramine, Clonazepam, Clorazepate, Clozapine, Cyproheptadine, Desipramine, Diazepam, Estazolam, Flunitrazepam, Flurazepam, Gabapentin, Hexobarbital, Imipramine, Ketamine, Lamotrigine, Lorazepam, Loxapine, Memantine, Methylphenobarbital, Midazolam, Nitrazepam, Nortriptyline, Oxazepam, Pentobarbital, Phenobarbital, Prazepam, Quinidine, Secobarbital, Temazepam, Thiamylal, Thiopental, Tiagabine, Triazolam, Valproic Acid, Zolpidem
+D011619	Psychotropic Drugs	MeSH	Pharmacological Action	33	Adinazolam, Alprazolam, Amitriptyline, Amoxapine, Bromazepam, Carbamazepine, Chlordiazepoxide, Clomipramine, Clorazepate, Clozapine, Desipramine, Diazepam, Estazolam, Fludiazepam, Flunitrazepam, Flurazepam, Gabapentin, Halazepam, Imipramine, Isocarboxazid, Ketazolam, Lorazepam, Loxapine, Midazolam, Nitrazepam, Nortriptyline, Oxazepam, Phenelzine, Prazepam, Pregabalin, Temazepam, Triazolam, Valproic Acid
+D000927	Anticonvulsants	MeSH	Pharmacological Action	30	Acetazolamide, Carbamazepine, Clobazam, Clonazepam, Clorazepate, Diazepam, Estazolam, Ethosuximide, Ethotoin, Felbamate, Fludiazepam, Fosphenytoin, Gabapentin, Lacosamide, Lamotrigine, Lorazepam, Methsuximide, Methylphenobarbital, Nitrazepam, Oxcarbazepine, Phenobarbital, Phenytoin, Pregabalin, Primidone, Thiopental, Tiagabine, Topiramate, Trimethadione, Valproic Acid, Zonisamide
+D018682	GABA Agents	MeSH	Pharmacological Action	29	Alprazolam, Amobarbital, Baclofen, Bromazepam, Chlordiazepoxide, Clonazepam, Clorazepate, Clozapine, Diazepam, Estazolam, Flunitrazepam, Flurazepam, Hexobarbital, Lorazepam, Methylphenobarbital, Midazolam, Nitrazepam, Oxazepam, Pentobarbital, Phenobarbital, Prazepam, Secobarbital, Temazepam, Thiamylal, Thiopental, Tiagabine, Triazolam, Valproic Acid, Zolpidem
+CHEBI:35623	anticonvulsant	CHEBI	Application	27	Adinazolam, Alprazolam, Carbamazepine, Cinolazepam, Clobazam, Clonazepam, Clorazepate, Diazepam, Estazolam, Ethosuximide, Ethotoin, Felbamate, Gabapentin, Gabapentin, Lamotrigine, Levetiracetam, Methylphenobarbital, Nitrazepam, Oxcarbazepine, Phenobarbital, Pregabalin, Primidone, Thiopental, Tiagabine, Topiramate, Valproic Acid, Zonisamide
+D006993	Hypnotics and Sedatives	MeSH	Pharmacological Action	26	Alprazolam, Amobarbital, Butabarbital, Butethal, Chlordiazepoxide, Diazepam, Eszopiclone, Etomidate, Flurazepam, Fospropofol, Glutethimide, Hexobarbital, Lorazepam, Methylphenobarbital, Midazolam, Nitrazepam, Oxazepam, Pentobarbital, Phenobarbital, Quazepam, Secobarbital, Temazepam, Thiamylal, Thiopental, Zolpidem, Zopiclone
+D014149	Tranquilizing Agents	MeSH	Pharmacological Action	24	Alprazolam, Bromazepam, Carbamazepine, Chlordiazepoxide, Clorazepate, Clozapine, Diazepam, Estazolam, Fludiazepam, Flunitrazepam, Flurazepam, Gabapentin, Halazepam, Ketazolam, Lorazepam, Loxapine, Midazolam, Nitrazepam, Oxazepam, Prazepam, Pregabalin, Temazepam, Triazolam, Valproic Acid
+D018757	GABA Modulators	MeSH	Pharmacological Action	24	Alprazolam, Amobarbital, Bromazepam, Chlordiazepoxide, Clonazepam, Clorazepate, Diazepam, Estazolam, Flunitrazepam, Flurazepam, Hexobarbital, Lorazepam, Methylphenobarbital, Midazolam, Nitrazepam, Oxazepam, Pentobarbital, Phenobarbital, Prazepam, Secobarbital, Temazepam, Thiamylal, Thiopental, Triazolam
+D014151	Anti-Anxiety Agents	MeSH	Pharmacological Action	20	Alprazolam, Bromazepam, Chlordiazepoxide, Clorazepate, Diazepam, Estazolam, Fludiazepam, Flunitrazepam, Flurazepam, Gabapentin, Halazepam, Ketazolam, Lorazepam, Midazolam, Nitrazepam, Oxazepam, Prazepam, Pregabalin, Temazepam, Triazolam
+D049990	Membrane Transport Modulators	MeSH	Pharmacological Action	18	Amitriptyline, Amoxapine, Chlorthalidone, Clomipramine, Dalfampridine, Desipramine, Gabapentin, Imipramine, Indapamide, Lamotrigine, Nortriptyline, Oxcarbazepine, Phenytoin, Pregabalin, Quinidine, Ranolazine, Tiagabine, Verapamil
+N0000008486	Decreased Central Nervous System Disorganized Electrical Activity	FDA	Physiologic Effect	18	Carbamazepine, Ethosuximide, Ethotoin, Felbamate, Fosphenytoin, Gabapentin, Lacosamide, Lamotrigine, Levetiracetam, Methsuximide, Oxcarbazepine, Phenytoin, Primidone, Tiagabine, Topiramate, Trimethadione, Valproic Acid, Zonisamide
+N0000175753	Anti-epileptic Agent	FDA	FDA Established Pharmacologic Class	16	Carbamazepine, Ethosuximide, Ethotoin, Felbamate, Fosphenytoin, Gabapentin, Lacosamide, Lamotrigine, Methsuximide, Oxcarbazepine, Phenytoin, Primidone, Tiagabine, Trimethadione, Valproic Acid, Zonisamide
+CHEBI:35717	sedative	CHEBI	Application	15	Adinazolam, Alprazolam, Butalbital, Chlordiazepoxide, Cinolazepam, Diazepam, Eszopiclone, Etomidate, Nitrazepam, Phenobarbital, Secobarbital, Thiamylal, Thiopental, Zolpidem, Zopiclone
+N0000175694	Benzodiazepine	FDA	FDA Established Pharmacologic Class	14	Alprazolam, Chlordiazepoxide, Clobazam, Clonazepam, Clorazepate, Diazepam, Estazolam, Flurazepam, Lorazepam, Midazolam, Oxazepam, Quazepam, Temazepam, Triazolam
+N0000007542	Benzodiazepines	FDA	Chemical/Ingredient	14	Alprazolam, Chlordiazepoxide, Clobazam, Clonazepam, Clorazepate, Diazepam, Estazolam, Flurazepam, Lorazepam, Midazolam, Oxazepam, Quazepam, Temazepam, Triazolam
+D002317	Cardiovascular Agents	MeSH	Pharmacological Action	11	Chlorthalidone, Dalfampridine, Gabapentin, Indapamide, Lamotrigine, Oxcarbazepine, Phenytoin, Pregabalin, Quinidine, Ranolazine, Verapamil
+CHEBI:35474	anxiolytic drug	CHEBI	Application	10	Adinazolam, Alprazolam, Chlordiazepoxide, Clobazam, Clonazepam, Clorazepate, Diazepam, Estazolam, Fludiazepam, Oxazepam
+D000777	Anesthetics	MeSH	Pharmacological Action	10	Desflurane, Diazepam, Enflurane, Etomidate, Isoflurane, Ketamine, Midazolam, Sevoflurane, Thiamylal, Thiopental
+D004791	Enzyme Inhibitors	MeSH	Pharmacological Action	9	Acetazolamide, Dabrafenib, Desipramine, Diclofenamide, Isocarboxazid, Methazolamide, Phenelzine, Quinidine, Valproic Acid
+D000928	Antidepressive Agents	MeSH	Pharmacological Action	9	Adinazolam, Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Isocarboxazid, Nortriptyline, Phenelzine
+CHEBI:35469	antidepressant	CHEBI	Application	9	Adinazolam, Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Lamotrigine, Memantine, Nortriptyline
+D014179	Neurotransmitter Uptake Inhibitors	MeSH	Pharmacological Action	7	Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Nortriptyline, Tiagabine
+D000700	Analgesics	MeSH	Pharmacological Action	6	Amitriptyline, Antipyrine, Carbamazepine, Gabapentin, Ketamine, Pregabalin
+D018689	Sensory System Agents	MeSH	Pharmacological Action	6	Amitriptyline, Antipyrine, Carbamazepine, Gabapentin, Ketamine, Pregabalin
+D018686	Anesthetics, Intravenous	MeSH	Pharmacological Action	6	Diazepam, Etomidate, Ketamine, Midazolam, Thiamylal, Thiopental
+N0000175752	Tricyclic Antidepressant	FDA	FDA Established Pharmacologic Class	6	Amitriptyline, Amoxapine, Clomipramine, Desipramine, Imipramine, Nortriptyline
+N0000175681	General Anesthetic	FDA	FDA Established Pharmacologic Class	6	Desflurane, Enflurane, Etomidate, Isoflurane, Ketamine, Sevoflurane
+CHEBI:50268	GABA modulator	CHEBI	Application	6	Clobazam, Clonazepam, Clorazepate, Estazolam, Nitrazepam, Secobarbital
+N0000175975	General Anesthesia	FDA	Physiologic Effect	6	Desflurane, Enflurane, Etomidate, Isoflurane, Ketamine, Sevoflurane
+D018663	Adrenergic Agents	MeSH	Pharmacological Action	6	Amitriptyline, Amoxapine, Desipramine, Imipramine, Nortriptyline, Quinidine
+D000759	Adjuvants, Anesthesia	MeSH	Pharmacological Action	6	Chlordiazepoxide, Diazepam, Midazolam, Pentobarbital, Secobarbital, Triazolam
+CHEBI:35488	central nervous system depressant	CHEBI	Application	5	Baclofen, Eszopiclone, Sevoflurane, Zolpidem, Zopiclone
+D018691	Excitatory Amino Acid Antagonists	MeSH	Pharmacological Action	5	Gabapentin, Ketamine, Lamotrigine, Memantine, Phenobarbital
+D018759	Adrenergic Uptake Inhibitors	MeSH	Pharmacological Action	5	Amitriptyline, Amoxapine, Desipramine, Imipramine, Nortriptyline
+D026941	Sodium Channel Blockers	MeSH	Pharmacological Action	5	Lamotrigine, Oxcarbazepine, Phenytoin, Quinidine, Ranolazine
+D000929	Antidepressive Agents, Tricyclic	MeSH	Pharmacological Action	5	Amitriptyline, Clomipramine, Desipramine, Imipramine, Nortriptyline
+CHEBI:35640	adrenergic uptake inhibitor	CHEBI	Application	5	Amitriptyline, Amoxapine, Desipramine, Imipramine, Nortriptyline
+D061567	Voltage-Gated Sodium Channel Blockers	MeSH	Pharmacological Action	4	Lamotrigine, Oxcarbazepine, Phenytoin, Quinidine
+D065701	Cytochrome P-450 CYP3A Inducers	MeSH	Pharmacological Action	4	Carbamazepine, Modafinil, Oxcarbazepine, Phenobarbital
+CHEBI:35480	analgesic	CHEBI	Application	4	Butalbital, Carbamazepine, Ketamine, Nortriptyline
+D018490	Serotonin Agents	MeSH	Pharmacological Action	4	Amoxapine, Clomipramine, Clozapine, Cyproheptadine
+CHEBI:88188	drug allergen	CHEBI	Application	4	Carbamazepine, Desipramine, Phenobarbital, Thiopental
+CHEBI:35481	non-narcotic analgesic	CHEBI	Application	4	Antipyrine, Carbamazepine, Lamotrigine, Phenazopyridine
+D004232	Diuretics	MeSH	Pharmacological Action	4	Acetazolamide, Chlorthalidone, Indapamide, Methazolamide
+D002121	Calcium Channel Blockers	MeSH	Pharmacological Action	4	Gabapentin, Lamotrigine, Pregabalin, Verapamil
+D018685	Anesthetics, Inhalation	MeSH	Pharmacological Action	4	Desflurane, Enflurane, Isoflurane, Sevoflurane
+D045283	Natriuretic Agents	MeSH	Pharmacological Action	4	Acetazolamide, Chlorthalidone, Indapamide, Methazolamide
+D009125	Muscle Relaxants, Central	MeSH	Pharmacological Action	3	Baclofen, Diazepam, Fludiazepam
+D009465	Neuromuscular Agents	MeSH	Pharmacological Action	3	Baclofen, Diazepam, Fludiazepam
+CHEBI:63726	neuroprotective agent	CHEBI	Application	3	Felbamate, Memantine, Valproic Acid
+D002257	Carbonic Anhydrase Inhibitors	MeSH	Pharmacological Action	3	Acetazolamide, Diclofenamide, Methazolamide
+D005765	Gastrointestinal Agents	MeSH	Pharmacological Action	3	Cyproheptadine, Diazepam, Lorazepam
+N0000008048	Sulfonamides	FDA	Chemical/Ingredient	3	Acetazolamide, Diclofenamide, Zonisamide
+CHEBI:38870	inhalation anaesthetic	CHEBI	Application	3	Desflurane, Isoflurane, Sevoflurane
+N0000182137	Cytochrome P450 2D6 Inhibitors	FDA	Mechanism of Action	3	Clobazam, Quinidine, Ranolazine
+N0000187064	Cytochrome P450 2B6 Inducers	FDA	Mechanism of Action	3	Carbamazepine, Dabrafenib, Phenytoin
+N0000185607	Cytochrome P450 2C19 Inducers	FDA	Mechanism of Action	3	Carbamazepine, Dabrafenib, Phenytoin
+N0000185507	Cytochrome P450 2C9 Inducers	FDA	Mechanism of Action	3	Carbamazepine, Dabrafenib, Phenytoin
+CHEBI:38070	anti-arrhythmia drug	CHEBI	Application	3	Quinidine, Ranolazine, Verapamil
+N0000185506	Cytochrome P450 3A4 Inducers	FDA	Mechanism of Action	3	Carbamazepine, Dabrafenib, Topiramate
+CHEBI:35610	antineoplastic agent	CHEBI	Application	3	Bortezomib, Dabrafenib, Nortriptyline
+CHEBI:38877	intravenous anaesthetic	CHEBI	Application	3	Etomidate, Ketamine, Thiopental
+CHEBI:48279	serotonergic antagonist	CHEBI	Application	3	Clomipramine, Clozapine, Cyproheptadine
+CHEBI:48561	dopaminergic antagonist	CHEBI	Application	3	Amoxapine, Clozapine, Loxapine
+D018712	Analgesics, Non-Narcotic	MeSH	Pharmacological Action	3	Amitriptyline, Antipyrine, Carbamazepine
+D018755	GABA Agonists	MeSH	Pharmacological Action	3	Baclofen, Tiagabine, Zolpidem
+CHEBI:35477	antimanic drug	CHEBI	Application	3	Carbamazepine, Lamotrigine, Valproic Acid
+CHEBI:50949	serotonin uptake inhibitor	CHEBI	Application	3	Amoxapine, Clomipramine, Desipramine
+D015259	Dopamine Agents	MeSH	Pharmacological Action	3	Amoxapine, Loxapine, Memantine
+CHEBI:51373	GABA agonist	CHEBI	Application	3	Alprazolam, Baclofen, Zolpidem
+N0000175751	Mood Stabilizer	FDA	FDA Established Pharmacologic Class	3	Carbamazepine, Lamotrigine, Valproic Acid
+D018692	Antimanic Agents	MeSH	Pharmacological Action	3	Carbamazepine, Gabapentin, Valproic Acid
+D018726	Anti-Dyskinesia Agents	MeSH	Pharmacological Action	2	Gabapentin, Memantine
+D049993	Sodium Chloride Symporter Inhibitors	MeSH	Pharmacological Action	2	Chlorthalidone, Indapamide
+D012702	Serotonin Antagonists	MeSH	Pharmacological Action	2	Clozapine, Cyproheptadine
+D014150	Antipsychotic Agents	MeSH	Pharmacological Action	2	Clozapine, Loxapine
+N0000000196	GABA A Agonists	FDA	Mechanism of Action	2	Baclofen, Zolpidem
+D018492	Dopamine Antagonists	MeSH	Pharmacological Action	2	Amoxapine, Loxapine
+D000978	Antiparkinson Agents	MeSH	Pharmacological Action	2	Gabapentin, Memantine
+D008996	Monoamine Oxidase Inhibitors	MeSH	Pharmacological Action	2	Isocarboxazid, Phenelzine
+D017367	Serotonin Uptake Inhibitors	MeSH	Pharmacological Action	2	Amoxapine, Clomipramine
+D020011	Protective Agents	MeSH	Pharmacological Action	2	Topiramate, Zonisamide
+N0000175759	gamma-Aminobutyric Acid-ergic Agonist	FDA	FDA Established Pharmacologic Class	2	Baclofen, Zolpidem
+CHEBI:48876	muscarinic antagonist	CHEBI	Application	2	Clozapine, Quinidine
+N0000187063	Cytochrome P450 2C8 Inducers	FDA	Mechanism of Action	2	Dabrafenib, Phenytoin
+CHEBI:35674	antihypertensive agent	CHEBI	Application	2	Indapamide, Verapamil
+N0000175744	Monoamine Oxidase Inhibitor	FDA	FDA Established Pharmacologic Class	2	Isocarboxazid, Phenelzine
+CHEBI:37890	alpha-adrenergic antagonist	CHEBI	Application	2	Desipramine, Quinidine
+CHEBI:51371	muscle relaxant	CHEBI	Application	2	Alprazolam, Baclofen
+N0000175517	Carbonic Anhydrase Inhibitor	FDA	FDA Established Pharmacologic Class	2	Acetazolamide, Diclofenamide
+CHEBI:37955	H1-receptor antagonist	CHEBI	Application	2	Cyproheptadine, Desipramine
+N0000185503	P-Glycoprotein Inhibitors	FDA	Mechanism of Action	2	Ranolazine, Zonisamide
+CHEBI:50266	prodrug	CHEBI	Application	2	Clorazepate, Gabapentin
+D000889	Anti-Arrhythmia Agents	MeSH	Pharmacological Action	2	Quinidine, Verapamil
+N0000175420	Thiazide-like Diuretic	FDA	FDA Established Pharmacologic Class	2	Chlorthalidone, Indapamide
+N0000175359	Increased Diuresis	FDA	Physiologic Effect	2	Chlorthalidone, Indapamide
+D000932	Antiemetics	MeSH	Pharmacological Action	2	Diazepam, Lorazepam
+D000959	Antihypertensive Agents	MeSH	Pharmacological Action	2	Chlorthalidone, Indapamide
+N0000191266	Cytochrome P450 1A2 Inducers	FDA	Mechanism of Action	2	Carbamazepine, Phenytoin
+D000970	Antineoplastic Agents	MeSH	Pharmacological Action	2	Bortezomib, Dabrafenib
+CHEBI:60807	anaesthesia adjuvant	CHEBI	Application	2	Chlordiazepoxide, Secobarbital
+N0000187061	Organic Cation Transporter 2 Inhibitors	FDA	Mechanism of Action	1	Ranolazine
+N0000182140	Cytochrome P450 2C19 Inhibitors	FDA	Mechanism of Action	1	Topiramate
+D058786	GABA-B Receptor Agonists	MeSH	Pharmacological Action	1	Baclofen
+N0000190108	Organic Anion Transporting Polypeptide 1B3 Inhibitors	FDA	Mechanism of Action	1	Dabrafenib
+D058785	GABA-A Receptor Agonists	MeSH	Pharmacological Action	1	Zolpidem
+N0000190107	Organic Anion Transporting Polypeptide 1B1 Inhibitors	FDA	Mechanism of Action	1	Dabrafenib
+D065607	Cytochrome P-450 Enzyme Inhibitors	MeSH	Pharmacological Action	1	Quinidine
+N0000190110	Organic Anion Transporter 1 Inhibitors	FDA	Mechanism of Action	1	Dabrafenib
+N0000190111	Organic Anion Transporter 3 Inhibitors	FDA	Mechanism of Action	1	Dabrafenib
+N0000190113	Breast Cancer Resistance Protein Inhibitors	FDA	Mechanism of Action	1	Dabrafenib
+N0000190114	Cytochrome P450 3A Inhibitors	FDA	Mechanism of Action	1	Ranolazine
+N0000190118	Cytochrome P450 3A Inducers	FDA	Mechanism of Action	1	Phenytoin
+D047428	Protein Kinase Inhibitors	MeSH	Pharmacological Action	1	Dabrafenib
+D064690	Wakefulness-Promoting Agents	MeSH	Pharmacological Action	1	Modafinil
+N0000008016	Barbiturates	FDA	Chemical/Ingredient	1	Butalbital
+N0000182135	Cytochrome P450 2D6 Inhibitor	FDA	FDA Established Pharmacologic Class	1	Quinidine
+N0000175651	Increased Sympathetic Activity	FDA	Physiologic Effect	1	Modafinil
+N0000020015	NMDA Receptor Antagonists	FDA	Mechanism of Action	1	Memantine
+N0000175075	Proteasome Inhibitors	FDA	Mechanism of Action	1	Bortezomib
+N0000175427	Anti-anginal	FDA	FDA Established Pharmacologic Class	1	Ranolazine
+N0000000235	Carbonic Anhydrase Inhibitors	FDA	Mechanism of Action	1	Zonisamide
+N0000175430	Atypical Antipsychotic	FDA	FDA Established Pharmacologic Class	1	Clozapine
+N0000000116	GABA B Agonists	FDA	Mechanism of Action	1	Baclofen
+N0000175566	Calcium Channel Blocker	FDA	FDA Established Pharmacologic Class	1	Verapamil
+N0000175605	Kinase Inhibitor	FDA	FDA Established Pharmacologic Class	1	Dabrafenib
+N0000000069	Calcium Channel Antagonists	FDA	Mechanism of Action	1	Verapamil
+D065690	Cytochrome P-450 CYP2D6 Inhibitors	MeSH	Pharmacological Action	1	Quinidine
+N0000175693	Barbiturate	FDA	FDA Established Pharmacologic Class	1	Butalbital
+N0000175728	Central Nervous System Depression	FDA	Physiologic Effect	1	Zolpidem
+N0000175729	Central Nervous System Stimulation	FDA	Physiologic Effect	1	Modafinil
+N0000175745	N-methyl-D-aspartate Receptor Antagonist	FDA	FDA Established Pharmacologic Class	1	Memantine
+D065695	Cytochrome P-450 CYP2B6 Inducers	MeSH	Pharmacological Action	1	Phenobarbital
+N0000007570	Pyridines	FDA	Chemical/Ingredient	1	Zolpidem
+N0000175769	Sympathomimetic-like Agent	FDA	FDA Established Pharmacologic Class	1	Modafinil
+D065694	Cytochrome P-450 CYP1A2 Inducers	MeSH	Pharmacological Action	1	Phenytoin
+N0000175426	Antiarrhythmic	FDA	FDA Established Pharmacologic Class	1	Quinidine
+CHEBI:33289	avicide	CHEBI	Application	1	Dalfampridine
+D026902	Potassium Channel Blockers	MeSH	Pharmacological Action	1	Dalfampridine
+CHEBI:48278	serotonergic drug	CHEBI	Application	1	Clomipramine
+CHEBI:65259	GABA antagonist	CHEBI	Application	1	Clozapine
+CHEBI:65191	second generation antipsychotic	CHEBI	Application	1	Clozapine
+CHEBI:64370	glutamate transporter activator	CHEBI	Application	1	Carbamazepine
+CHEBI:59683	antipruritic drug	CHEBI	Application	1	Cyproheptadine
+CHEBI:55324	gastrointestinal drug	CHEBI	Application	1	Cyproheptadine
+CHEBI:53784	antispasmodic drug	CHEBI	Application	1	Nitrazepam
+CHEBI:52726	proteasome inhibitor	CHEBI	Application	1	Bortezomib
+CHEBI:51374	GABA agent	CHEBI	Application	1	Valproic Acid
+CHEBI:50857	anti-allergic agent	CHEBI	Application	1	Cyproheptadine
+CHEBI:50427	platelet aggregation inhibitor	CHEBI	Application	1	Sevoflurane
+CHEBI:50267	protective agent	CHEBI	Application	1	Zonisamide
+CHEBI:48873	cholinergic antagonist	CHEBI	Application	1	Desipramine
+CHEBI:48560	dopaminergic agent	CHEBI	Application	1	Memantine
+CHEBI:48407	antiparkinson drug	CHEBI	Application	1	Memantine
+CHEBI:39456	antiglaucoma drug	CHEBI	Application	1	Diclofenamide
+D019440	Anti-Obesity Agents	MeSH	Pharmacological Action	1	Topiramate
+CHEBI:38867	anaesthetic	CHEBI	Application	1	Enflurane
+CHEBI:38068	antimalarial	CHEBI	Application	1	Quinidine
+CHEBI:37956	histamine antagonist	CHEBI	Application	1	Clozapine
+CHEBI:37887	adrenergic antagonist	CHEBI	Application	1	Clozapine
+CHEBI:36333	local anaesthetic	CHEBI	Application	1	Phenazopyridine
+CHEBI:35942	neurotransmitter agent	CHEBI	Application	1	Acamprosate
+CHEBI:35620	vasodilator agent	CHEBI	Application	1	Verapamil
+CHEBI:35498	diuretic	CHEBI	Application	1	Indapamide
+CHEBI:35493	antipyretic	CHEBI	Application	1	Antipyrine
+CHEBI:35482	opioid analgesic	CHEBI	Application	1	Antipyrine
+CHEBI:35476	antipsychotic agent	CHEBI	Application	1	Loxapine
+CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI	Application	1	Antipyrine
+CHEBI:35471	psychotropic drug	CHEBI	Application	1	Valproic Acid
+CHEBI:35470	central nervous system drug	CHEBI	Application	1	Zonisamide
+CHEBI:66981	ophthalmology drug	CHEBI	Application	1	Diclofenamide
+CHEBI:71031	orphan drug	CHEBI	Application	1	Dalfampridine
+CHEBI:77567	eugeroic	CHEBI	Application	1	Modafinil
+CHEBI:85384	GABA reuptake inhibitor	CHEBI	Application	1	Tiagabine
+D018926	Anti-Allergic Agents	MeSH	Pharmacological Action	1	Cyproheptadine
+D018756	GABA Antagonists	MeSH	Pharmacological Action	1	Clozapine
+D018727	Muscarinic Antagonists	MeSH	Pharmacological Action	1	Quinidine
+D018696	Neuroprotective Agents	MeSH	Pharmacological Action	1	Topiramate
+D018687	Antidepressive Agents, Second-Generation	MeSH	Pharmacological Action	1	Amoxapine
+D018680	Cholinergic Antagonists	MeSH	Pharmacological Action	1	Quinidine
+D018678	Cholinergic Agents	MeSH	Pharmacological Action	1	Quinidine
+D018674	Adrenergic Antagonists	MeSH	Pharmacological Action	1	Quinidine
+D018501	Antirheumatic Agents	MeSH	Pharmacological Action	1	Antipyrine
+D018494	Histamine Agents	MeSH	Pharmacological Action	1	Cyproheptadine
+D014665	Vasodilator Agents	MeSH	Pharmacological Action	1	Verapamil
+CHEBI:35337	central nervous system stimulant	CHEBI	Application	1	Modafinil
+D010975	Platelet Aggregation Inhibitors	MeSH	Pharmacological Action	1	Sevoflurane
+D006634	Histamine H1 Antagonists	MeSH	Pharmacological Action	1	Cyproheptadine
+D006633	Histamine Antagonists	MeSH	Pharmacological Action	1	Cyproheptadine
+D006401	Hematologic Agents	MeSH	Pharmacological Action	1	Sevoflurane
+D003879	Dermatologic Agents	MeSH	Pharmacological Action	1	Cyproheptadine
+D000982	Antipruritics	MeSH	Pharmacological Action	1	Cyproheptadine
+D000981	Antiprotozoal Agents	MeSH	Pharmacological Action	1	Quinidine
+D000977	Antiparasitic Agents	MeSH	Pharmacological Action	1	Quinidine
+D000975	Antioxidants	MeSH	Pharmacological Action	1	Zonisamide
+D000962	Antimalarials	MeSH	Pharmacological Action	1	Quinidine
+D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH	Pharmacological Action	1	Antipyrine
+D000893	Anti-Inflammatory Agents	MeSH	Pharmacological Action	1	Antipyrine
+D000890	Anti-Infective Agents	MeSH	Pharmacological Action	1	Quinidine
+D000778	Anesthetics, Dissociative	MeSH	Pharmacological Action	1	Ketamine
+D000697	Central Nervous System Stimulants	MeSH	Pharmacological Action	1	Modafinil
+D000427	Alcohol Deterrents	MeSH	Pharmacological Action	1	Acamprosate
+D000317	Adrenergic alpha-Antagonists	MeSH	Pharmacological Action	1	Quinidine
+N0000191267	Cytochrome P450 2D6 Inducers	FDA	Mechanism of Action	1	Phenytoin

@@ -1,0 +1,65 @@
+category	count	compounds
+Anticonvulsants	28	Acetazolamide, Carbamazepine, Clobazam, Clonazepam, Diazepam, Ethosuximide, Ethotoin, Felbamate, Fosphenytoin, Gabapentin, Lacosamide, Lamotrigine, Levetiracetam, Methsuximide, Methylphenobarbital, Nitrazepam, Oxcarbazepine, Phenobarbital, Phensuximide, Phenytoin, Pregabalin, Primidone, Thiopental, Tiagabine, Topiramate, Trimethadione, Valproic Acid, Zonisamide
+Hypnotics and Sedatives	24	Alprazolam, Butabarbital, Butethal, Chlordiazepoxide, Cinolazepam, Diazepam, Eszopiclone, Etomidate, Fospropofol, Glutethimide, Halazepam, Hexobarbital, Lorazepam, Methylphenobarbital, Midazolam, Nitrazepam, Oxazepam, Pentobarbital, Phenobarbital, Quazepam, Secobarbital, Thiopental, Zolpidem, Zopiclone
+GABA Modulators	17	Alprazolam, Bromazepam, Chlordiazepoxide, Clonazepam, Diazepam, Flunitrazepam, Hexobarbital, Methylphenobarbital, Midazolam, Nitrazepam, Oxazepam, Pentobarbital, Phenobarbital, Prazepam, Secobarbital, Thiopental, Triazolam
+Benzodiazepines	15	Alprazolam, Bromazepam, Chlordiazepoxide, Cinolazepam, Clobazam, Clonazepam, Clotiazepam, Fludiazepam, Flunitrazepam, Halazepam, Ketazolam, Lorazepam, Quazepam, Temazepam, Triazolam
+Anti-Anxiety Agents	12	Alprazolam, Bromazepam, Chlordiazepoxide, Diazepam, Flunitrazepam, Gabapentin, Halazepam, Midazolam, Nitrazepam, Oxazepam, Prazepam, Triazolam
+Barbiturates	7	Butabarbital, Butethal, Heptabarbital, Hexobarbital, Pentobarbital, Primidone, Secobarbital
+Antidepressive Agents	6	Adinazolam, Desipramine, Isocarboxazid, Lamotrigine, Nortriptyline, Phenelzine
+Adjuvants, Anesthesia	6	Chlordiazepoxide, Diazepam, Midazolam, Pentobarbital, Secobarbital, Triazolam
+Antidepressive Agents, Tricyclic	5	Amitriptyline, Clomipramine, Desipramine, Imipramine, Nortriptyline
+Adrenergic Uptake Inhibitors	5	Amitriptyline, Amoxapine, Desipramine, Imipramine, Nortriptyline
+Anesthetics, Intravenous	4	Diazepam, Etomidate, Midazolam, Thiopental
+Anesthetics, Inhalation	4	Desflurane, Enflurane, Isoflurane, Sevoflurane
+Excitatory Amino Acid Antagonists	4	Gabapentin, Ketamine, Memantine, Phenobarbital
+Diuretics	3	Acetazolamide, Chlorthalidone, Indapamide
+Antimanic Agents	3	Carbamazepine, Gabapentin, Valproic Acid
+Anesthetics	3	Enflurane, Isoflurane, Ketamine
+Analgesics	3	Gabapentin, Ketamine, Pregabalin
+Calcium Channel Blockers	3	Gabapentin, Lamotrigine, Verapamil
+Enzyme Inhibitors	2	Desipramine, Valproic Acid
+Dopamine Antagonists	2	Amoxapine, Loxapine
+Adjuvants	2	Hexobarbital, Secobarbital
+Monoamine Oxidase Inhibitors	2	Isocarboxazid, Phenelzine
+Neuroprotective Agents	2	Modafinil, Topiramate
+Neurotransmitter Uptake Inhibitors	2	Amoxapine, Tiagabine
+Serotonin Antagonists	2	Clozapine, Cyproheptadine
+Serotonin Uptake Inhibitors	2	Amoxapine, Clomipramine
+Sodium Chloride Symporter Inhibitors	2	Chlorthalidone, Indapamide
+Succinimides	2	Ethosuximide, Methsuximide
+Neuromuscular Agents	2	Baclofen, Halazepam
+Carbonic Anhydrase Inhibitors	2	Acetazolamide, Diclofenamide
+Antipsychotic Agents	2	Clozapine, Loxapine
+Antiparkinson Agents	2	Gabapentin, Memantine
+Anti-Arrhythmia Agents	2	Quinidine, Verapamil
+Analgesics, Non-Narcotic	2	Amitriptyline, Carbamazepine
+Antihypertensive Agents	2	Chlorthalidone, Indapamide
+Platelet Aggregation Inhibitors	1	Sevoflurane
+Anti-Obesity Agents	1	Topiramate
+Anti-Inflammatory Agents, Non-Steroidal	1	Antipyrine
+Nootropic Agents	1	Levetiracetam
+Ophthalmics	1	Diclofenamide
+Appetite Depressants	1	Modafinil
+Potassium Channel Blockers	1	Dalfampridine
+Muscle Relaxants, Skeletal	1	Baclofen
+Anesthetics, Dissociative	1	Ketamine
+Stimulants	1	Modafinil
+Alcohol Deterrents	1	Acamprosate
+Vasodilator Agents	1	Verapamil
+Anti-Allergic Agents	1	Cyproheptadine
+Anti-glaucoma Agents	1	Diclofenamide
+Muscle Relaxants, Central	1	Diazepam
+Antidepressive Agents, Second-Generation	1	Amoxapine
+Histamine H1 Antagonists	1	Cyproheptadine
+Gastrointestinal Agents	1	Cyproheptadine
+GABA-A Receptor Agonists	1	Zolpidem
+Antidyskinetics	1	Memantine
+GABA Antagonists	1	Clozapine
+GABA Agonists	1	Tiagabine
+GABA Agents	1	Valproic Acid
+Antiemetics	1	Diazepam
+Antioxidants	1	Zonisamide
+Dopamine Agents	1	Memantine
+Central Nervous System Stimulants	1	Modafinil
+Antipruritics	1	Cyproheptadine
+Voltage-Gated Sodium Channel Blockers	1	Phenytoin
