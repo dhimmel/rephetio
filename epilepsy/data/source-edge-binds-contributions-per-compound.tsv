@@ -1,0 +1,625 @@
+compound_name	gene_main_name	paths	contribution	gene_symbols	binds_contribution
+Acamprosate	glutamate receptor	1496	0.5362	GRM5, GRIN2A, GRIN2B, GRIN3A, GRIN1, GRIN2C, GRIN2D	0.60517
+Acamprosate	gamma-aminobutyric acid (GABA) A receptor	682	0.26773	GABRG2, GABRB3, GABRA1	0.30217
+Acamprosate	solute carrier family 36 (proton/amino acid symporter)	80	0.082102	SLC36A1	0.092663
+Acetazolamide	aquaporin 1 (Colton blood group)	134	0.17141	AQP1	0.30858
+Acetazolamide	carbonic anhydrase IV	76	0.079744	CA4	0.14356
+Acetazolamide	carbonic anhydrase III	69	0.067721	CA3	0.12192
+Acetazolamide	carbonic anhydrase VI	65	0.035165	CA6	0.063307
+Acetazolamide	carbonic anhydrase VB	67	0.029678	CA5B	0.053429
+Acetazolamide	carbonic anhydrase XIV	68	0.0293	CA14	0.052749
+Acetazolamide	carbonic anhydrase IX	94	0.025638	CA9	0.046155
+Acetazolamide	carbonic anhydrase I	76	0.025424	CA1	0.045771
+Acetazolamide	carbonic anhydrase II	77	0.022837	CA2	0.041113
+Acetazolamide	carbonic anhydrase VA	62	0.018891	CA5A	0.034009
+Acetazolamide	carbonic anhydrase VII	65	0.017348	CA7	0.031231
+Acetazolamide	carbonic anhydrase XII	68	0.015622	CA12	0.028124
+Acetazolamide	cytochrome P450	119	0.014132	CYP3A4	0.025442
+Acetazolamide	solute carrier family 22 (organic anion transporter)	59	0.0025604	SLC22A6	0.0046095
+Adinazolam	gamma-aminobutyric acid (GABA) A receptor	2776	0.45921	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRR3, GABRR1, GABRR2, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.93179
+Adinazolam	cytochrome P450	231	0.033613	CYP2C19, CYP3A4	0.068206
+Alprazolam	gamma-aminobutyric acid (GABA) A receptor	1515	0.24025	GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRA3, GABRA2	0.87281
+Alprazolam	cytochrome P450	417	0.028862	CYP3A5, CYP3A7, CYP2C9, CYP3A4	0.10485
+Alprazolam	CYP3A7-CYP3A51P readthrough	5	0.00615	CYP3A7-CYP3A51P	0.022342
+Amitriptyline	cytochrome P450	991	0.099446	CYP2C19, CYP2E1, CYP2D6, CYP2B6, CYP3A5, CYP2C8, CYP2C9, CYP1A2, CYP3A4	0.30745
+Amitriptyline	potassium channel	669	0.091364	KCND2, KCNQ3, KCNQ2, KCNA1, KCND3	0.28246
+Amitriptyline	neurotrophic tyrosine kinase	494	0.026951	NTRK2, NTRK1	0.083322
+Amitriptyline	cholinergic receptor	2022	0.02374	CHRM3, CHRM1, CHRM2, CHRM4, CHRM5	0.073393
+Amitriptyline	opioid receptor	1227	0.018834	OPRD1, OPRM1, OPRK1	0.058227
+Amitriptyline	albumin	226	0.015724	ALB	0.048613
+Amitriptyline	ATP-binding cassette	164	0.0096701	ABCB1	0.029896
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 7	368	0.0075515	HTR7	0.023346
+Amitriptyline	solute carrier family 6 (neurotransmitter transporter)	175	0.0056204	SLC6A4, SLC6A2	0.017376
+Amitriptyline	adrenoceptor alpha 2A	479	0.0053885	ADRA2A	0.016659
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 2A	401	0.0047019	HTR2A	0.014536
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 1D	373	0.0020257	HTR1D	0.0062628
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 1B	373	0.001283	HTR1B	0.0039666
+Amitriptyline	dopamine receptor D3	398	0.00128	DRD3	0.0039571
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0011845	HTR1A	0.0036619
+Amitriptyline	dopamine receptor D2	403	0.0011425	DRD2	0.0035321
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 6	341	0.0011364	HTR6	0.0035131
+Amitriptyline	5-hydroxytryptamine (serotonin) receptor 2C	365	0.001102	HTR2C	0.003407
+Amitriptyline	histamine receptor H2	336	0.0010805	HRH2	0.0033404
+Amitriptyline	histamine receptor H4	337	0.0010613	HRH4	0.0032811
+Amitriptyline	adrenoceptor alpha 1D	381	0.00091062	ADRA1D	0.0028153
+Amitriptyline	adrenoceptor alpha 1A	383	0.00075189	ADRA1A	0.0023245
+Amitriptyline	adrenoceptor alpha 1B	385	0.00068463	ADRA1B	0.0021166
+Amitriptyline	histamine receptor H1	362	0.00056781	HRH1	0.0017554
+Amitriptyline	sigma non-opioid intracellular receptor 1	6	0.0001682	SIGMAR1	0.00052
+Amitriptyline	orosomucoid 1	3	8.77e-05	ORM1	0.00027113
+Amobarbital	gamma-aminobutyric acid (GABA) A receptor	1279	0.19634	GABRA5, GABRA1, GABRA3, GABRA6, GABRA4, GABRA2	0.39668
+Amobarbital	glutamate receptor	343	0.15638	GRIA2, GRIK2	0.31594
+Amobarbital	cholinergic receptor	350	0.11314	CHRNA7, CHRNA4	0.22859
+Amobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	8	0.019455	CHRFAM7A	0.039304
+Amobarbital	cytochrome P450	104	0.0096483	CYP2A6	0.019493
+Amoxapine	gamma-aminobutyric acid (GABA) A receptor	243	0.15738	GABRA1	0.40009
+Amoxapine	cholinergic receptor	386	0.042929	CHRM1	0.10913
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 7	368	0.039393	HTR7	0.10014
+Amoxapine	solute carrier family 6 (neurotransmitter transporter)	377	0.032995	SLC6A4, SLC6A2, SLC6A3	0.083878
+Amoxapine	adrenoceptor alpha 2A	479	0.030697	ADRA2A	0.078036
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.022503	HTR2A	0.057207
+Amoxapine	cytochrome P450	90	0.019194	CYP2D6	0.048794
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 3A	94	0.0048421	HTR3A	0.012309
+Amoxapine	dopamine receptor D1	366	0.0043964	DRD1	0.011176
+Amoxapine	dopamine receptor D3	398	0.0043342	DRD3	0.011018
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 1B	373	0.0042372	HTR1B	0.010772
+Amoxapine	histamine receptor H4	337	0.0039707	HRH4	0.010094
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0038917	HTR1A	0.0098933
+Amoxapine	dopamine receptor D4	401	0.0038682	DRD4	0.0098335
+Amoxapine	dopamine receptor D2	403	0.0038106	DRD2	0.0096871
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 6	341	0.0037784	HTR6	0.0096052
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.003551	HTR2C	0.0090273
+Amoxapine	5-hydroxytryptamine (serotonin) receptor 2B	359	0.0027592	HTR2B	0.0070143
+Amoxapine	adrenoceptor alpha 1A	383	0.0025676	ADRA1A	0.0065272
+Amoxapine	histamine receptor H1	362	0.0020208	HRH1	0.0051372
+Amoxapine	orosomucoid 1	3	0.0002463	ORM1	0.00062613
+Antipyrine	cytochrome P450	1093	0.34335	CYP2C19, CYP2D6, CYP2C18, CYP2A6, CYP2E1, CYP2B6, CYP2C8, CYP2C9, CYP1A2, CYP3A4	0.84251
+Antipyrine	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	209	0.033513	PTGS2	0.082235
+Antipyrine	transient receptor potential cation channel	56	0.015083	TRPA1	0.03701
+Antipyrine	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0086735	PTGS1	0.021283
+Antipyrine	solute carrier family 22 (organic anion transporter)	60	0.0069143	SLC22A6	0.016966
+Aprobarbital	gamma-aminobutyric acid (GABA) A receptor	1285	0.19481	GABRA5, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.39293
+Aprobarbital	glutamate receptor	345	0.15887	GRIA2, GRIK2	0.32045
+Aprobarbital	cholinergic receptor	352	0.11853	CHRNA7, CHRNA4	0.23908
+Aprobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.023569	CHRFAM7A	0.047539
+Baclofen	gamma-aminobutyric acid (GABA) B receptor	903	0.60174	GABBR1, GABBR2	0.98492
+Baclofen	solute carrier family 22 (organic anion transporter)	62	0.009213	SLC22A8	0.01508
+Bortezomib	cytochrome P450	831	0.27621	CYP2C19, CYP2D6, CYP2C8, CYP1A1, CYP2C9, CYP1A2, CYP3A4	0.80387
+Bortezomib	proteasome (prosome, macropain) subunit	1861	0.028602	PSMB5, PSMA1, PSMB2, PSMB1, PSMB8	0.083242
+Bortezomib	proteasome (prosome, macropain) 26S subunit	753	0.015536	PSMD1, PSMD2	0.045216
+Bortezomib	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.012016	PTGS1	0.03497
+Bortezomib	cathepsin G	54	0.0063134	CTSG	0.018374
+Bortezomib	solute carrier family 31 (copper transporter)	71	0.0049224	SLC31A1	0.014326
+Bromazepam	gamma-aminobutyric acid (GABA) A receptor	2983	0.43182	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRR3, GABRQ, GABRR1, GABRR2, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.90262
+Bromazepam	cytochrome P450	470	0.046589	CYP2C19, CYP2E1, CYP1A2, CYP3A4	0.097383
+Butabarbital	gamma-aminobutyric acid (GABA) A receptor	661	0.17851	GABRG2, GABRB2, GABRA1	0.37445
+Butabarbital	glutamate receptor	345	0.15631	GRIA2, GRIK2	0.32789
+Butabarbital	cholinergic receptor	352	0.11652	CHRNA7, CHRNA4	0.24441
+Butabarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.025386	CHRFAM7A	0.053251
+Butalbital	gamma-aminobutyric acid (GABA) A receptor	1724	0.26508	GABRG2, GABRA5, GABRB3, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.50532
+Butalbital	glutamate receptor	345	0.13638	GRIA2, GRIK2	0.25998
+Butalbital	cholinergic receptor	352	0.10161	CHRNA7, CHRNA4	0.19371
+Butalbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.021505	CHRFAM7A	0.040996
+Butethal	gamma-aminobutyric acid (GABA) A receptor	1285	0.19343	GABRA5, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.39308
+Butethal	glutamate receptor	345	0.15764	GRIA2, GRIK2	0.32036
+Butethal	cholinergic receptor	352	0.11761	CHRNA7, CHRNA4	0.23901
+Butethal	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.023403	CHRFAM7A	0.04756
+Carbamazepine	sodium channel	358	0.16068	SCN9A, SCN4A, SCN5A	0.61637
+Carbamazepine	cytochrome P450	871	0.061768	CYP2C19, CYP2B6, CYP3A5, CYP2C8, CYP3A7, CYP2C9, CYP1A2, CYP3A4	0.23695
+Carbamazepine	ATP-binding cassette	221	0.029374	ABCC2, ABCB1	0.11268
+Carbamazepine	CYP3A7-CYP3A51P readthrough	4	0.004008	CYP3A7-CYP3A51P	0.015375
+Carbamazepine	UDP glucuronosyltransferase 2 family	80	0.0028851	UGT2B7	0.011067
+Carbamazepine	ralA binding protein 1	121	0.0019694	RALBP1	0.0075548
+Chlordiazepoxide	gamma-aminobutyric acid (GABA) A receptor	1515	0.31063	GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRA3, GABRA2	0.93684
+Chlordiazepoxide	cytochrome P450	210	0.020942	CYP2D6, CYP3A4	0.063158
+Chlorthalidone	carbonic anhydrase IV	77	0.16844	CA4	0.37941
+Chlorthalidone	carbonic anhydrase VB	68	0.047548	CA5B	0.1071
+Chlorthalidone	carbonic anhydrase IX	95	0.040984	CA9	0.092317
+Chlorthalidone	carbonic anhydrase I	77	0.039958	CA1	0.090007
+Chlorthalidone	carbonic anhydrase VA	63	0.035754	CA5A	0.080536
+Chlorthalidone	carbonic anhydrase II	78	0.035573	CA2	0.080129
+Chlorthalidone	carbonic anhydrase VII	66	0.032134	CA7	0.072383
+Chlorthalidone	carbonic anhydrase XII	69	0.028423	CA12	0.064023
+Chlorthalidone	solute carrier family 12 (sodium/potassium/chloride transporter)	77	0.0091226	SLC12A1	0.020549
+Chlorthalidone	solute carrier family 12 (sodium/chloride transporter)	69	0.0060112	SLC12A3	0.01354
+Cinolazepam	gamma-aminobutyric acid (GABA) A receptor	2357	0.4999	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRR2, GABRR1, GABRR3, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	1
+Clobazam	gamma-aminobutyric acid (GABA) A receptor	658	0.14939	GABRG2, GABRB2, GABRA1	0.45111
+Clobazam	solute carrier family 6 (neurotransmitter transporter)	443	0.087411	SLC6A1, SLC6A11	0.26396
+Clobazam	cytochrome P450	421	0.081107	CYP2C19, CYP2C18, CYP2B6, CYP3A4	0.24492
+Clobazam	ATP-binding cassette	163	0.013253	ABCB1	0.04002
+Clomipramine	cytochrome P450	454	0.12897	CYP2C19, CYP2D6, CYP1A2, CYP3A4	0.39443
+Clomipramine	albumin	226	0.051149	ALB	0.15643
+Clomipramine	adrenoceptor alpha 2A	479	0.034683	ADRA2A	0.10607
+Clomipramine	ATP-binding cassette	164	0.034039	ABCB1	0.1041
+Clomipramine	solute carrier family 6 (neurotransmitter transporter)	175	0.032113	SLC6A4, SLC6A2	0.09821
+Clomipramine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.02572	HTR2A	0.078658
+Clomipramine	histamine receptor H2	336	0.0049613	HRH2	0.015173
+Clomipramine	5-hydroxytryptamine (serotonin) receptor 6	341	0.0047099	HTR6	0.014404
+Clomipramine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.004391	HTR2C	0.013429
+Clomipramine	5-hydroxytryptamine (serotonin) receptor 2B	359	0.0034921	HTR2B	0.01068
+Clomipramine	glutathione S-transferase pi 1	101	0.0027543	GSTP1	0.0084233
+Clonazepam	gamma-aminobutyric acid (GABA) A receptor	865	0.20071	GABRG2, GABRB2, GABRA1, GABRA3	0.7715
+Clonazepam	cytochrome P450	224	0.026666	CYP2E1, CYP3A4	0.1025
+Clonazepam	albumin	225	0.021605	ALB	0.083048
+Clonazepam	translocator protein (18kDa)	12	0.010406	TSPO	0.04
+Clonazepam	N-acetyltransferase 2 (arylamine N-acetyltransferase)	66	0.00076781	NAT2	0.0029514
+Clorazepate	gamma-aminobutyric acid (GABA) A receptor	1515	0.28788	GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRA3, GABRA2	0.8997
+Clorazepate	translocator protein (18kDa)	13	0.02219	TSPO	0.069347
+Clorazepate	cytochrome P450	120	0.0099029	CYP3A4	0.030949
+Clotiazepam	gamma-aminobutyric acid (GABA) A receptor	2357	0.41934	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR1, GABRR3, GABRR2, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.85567
+Clotiazepam	cytochrome P450	425	0.070732	CYP2C19, CYP2C18, CYP2B6, CYP3A4	0.14433
+Clozapine	cytochrome P450	1173	0.12832	CYP2C19, CYP2D6, CYP1B1, CYP2A6, CYP2E1, CYP2C8, CYP1A1, CYP2C9, CYP1A2, CYP3A4	0.34532
+Clozapine	cholinergic receptor	2022	0.064198	CHRM3, CHRM1, CHRM2, CHRM4, CHRM5	0.17276
+Clozapine	UDP glucuronosyltransferase 1 family	92	0.043442	UGT1A4	0.1169
+Clozapine	histamine receptor H3	365	0.03849	HRH3	0.10358
+Clozapine	5-hydroxytryptamine (serotonin) receptor 7	368	0.019304	HTR7	0.051949
+Clozapine	ATP-binding cassette	164	0.014913	ABCB1	0.040132
+Clozapine	adrenoceptor alpha 2A	479	0.014901	ADRA2A	0.0401
+Clozapine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.011176	HTR2A	0.030074
+Clozapine	5-hydroxytryptamine (serotonin) receptor 1D	373	0.0033558	HTR1D	0.0090306
+Clozapine	5-hydroxytryptamine (serotonin) receptor 1E	369	0.00267	HTR1E	0.007185
+Clozapine	5-hydroxytryptamine (serotonin) receptor 3A	94	0.0025173	HTR3A	0.0067742
+Clozapine	dopamine receptor D1	366	0.0022855	DRD1	0.0061502
+Clozapine	dopamine receptor D3	398	0.0022118	DRD3	0.0059521
+Clozapine	5-hydroxytryptamine (serotonin) receptor 1B	373	0.0021868	HTR1B	0.0058848
+Clozapine	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0020135	HTR1A	0.0054185
+Clozapine	dopamine receptor D2	403	0.0019575	DRD2	0.0052676
+Clozapine	5-hydroxytryptamine (serotonin) receptor 6	341	0.0019438	HTR6	0.0052307
+Clozapine	histamine receptor H4	337	0.001935	HRH4	0.005207
+Clozapine	dopamine receptor D4	401	0.001895	DRD4	0.0050995
+Clozapine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.0018545	HTR2C	0.0049905
+Clozapine	adrenoceptor alpha 2C	496	0.0017771	ADRA2C	0.0047821
+Clozapine	calcyon neuron-specific vesicular protein	9	0.001328	CALY	0.0035737
+Clozapine	adrenoceptor alpha 1A	383	0.001305	ADRA1A	0.0035118
+Clozapine	adrenoceptor alpha 1B	385	0.001215	ADRA1B	0.0032697
+Clozapine	adrenoceptor alpha 2B	406	0.0011962	ADRA2B	0.003219
+Clozapine	flavin containing monooxygenase 3	108	0.0011232	FMO3	0.0030225
+Clozapine	H1 histone family	47	0.0010778	H1F0	0.0029003
+Clozapine	histamine receptor H1	362	0.0010071	HRH1	0.0027102
+Cyproheptadine	cholinergic receptor	1256	0.15623	CHRM3, CHRM1, CHRM2	0.53451
+Cyproheptadine	UDP glucuronosyltransferase 1 family	86	0.073724	UGT1A3	0.25223
+Cyproheptadine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.02884	HTR2A	0.098671
+Cyproheptadine	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0056203	HTR1A	0.019229
+Cyproheptadine	dopamine receptor D2	403	0.005518	DRD2	0.018878
+Cyproheptadine	5-hydroxytryptamine (serotonin) receptor 6	341	0.0054706	HTR6	0.018716
+Cyproheptadine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.0051071	HTR2C	0.017473
+Cyproheptadine	solute carrier family 6 (neurotransmitter transporter)	88	0.0047696	SLC6A2	0.016318
+Cyproheptadine	5-hydroxytryptamine (serotonin) receptor 2B	359	0.0040425	HTR2B	0.013831
+Cyproheptadine	histamine receptor H1	362	0.0029645	HRH1	0.010142
+Dabrafenib	ATP-binding cassette	292	0.14621	ABCG2, ABCB1	0.43254
+Dabrafenib	cytochrome P450	235	0.10748	CYP2C8, CYP3A4	0.31796
+Dabrafenib	solute carrier family 22 (organic anion transporter)	122	0.024748	SLC22A8, SLC22A6	0.073211
+Dabrafenib	Raf-1 proto-oncogene	1345	0.023058	RAF1	0.068213
+Dabrafenib	B-Raf proto-oncogene	522	0.012119	BRAF	0.035851
+Dabrafenib	LIM domain kinase 1	201	0.0087595	LIMK1	0.025913
+Dabrafenib	solute carrier organic anion transporter family	297	0.0069167	SLCO1B3, SLCO1B1	0.020462
+Dabrafenib	salt-inducible kinase 1	45	0.0066571	SIK1	0.019694
+Dabrafenib	NIMA-related kinase 11	3	0.002081	NEK11	0.0061563
+Dalfampridine	potassium channel	3868	0.54078	KCNC4, KCNB1, KCNC1, KCNQ4, KCNV1, KCND2, KCNQ2, KCNQ3, KCNH1, KCNC3, KCNC2, KCNQ1, KCNA2, KCND1, KCNH6, KCNA6, KCNH3, KCNA10, KCNA3, KCNA4, KCNG2, KCNB2, KCNG4, KCNH4, KCNA1, KCND3, KCNH5, KCNQ5, KCNF1, KCNH8, KCNV2, KCNG3, KCNA5, KCNG1, KCNH7, KCNA7, KCNH2	0.86642
+Dalfampridine	cytochrome P450	106	0.071171	CYP2E1	0.11403
+Dalfampridine	potassium voltage-gated channel	344	0.0122	KCNS1, KCNS2, KCNS3	0.019547
+Desflurane	gamma-aminobutyric acid (GABA) A receptor	2590	0.3635	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRQ, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.64941
+Desflurane	potassium channel	509	0.12307	KCNK3, KCNK9, KCNK10, KCNK18, KCNK2, KCNA1	0.21987
+Desflurane	glutamate receptor	209	0.046431	GRIA1	0.08295
+Desflurane	albumin	226	0.017016	ALB	0.0304
+Desflurane	glycine receptor	118	0.0050675	GLRA1, GLRB	0.0090533
+Desflurane	ATP synthase	75	0.0017443	ATP5D	0.0031162
+Desflurane	ATPase	58	0.0017174	ATP2C1	0.0030682
+Desflurane	NADH dehydrogenase	70	0.0011959	ND1	0.0021365
+Desipramine	cytochrome P450	859	0.21298	CYP2C19, CYP2D6, CYP2C18, CYP2A6, CYP2E1, CYP2B6, CYP1A2, CYP3A4	0.49013
+Desipramine	cholinergic receptor	2022	0.11273	CHRM3, CHRM1, CHRM2, CHRM4, CHRM5	0.25943
+Desipramine	solute carrier family 6 (neurotransmitter transporter)	377	0.02854	SLC6A4, SLC6A2, SLC6A3	0.065677
+Desipramine	ATP-binding cassette	164	0.023429	ABCB1	0.053916
+Desipramine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.019554	HTR2A	0.044999
+Desipramine	solute carrier family 22 (organic cation transporter)	597	0.011788	SLC22A1, SLC22A3, SLC22A2	0.027128
+Desipramine	solute carrier family 22 (organic cation/carnitine transporter)	63	0.0046051	SLC22A5	0.010598
+Desipramine	sphingomyelin phosphodiesterase 1	109	0.0038469	SMPD1	0.0088528
+Desipramine	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0034717	HTR1A	0.0079892
+Desipramine	dopamine receptor D2	403	0.0033756	DRD2	0.0077682
+Desipramine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.0031964	HTR2C	0.0073557
+Desipramine	adrenoceptor beta 1	357	0.0023168	ADRB1	0.0053316
+Desipramine	histamine receptor H1	362	0.0017387	HRH1	0.0040011
+Desipramine	adrenoceptor beta 2	355	0.0017295	ADRB2	0.0039799
+Desipramine	solute carrier family 22 (organic cation/zwitterion transporter)	60	0.00099952	SLC22A4	0.0023002
+Desipramine	orosomucoid 1	3	0.0002371	ORM1	0.00054563
+Diazepam	gamma-aminobutyric acid (GABA) A receptor	2547	0.20276	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRQ, GABRR3, GABRR2, GABRR1, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.7017
+Diazepam	cytochrome P450	1066	0.059554	CYP2C19, CYP2C18, CYP2E1, CYP2B6, CYP3A5, CYP2C8, CYP3A7, CYP2C9, CYP1A2, CYP3A4	0.2061
+Diazepam	albumin	225	0.0092594	ALB	0.032044
+Diazepam	ATP-binding cassette	163	0.0066733	ABCB1	0.023094
+Diazepam	translocator protein (18kDa)	12	0.0066694	TSPO	0.023081
+Diazepam	CYP3A7-CYP3A51P readthrough	4	0.002868	CYP3A7-CYP3A51P	0.0099252
+Diazepam	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	117	0.0011743	PTGS1	0.004064
+Diclofenamide	carbonic anhydrase IV	77	0.16391	CA4	0.34275
+Diclofenamide	carbonic anhydrase VI	66	0.045869	CA6	0.095914
+Diclofenamide	carbonic anhydrase XIV	69	0.040518	CA14	0.084725
+Diclofenamide	carbonic anhydrase VB	68	0.038927	CA5B	0.081399
+Diclofenamide	carbonic anhydrase IX	95	0.03364	CA9	0.070343
+Diclofenamide	carbonic anhydrase I	77	0.033132	CA1	0.069281
+Diclofenamide	carbonic anhydrase II	78	0.02973	CA2	0.062167
+Diclofenamide	carbonic anhydrase VA	63	0.0295	CA5A	0.061686
+Diclofenamide	carbonic anhydrase VII	66	0.026716	CA7	0.055865
+Diclofenamide	carbonic anhydrase XII	69	0.023784	CA12	0.049734
+Diclofenamide	cytochrome P450	119	0.012498	CYP2C9	0.026135
+Enflurane	potassium channel	585	0.25373	KCNK3, KCNK9, KCNK10, KCNK18, KCNK2, KCNA1, KCNN4	0.49762
+Enflurane	glutamate receptor	209	0.11675	GRIA1	0.22897
+Enflurane	albumin	226	0.06494	ALB	0.12736
+Enflurane	cytochrome P450	106	0.064196	CYP2E1	0.1259
+Enflurane	glycine receptor	55	0.0036605	GLRA1	0.007179
+Enflurane	ATP synthase	75	0.0033203	ATP5D	0.0065118
+Enflurane	ATPase	58	0.0032912	ATP2C1	0.0064548
+Estazolam	gamma-aminobutyric acid (GABA) A receptor	2357	0.31628	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRR1, GABRR2, GABRR3, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.97895
+Estazolam	cytochrome P450	120	0.0068009	CYP3A4	0.02105
+Eszopiclone	gamma-aminobutyric acid (GABA) A receptor	1698	0.51987	GABRG2, GABRA5, GABRB2, GABRA1, GABRA4, GABRA3, GABRG3, GABRA2	0.8491
+Eszopiclone	cytochrome P450	354	0.049129	CYP2C8, CYP2C9, CYP3A4	0.080242
+Eszopiclone	translocator protein (18kDa)	13	0.036375	TSPO	0.059411
+Eszopiclone	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0068858	PTGS1	0.011247
+Ethosuximide	calcium channel	94	0.23963	CACNA1G	0.62503
+Ethosuximide	cytochrome P450	474	0.12242	CYP2E1, CYP3A5, CYP3A7, CYP3A4, CYP3A43	0.31931
+Ethosuximide	CYP3A7-CYP3A51P readthrough	5	0.02134	CYP3A7-CYP3A51P	0.055662
+Ethotoin	sodium channel	1135	0.3305	SCN8A, SCN9A, SCN3A, SCN4A, SCN1A, SCN2A, SCN7A, SCN11A, SCN10A, SCN5A	0.96203
+Ethotoin	cytochrome P450	111	0.013043	CYP2C19	0.037966
+Etomidate	gamma-aminobutyric acid (GABA) A receptor	661	0.34278	GABRG2, GABRB2, GABRA1	0.66039
+Etomidate	solute carrier family 2 (facilitated glucose transporter)	223	0.13688	SLC2A1	0.26371
+Etomidate	cytochrome P450	344	0.035565	CYP11B1, CYP11B2, CYP19A1	0.068518
+Etomidate	adrenoceptor alpha 2B	406	0.0038347	ADRA2B	0.0073877
+Felbamate	glutamate receptor	474	0.14626	GRIN2A, GRIN2B, GRIN3A	0.5264
+Felbamate	cytochrome P450	334	0.13159	CYP2C19, CYP2E1, CYP3A4	0.4736
+Fludiazepam	gamma-aminobutyric acid (GABA) A receptor	2357	0.4786	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRR2, GABRR3, GABRR1, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	1
+Flunitrazepam	gamma-aminobutyric acid (GABA) A receptor	1285	0.24942	GABRA5, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.60302
+Flunitrazepam	cytochrome P450	797	0.11108	CYP2C19, CYP2A6, CYP2E1, CYP2B6, CYP2C9, CYP1A2, CYP3A4	0.26856
+Flunitrazepam	translocator protein (18kDa)	13	0.023902	TSPO	0.057787
+Flunitrazepam	UDP glucuronosyltransferase 1 family	180	0.01951	UGT1A3, UGT1A1	0.047169
+Flunitrazepam	UDP glucuronosyltransferase 2 family	81	0.0097037	UGT2B7	0.02346
+Flurazepam	gamma-aminobutyric acid (GABA) A receptor	2983	0.30194	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR2, GABRR3, GABRQ, GABRR1, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.91334
+Flurazepam	cytochrome P450	331	0.019156	CYP2A6, CYP2E1, CYP3A4	0.057944
+Flurazepam	ATP-binding cassette	164	0.0083593	ABCB1	0.025286
+Flurazepam	solute carrier family 22 (organic cation transporter)	228	0.0011324	SLC22A2	0.0034253
+Fosphenytoin	cytochrome P450	556	0.13108	CYP2C19, CYP2B6, CYP2C8, CYP2C9, CYP3A4	0.57284
+Fosphenytoin	sodium channel	143	0.055528	SCN5A	0.24268
+Fosphenytoin	albumin	224	0.042213	ALB	0.18448
+Fospropofol	gamma-aminobutyric acid (GABA) A receptor	2374	0.50672	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRA6, GABRA4, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.94673
+Fospropofol	albumin	226	0.02446	ALB	0.045699
+Fospropofol	alkaline phosphatase	51	0.0040506	ALPL	0.0075681
+Gabapentin	calcium channel	349	0.27385	CACNA2D2, CACNA1B, CACNA2D1	0.96793
+Gabapentin	adenosine A1 receptor	377	0.0054776	ADORA1	0.01936
+Gabapentin	branched chain amino-acid transaminase 1	77	0.0035954	BCAT1	0.012708
+Glutethimide	gamma-aminobutyric acid (GABA) A receptor	682	0.35263	GABRG2, GABRB3, GABRA1	0.83568
+Glutethimide	cytochrome P450	202	0.069339	CYP11A1, CYP2D6	0.16432
+Halazepam	gamma-aminobutyric acid (GABA) A receptor	2983	0.48211	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR2, GABRQ, GABRR1, GABRR3, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	1
+Heptabarbital	gamma-aminobutyric acid (GABA) A receptor	1285	0.19469	GABRA5, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.39322
+Heptabarbital	glutamate receptor	345	0.15861	GRIA2, GRIK2	0.32033
+Heptabarbital	cholinergic receptor	352	0.11828	CHRNA7, CHRNA4	0.23889
+Heptabarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.023548	CHRFAM7A	0.047559
+Hexobarbital	gamma-aminobutyric acid (GABA) A receptor	1285	0.24287	GABRA5, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.3393
+Hexobarbital	glutamate receptor	345	0.20146	GRIA2, GRIK2	0.28145
+Hexobarbital	cholinergic receptor	352	0.15056	CHRNA7, CHRNA4	0.21033
+Hexobarbital	cytochrome P450	589	0.08745	CYP2C19, CYP2E1, CYP2C9, CYP1A2, CYP3A4	0.12217
+Hexobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.027963	CHRFAM7A	0.039065
+Hexobarbital	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0055044	PTGS1	0.0076897
+Imipramine	cytochrome P450	838	0.15313	CYP2C18, CYP2C19, CYP2D6, CYP2E1, CYP2B6, CYP3A7, CYP1A2, CYP3A4	0.39399
+Imipramine	potassium channel	332	0.082742	KCND2, KCND3, KCNH2	0.21289
+Imipramine	cholinergic receptor	2022	0.05877	CHRM3, CHRM1, CHRM2, CHRM4, CHRM5	0.15121
+Imipramine	5-hydroxytryptamine (serotonin) receptor 7	368	0.018053	HTR7	0.046448
+Imipramine	solute carrier family 6 (neurotransmitter transporter)	377	0.015933	SLC6A4, SLC6A2, SLC6A3	0.040995
+Imipramine	ATP-binding cassette	164	0.015498	ABCB1	0.039875
+Imipramine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.010741	HTR2A	0.027636
+Imipramine	CYP3A7-CYP3A51P readthrough	5	0.01065	CYP3A7-CYP3A51P	0.027401
+Imipramine	solute carrier family 22 (organic cation transporter)	597	0.0080418	SLC22A1, SLC22A3, SLC22A2	0.020691
+Imipramine	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0022462	HTR1A	0.0057792
+Imipramine	dopamine receptor D2	403	0.0021781	DRD2	0.0056041
+Imipramine	5-hydroxytryptamine (serotonin) receptor 6	341	0.0021639	HTR6	0.0055676
+Imipramine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.0020768	HTR2C	0.0053434
+Imipramine	adrenoceptor alpha 1D	381	0.0017619	ADRA1D	0.0045331
+Imipramine	adrenoceptor alpha 1A	383	0.001444	ADRA1A	0.0037153
+Imipramine	adrenoceptor alpha 1B	385	0.0013335	ADRA1B	0.003431
+Imipramine	histamine receptor H1	362	0.0011059	HRH1	0.0028454
+Imipramine	solute carrier family 22 (organic cation/zwitterion transporter)	60	0.00063773	SLC22A4	0.0016408
+Imipramine	orosomucoid 1	3	0.0001585	ORM1	0.00040781
+Indapamide	carbonic anhydrase IV	77	0.16771	CA4	0.37966
+Indapamide	carbonic anhydrase VB	68	0.049247	CA5B	0.11149
+Indapamide	carbonic anhydrase IX	95	0.04237	CA9	0.095919
+Indapamide	carbonic anhydrase VA	63	0.036911	CA5A	0.083559
+Indapamide	carbonic anhydrase II	78	0.036637	CA2	0.08294
+Indapamide	carbonic anhydrase VII	66	0.033135	CA7	0.075013
+Indapamide	carbonic anhydrase XII	69	0.029229	CA12	0.066169
+Indapamide	potassium channel	122	0.021952	KCNE1, KCNQ1	0.049695
+Indapamide	cytochrome P450	120	0.019035	CYP3A4	0.043091
+Indapamide	solute carrier family 12 (sodium/chloride transporter)	69	0.0055053	SLC12A3	0.012463
+Isocarboxazid	monoamine oxidase B	89	0.074554	MAOB	0.50172
+Isocarboxazid	monoamine oxidase A	238	0.074044	MAOA	0.49828
+Isoflurane	gamma-aminobutyric acid (GABA) A receptor	2590	0.3392	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRQ, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.599
+Isoflurane	potassium channel	509	0.11946	KCNK9, KCNK3, KCNK10, KCNK18, KCNK2, KCNA1	0.21096
+Isoflurane	glutamate receptor	209	0.044428	GRIA1	0.078457
+Isoflurane	cytochrome P450	209	0.027833	CYP2E1, CYP2B6	0.049151
+Isoflurane	albumin	226	0.015774	ALB	0.027855
+Isoflurane	glycine receptor	118	0.0045649	GLRA1, GLRB	0.0080613
+Isoflurane	calmodulin 1 (phosphorylase kinase, delta)	929	0.0041909	CALM1	0.0074009
+Isoflurane	calmodulin 2 (phosphorylase kinase, delta)	928	0.0038953	CALM2	0.0068789
+Isoflurane	calmodulin 3 (phosphorylase kinase, delta)	882	0.0027202	CALM3	0.0048037
+Isoflurane	ATP synthase	75	0.0015761	ATP5D	0.0027834
+Isoflurane	ATPase	58	0.0015487	ATP2C1	0.0027349
+Isoflurane	NADH dehydrogenase	70	0.0010798	ND1	0.0019069
+Ketamine	glutamate receptor	1199	0.27666	GRIN2A, GRIN2B, GRIN3A, GRIN1, GRIN2C, GRIN2D	0.54295
+Ketamine	cytochrome P450	457	0.093971	CYP2B6, CYP2C8, CYP2C9, CYP3A4	0.18442
+Ketamine	opioid receptor	1227	0.08986	OPRD1, OPRM1, OPRK1	0.17635
+Ketamine	ATP-binding cassette	164	0.025403	ABCB1	0.049854
+Ketamine	tachykinin receptor 1	427	0.009688	TACR1	0.019013
+Ketamine	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0074019	PTGS1	0.014526
+Ketamine	dopamine receptor D2	403	0.0034091	DRD2	0.0066903
+Ketamine	solute carrier family 6 (neurotransmitter transporter)	88	0.003156	SLC6A2	0.0061937
+Ketazolam	gamma-aminobutyric acid (GABA) A receptor	484	0.29844	GABRD, GABRA1, GABRE, GABRG1, GABRB1	0.68402
+Ketazolam	translocator protein (18kDa)	13	0.045059	TSPO	0.10328
+Ketazolam	albumin	226	0.042657	ALB	0.097769
+Ketazolam	ATP-binding cassette	164	0.029699	ABCB1	0.06807
+Ketazolam	cytochrome P450	120	0.020449	CYP3A4	0.04687
+Lacosamide	sodium channel	327	0.18133	SCN9A, SCN3A, SCN10A	0.53229
+Lacosamide	carbonic anhydrase IV	76	0.043958	CA4	0.12904
+Lacosamide	carbonic anhydrase III	69	0.032095	CA3	0.094214
+Lacosamide	carbonic anhydrase VI	65	0.017505	CA6	0.051384
+Lacosamide	carbonic anhydrase VB	67	0.014692	CA5B	0.043127
+Lacosamide	carbonic anhydrase XIV	68	0.014101	CA14	0.041392
+Lacosamide	carbonic anhydrase I	76	0.012743	CA1	0.037406
+Lacosamide	carbonic anhydrase IX	94	0.012659	CA9	0.037161
+Lacosamide	carbonic anhydrase II	77	0.011578	CA2	0.033986
+Lamotrigine	sodium channel	916	0.37924	SCN8A, SCN9A, SCN3A, SCN4A, SCN1A, SCN2A, SCN10A, SCN5A	0.92712
+Lamotrigine	UDP glucuronosyltransferase 1 family	176	0.020276	UGT1A4, UGT1A3	0.04957
+Lamotrigine	ATP-binding cassette	163	0.0095341	ABCB1	0.023308
+Levetiracetam	synaptic vesicle glycoprotein 2A	42	0.20955	SV2A	0.47759
+Levetiracetam	calcium channel	134	0.14766	CACNA1B	0.33654
+Levetiracetam	ATP-binding cassette	221	0.081554	ABCC2, ABCB1	0.18587
+Lorazepam	gamma-aminobutyric acid (GABA) A receptor	682	0.21064	GABRG2, GABRB3, GABRA1	0.81083
+Lorazepam	translocator protein (18kDa)	13	0.0333	TSPO	0.12819
+Lorazepam	UDP glucuronosyltransferase 2 family	65	0.015843	UGT2B15	0.060986
+Loxapine	cholinergic receptor	2022	0.10027	CHRM3, CHRM1, CHRM2, CHRM4, CHRM5	0.40423
+Loxapine	5-hydroxytryptamine (serotonin) receptor 7	368	0.029769	HTR7	0.12002
+Loxapine	solute carrier family 6 (neurotransmitter transporter)	377	0.02406	SLC6A4, SLC6A2, SLC6A3	0.096998
+Loxapine	adrenoceptor alpha 2A	479	0.023411	ADRA2A	0.094381
+Loxapine	5-hydroxytryptamine (serotonin) receptor 2A	401	0.016826	HTR2A	0.067836
+Loxapine	5-hydroxytryptamine (serotonin) receptor 5A	367	0.0057007	HTR5A	0.022982
+Loxapine	5-hydroxytryptamine (serotonin) receptor 1D	373	0.0041824	HTR1D	0.016862
+Loxapine	5-hydroxytryptamine (serotonin) receptor 1E	369	0.0033085	HTR1E	0.013338
+Loxapine	5-hydroxytryptamine (serotonin) receptor 3A	94	0.0031297	HTR3A	0.012618
+Loxapine	dopamine receptor D1	366	0.0028424	DRD1	0.011459
+Loxapine	dopamine receptor D3	398	0.0027422	DRD3	0.011055
+Loxapine	5-hydroxytryptamine (serotonin) receptor 1B	373	0.0027167	HTR1B	0.010953
+Loxapine	dopamine receptor D5	337	0.0026259	DRD5	0.010586
+Loxapine	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0025013	HTR1A	0.010084
+Loxapine	dopamine receptor D2	403	0.0024314	DRD2	0.0098024
+Loxapine	5-hydroxytryptamine (serotonin) receptor 6	341	0.0024144	HTR6	0.0097339
+Loxapine	histamine receptor H2	336	0.0023865	HRH2	0.0096213
+Loxapine	histamine receptor H4	337	0.002386	HRH4	0.0096192
+Loxapine	dopamine receptor D4	401	0.0023375	DRD4	0.0094237
+Loxapine	5-hydroxytryptamine (serotonin) receptor 2C	365	0.0023077	HTR2C	0.0093036
+Loxapine	adrenoceptor alpha 2C	496	0.0021968	ADRA2C	0.0088565
+Loxapine	adrenoceptor beta 1	357	0.0016626	ADRB1	0.006703
+Loxapine	adrenoceptor alpha 1A	383	0.0016166	ADRA1A	0.0065174
+Loxapine	adrenoceptor alpha 1B	385	0.0015022	ADRA1B	0.006056
+Loxapine	adrenoceptor alpha 2B	406	0.0014745	ADRA2B	0.0059445
+Loxapine	histamine receptor H1	362	0.0012449	HRH1	0.0050189
+Memantine	glutamate receptor	840	0.45516	GRIN2A, GRIN2B, GRIN3A, GRIN1	0.7073
+Memantine	cytochrome P450	319	0.16732	CYP2C19, CYP2A6, CYP2B6	0.26001
+Memantine	5-hydroxytryptamine (serotonin) receptor 3A	94	0.0090827	HTR3A	0.014114
+Memantine	dopamine receptor D2	403	0.0070815	DRD2	0.011004
+Memantine	solute carrier family 22 (organic cation transporter)	228	0.0048719	SLC22A2	0.0075708
+Methazolamide	carbonic anhydrase IV	77	0.12017	CA4	0.24543
+Methazolamide	cytochrome P450	546	0.11758	CYP2C19, CYP2D6, CYP2E1, CYP2C9, CYP3A4	0.24015
+Methazolamide	carbonic anhydrase VI	66	0.037558	CA6	0.07671
+Methazolamide	carbonic anhydrase XIV	69	0.033246	CA14	0.067902
+Methazolamide	carbonic anhydrase VB	68	0.031902	CA5B	0.065158
+Methazolamide	carbonic anhydrase IX	95	0.027569	CA9	0.056308
+Methazolamide	carbonic anhydrase I	77	0.027232	CA1	0.055618
+Methazolamide	carbonic anhydrase II	78	0.024447	CA2	0.049931
+Methazolamide	carbonic anhydrase VA	63	0.024223	CA5A	0.049475
+Methazolamide	carbonic anhydrase VII	66	0.02196	CA7	0.044852
+Methazolamide	carbonic anhydrase XII	69	0.019569	CA12	0.039967
+Methazolamide	solute carrier family 22 (organic anion transporter)	60	0.0041603	SLC22A6	0.0084971
+Methsuximide	calcium channel	304	0.2255	CACNA1G, CACNA1H, CACNA1I	0.83323
+Methsuximide	cytochrome P450	111	0.045135	CYP2C19	0.16677
+Methylphenobarbital	gamma-aminobutyric acid (GABA) A receptor	1285	0.16873	GABRA5, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.35823
+Methylphenobarbital	glutamate receptor	345	0.13842	GRIA2, GRIK2	0.29389
+Methylphenobarbital	cholinergic receptor	352	0.10336	CHRNA7, CHRNA4	0.21945
+Methylphenobarbital	cytochrome P450	214	0.040567	CYP2C19, CYP2B6	0.086129
+Methylphenobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.019921	CHRFAM7A	0.042295
+Midazolam	gamma-aminobutyric acid (GABA) A receptor	2964	0.26056	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRQ, GABRR2, GABRR3, GABRR1, GABRA6, GABRA4, GABRP, GABRA3, GABRE, GABRG1, GABRG3, GABRB1, GABRA2	0.782
+Midazolam	cytochrome P450	607	0.045621	CYP4B1, CYP2E1, CYP2B6, CYP3A5, CYP3A7, CYP3A4	0.13692
+Midazolam	UDP glucuronosyltransferase 1 family	91	0.013881	UGT1A4	0.041659
+Midazolam	ATP-binding cassette	163	0.0081271	ABCB1	0.024392
+Midazolam	CYP3A7-CYP3A51P readthrough	4	0.003465	CYP3A7-CYP3A51P	0.010399
+Midazolam	solute carrier family 22 (organic cation transporter)	235	0.0015438	SLC22A1	0.0046335
+Modafinil	cytochrome P450	680	0.23419	CYP2C19, CYP2B6, CYP3A5, CYP2C9, CYP1A2, CYP3A4	0.95561
+Modafinil	solute carrier family 6 (neurotransmitter transporter)	202	0.0066384	SLC6A3	0.027087
+Modafinil	adrenoceptor alpha 1B	385	0.0042401	ADRA1B	0.017302
+Nitrazepam	gamma-aminobutyric acid (GABA) A receptor	2983	0.39891	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR3, GABRR2, GABRR1, GABRQ, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.82738
+Nitrazepam	sodium channel	114	0.053489	SCN1A	0.11094
+Nitrazepam	cytochrome P450	226	0.018768	CYP2E1, CYP3A4	0.038928
+Nitrazepam	ATP-binding cassette	164	0.010969	ABCB1	0.022752
+Nortriptyline	cytochrome P450	773	0.15041	CYP2C19, CYP2D6, CYP2E1, CYP3A5, CYP2C9, CYP1A2, CYP3A4	0.42752
+Nortriptyline	cholinergic receptor	2022	0.099034	CHRM3, CHRM1, CHRM2, CHRM4, CHRM5	0.28149
+Nortriptyline	albumin	226	0.034868	ALB	0.099108
+Nortriptyline	solute carrier family 6 (neurotransmitter transporter)	175	0.021477	SLC6A4, SLC6A2	0.061045
+Nortriptyline	5-hydroxytryptamine (serotonin) receptor 2A	401	0.017331	HTR2A	0.049261
+Nortriptyline	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0070063	PTGS1	0.019915
+Nortriptyline	5-hydroxytryptamine (serotonin) receptor 1A	407	0.0033306	HTR1A	0.0094669
+Nortriptyline	dopamine receptor D2	403	0.0032505	DRD2	0.0092392
+Nortriptyline	5-hydroxytryptamine (serotonin) receptor 6	341	0.0032256	HTR6	0.0091683
+Nortriptyline	5-hydroxytryptamine (serotonin) receptor 2C	365	0.003054	HTR2C	0.0086806
+Nortriptyline	adrenoceptor alpha 1D	381	0.0026829	ADRA1D	0.0076257
+Nortriptyline	adrenoceptor alpha 1A	383	0.0021797	ADRA1A	0.0061957
+Nortriptyline	adrenoceptor alpha 1B	385	0.0020506	ADRA1B	0.0058286
+Nortriptyline	histamine receptor H1	362	0.0016998	HRH1	0.0048315
+Nortriptyline	orosomucoid 1	3	0.0002192	ORM1	0.00062305
+Oxazepam	gamma-aminobutyric acid (GABA) A receptor	2983	0.29441	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR2, GABRR1, GABRQ, GABRR3, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.90017
+Oxazepam	cytochrome P450	378	0.014466	CYP3A5, CYP3A7, CYP3A4, CYP3A43	0.044231
+Oxazepam	UDP glucuronosyltransferase 2 family	146	0.0099336	UGT2B15, UGT2B7	0.030372
+Oxazepam	UDP glucuronosyltransferase 1 family	111	0.0043681	UGT1A9	0.013355
+Oxazepam	CYP3A7-CYP3A51P readthrough	5	0.003884	CYP3A7-CYP3A51P	0.011875
+Oxcarbazepine	cytochrome P450	320	0.092358	CYP2C19, CYP3A5, CYP3A4	0.47837
+Oxcarbazepine	sodium channel	143	0.05887	SCN5A	0.30492
+Oxcarbazepine	albumin	224	0.041838	ALB	0.2167
+Paramethadione	calcium channel	304	0.37956	CACNA1G, CACNA1H, CACNA1I	0.7477
+Paramethadione	cytochrome P450	460	0.12808	CYP2E1, CYP2C8, CYP2C9, CYP3A4	0.2523
+Pentobarbital	gamma-aminobutyric acid (GABA) A receptor	1934	0.2468	GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.51069
+Pentobarbital	glutamate receptor	345	0.10645	GRIA2, GRIK2	0.22028
+Pentobarbital	cholinergic receptor	352	0.079354	CHRNA7, CHRNA4	0.1642
+Pentobarbital	cytochrome P450	336	0.03442	CYP2C19, CYP2A6, CYP3A4	0.071222
+Pentobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.016244	CHRFAM7A	0.033612
+Phenacemide	sodium channel	114	0.4262	SCN1A	1
+Phenazopyridine	sodium channel	1135	0.95141	SCN8A, SCN9A, SCN3A, SCN4A, SCN1A, SCN2A, SCN7A, SCN11A, SCN10A, SCN5A	1
+Phenelzine	4-aminobutyrate aminotransferase	123	0.24406	ABAT	0.53293
+Phenelzine	cytochrome P450	710	0.15286	CYP2C19, CYP2E1, CYP3A5, CYP2C8, CYP3A7, CYP3A4, CYP3A43	0.33379
+Phenelzine	monoamine oxidase A	238	0.01532	MAOA	0.033452
+Phenelzine	CYP3A7-CYP3A51P readthrough	5	0.01333	CYP3A7-CYP3A51P	0.029107
+Phenelzine	monoamine oxidase B	89	0.012733	MAOB	0.027805
+Phenelzine	glutamic-pyruvate transaminase (alanine aminotransferase)	76	0.0092137	GPT	0.020119
+Phenelzine	glutamic pyruvate transaminase (alanine aminotransferase) 2	77	0.0087532	GPT2	0.019114
+Phenelzine	amine oxidase	7	0.001689	AOC3	0.0036881
+Phenobarbital	cytochrome P450	1663	0.13776	CYP4B1, CYP2C19, CYP2C18, CYP1B1, CYP2A6, CYP2E1, CYP2B6, CYP3A5, CYP2C8, CYP1A1, CYP3A7, CYP2C9, CYP1A2, CYP3A4, CYP4A11	0.31509
+Phenobarbital	glutamate receptor	343	0.1139	GRIA2, GRIK2	0.26051
+Phenobarbital	cholinergic receptor	350	0.084138	CHRNA7, CHRNA4	0.19245
+Phenobarbital	gamma-aminobutyric acid (GABA) A receptor	242	0.042379	GABRA1	0.096933
+Phenobarbital	ATP-binding cassette	618	0.038678	ABCC2, ABCB1, ABCB11, ABCC3, ABCC1	0.088469
+Phenobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	8	0.012499	CHRFAM7A	0.028589
+Phenobarbital	CYP3A7-CYP3A51P readthrough	4	0.00481	CYP3A7-CYP3A51P	0.011002
+Phenobarbital	solute carrier organic anion transporter family	69	0.0030396	SLCO2A1	0.0069525
+Phensuximide	calcium channel	304	0.36138	CACNA1G, CACNA1H, CACNA1I	0.83322
+Phensuximide	cytochrome P450	111	0.072336	CYP2C19	0.16678
+Phenytoin	sodium channel	806	0.2421	SCN8A, SCN9A, SCN3A, SCN4A, SCN1A, SCN2A, SCN5A	0.74257
+Phenytoin	cytochrome P450	945	0.051728	CYP2C19, CYP2C18, CYP2B6, CYP3A5, CYP2C8, CYP3A7, CYP2C9, CYP3A4, CYP11B1	0.15866
+Phenytoin	ATP-binding cassette	221	0.017832	ABCC2, ABCB1	0.054694
+Phenytoin	albumin	225	0.0088172	ALB	0.027043
+Phenytoin	CYP3A7-CYP3A51P readthrough	4	0.002825	CYP3A7-CYP3A51P	0.0086647
+Phenytoin	solute carrier organic anion transporter family	74	0.0027302	SLCO1C1	0.0083738
+Prazepam	gamma-aminobutyric acid (GABA) A receptor	2357	0.46985	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR3, GABRR2, GABRR1, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.97896
+Prazepam	cytochrome P450	120	0.010098	CYP3A4	0.021039
+Pregabalin	calcium channel	423	0.45027	CACNA2D2, CACNA1A, CACNA2D1	0.74262
+Pregabalin	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag)	183	0.15606	SLC1A1	0.25738
+Primidone	gamma-aminobutyric acid (GABA) A receptor	1695	0.14983	GABRG2, GABRA5, GABRB2, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.45987
+Primidone	glutamate receptor	343	0.072038	GRIA2, GRIK2	0.22111
+Primidone	cholinergic receptor	350	0.05263	CHRNA7, CHRNA4	0.16154
+Primidone	cytochrome P450	695	0.042474	CYP2C19, CYP2B6, CYP2C8, CYP2C9, CYP1A2, CYP3A4	0.13037
+Primidone	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	8	0.0088368	CHRFAM7A	0.027123
+Quazepam	gamma-aminobutyric acid (GABA) A receptor	2147	0.2589	GABRD, GABRG2, GABRA5, GABRB3, GABRA1, GABRR3, GABRR2, GABRR1, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.90078
+Quazepam	cytochrome P450	350	0.028516	CYP2C19, CYP2C9, CYP3A4	0.099216
+Quinidine	sodium channel	489	0.24349	SCN3A, SCN1A, SCN2A, SCN5A	0.53096
+Quinidine	cytochrome P450	1013	0.081547	CYP2D6, CYP2E1, CYP2B6, CYP2C8, CYP1A1, CYP3A7, CYP2C9, CYP1A2, CYP3A4	0.17783
+Quinidine	ATP-binding cassette	311	0.043325	ABCC2, ABCB1, ABCB11	0.094478
+Quinidine	solute carrier organic anion transporter family	300	0.033678	SLCO1A2, SLCO1B1	0.073441
+Quinidine	potassium channel	294	0.018958	KCNK6, KCNK1, KCNH2	0.041342
+Quinidine	cholinergic receptor	418	0.018491	CHRM2	0.040321
+Quinidine	CYP3A7-CYP3A51P readthrough	5	0.0069	CYP3A7-CYP3A51P	0.015046
+Quinidine	solute carrier family 22 (organic cation transporter)	464	0.0063471	SLC22A1, SLC22A2	0.013841
+Quinidine	solute carrier family 22 (organic cation/carnitine transporter)	63	0.0025938	SLC22A5	0.0056563
+Quinidine	solute carrier family 22 (organic anion transporter)	62	0.0021889	SLC22A8	0.0047731
+Quinidine	solute carrier family 22 (organic cation/zwitterion transporter)	60	0.00083021	SLC22A4	0.0018104
+Quinidine	orosomucoid 1	3	0.0002296	ORM1	0.00050068
+Ranolazine	sodium channel	247	0.39298	SCN9A, SCN5A	0.88131
+Ranolazine	cytochrome P450	199	0.052922	CYP2D6, CYP3A4	0.11869
+Rufinamide	sodium channel	1125	0.7453	SCN8A, SCN9A, SCN3A, SCN4A, SCN1A, SCN2A, SCN11A, SCN10A, SCN5A, SCN7A	0.82146
+Rufinamide	glutamate receptor	296	0.09755	GRM5	0.10752
+Rufinamide	cytochrome P450	224	0.036292	CYP2E1, CYP3A4	0.04
+Rufinamide	albumin	225	0.026071	ALB	0.028735
+Rufinamide	carboxylesterase 1	21	0.0020753	CES1	0.0022874
+Secobarbital	gamma-aminobutyric acid (GABA) A receptor	1703	0.23682	GABRG2, GABRA5, GABRB2, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.49464
+Secobarbital	glutamate receptor	345	0.11697	GRIA2, GRIK2	0.24431
+Secobarbital	cholinergic receptor	352	0.087281	CHRNA7, CHRNA4	0.18231
+Secobarbital	cytochrome P450	367	0.020384	CYP2C8, CYP2C9, CYP1A2	0.042577
+Secobarbital	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.017316	CHRFAM7A	0.036168
+Sevoflurane	gamma-aminobutyric acid (GABA) A receptor	2590	0.33026	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRQ, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.5901
+Sevoflurane	potassium channel	509	0.12081	KCNK9, KCNK3, KCNK10, KCNK18, KCNK2, KCNA1	0.21585
+Sevoflurane	glutamate receptor	209	0.044407	GRIA1	0.079344
+Sevoflurane	cytochrome P450	434	0.042597	CYP2A6, CYP2E1, CYP2B6, CYP3A4	0.07611
+Sevoflurane	albumin	226	0.015154	ALB	0.027076
+Sevoflurane	glycine receptor	55	0.0018624	GLRA1	0.0033277
+Sevoflurane	ATP synthase	75	0.0017183	ATP5D	0.0030702
+Sevoflurane	ATPase	58	0.0016901	ATP2C1	0.0030197
+Sevoflurane	NADH dehydrogenase	70	0.0011778	ND1	0.0021045
+Talbutal	gamma-aminobutyric acid (GABA) A receptor	2590	0.32247	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRQ, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.63161
+Talbutal	glutamate receptor	345	0.099002	GRIA2, GRIK2	0.19391
+Talbutal	cholinergic receptor	352	0.073795	CHRNA7, CHRNA4	0.14454
+Talbutal	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.015283	CHRFAM7A	0.029935
+Temazepam	gamma-aminobutyric acid (GABA) A receptor	2983	0.28549	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRQ, GABRR1, GABRR3, GABRR2, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.85374
+Temazepam	cytochrome P450	568	0.037825	CYP2C19, CYP2B6, CYP2C8, CYP2C9, CYP3A4	0.11311
+Temazepam	translocator protein (18kDa)	13	0.011086	TSPO	0.033151
+Thiamylal	gamma-aminobutyric acid (GABA) A receptor	2590	0.46444	GABRD, GABRG2, GABRB3, GABRA5, GABRB2, GABRA1, GABRQ, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.91041
+Thiamylal	potassium channel	273	0.037102	KCNJ11, KCNJ8	0.072728
+Thiamylal	cytochrome P450	119	0.0086044	CYP2C9	0.016867
+Thiopental	gamma-aminobutyric acid (GABA) A receptor	1703	0.2438	GABRG2, GABRA5, GABRB2, GABRA1, GABRA6, GABRA4, GABRA3, GABRA2	0.46396
+Thiopental	glutamate receptor	345	0.12118	GRIA2, GRIK2	0.2306
+Thiopental	cholinergic receptor	352	0.090653	CHRNA7, CHRNA4	0.17251
+Thiopental	fatty acid amide hydrolase	14	0.032799	FAAH	0.062416
+Thiopental	cytochrome P450	226	0.02003	CYP2E1, CYP3A4	0.038117
+Thiopental	CHRNA7 (cholinergic receptor, nicotinic, alpha 7, exons 5-10) and FAM7A (family with sequence similarity 7A, exons A-E) fusion	9	0.017025	CHRFAM7A	0.032398
+Tiagabine	solute carrier family 6 (neurotransmitter transporter)	192	0.33502	SLC6A1	0.9255
+Tiagabine	cytochrome P450	120	0.02697	CYP3A4	0.074504
+Topiramate	glutamate receptor	1476	0.18404	GRIK5, GRIA4, GRIK1, GRIA1, GRIA2, GRIK2, GRIK4, GRIK3, GRIA3	0.50477
+Topiramate	gamma-aminobutyric acid (GABA) A receptor	658	0.05266	GABRG2, GABRB2, GABRA1	0.14443
+Topiramate	sodium channel	260	0.037135	SCN1A, SCN5A	0.10185
+Topiramate	carbonic anhydrase IV	76	0.015371	CA4	0.042159
+Topiramate	cytochrome P450	229	0.013814	CYP2C19, CYP3A4	0.037887
+Topiramate	carbonic anhydrase VI	65	0.011265	CA6	0.030897
+Topiramate	carbonic anhydrase VB	67	0.0096349	CA5B	0.026426
+Topiramate	carbonic anhydrase IX	94	0.0082764	CA9	0.0227
+Topiramate	carbonic anhydrase I	76	0.0080071	CA1	0.021961
+Topiramate	carbonic anhydrase II	77	0.0070939	CA2	0.019457
+Topiramate	carbonic anhydrase VA	62	0.0064213	CA5A	0.017612
+Topiramate	carbonic anhydrase VII	65	0.0057799	CA7	0.015853
+Topiramate	carbonic anhydrase XII	68	0.005103	CA12	0.013996
+Triazolam	gamma-aminobutyric acid (GABA) A receptor	2983	0.2887	GABRD, GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRR1, GABRR2, GABRQ, GABRR3, GABRA6, GABRA4, GABRP, GABRE, GABRG1, GABRA3, GABRG3, GABRB1, GABRA2	0.88319
+Triazolam	cytochrome P450	532	0.023331	CYP3A5, CYP2C8, CYP3A7, CYP2C9, CYP3A4	0.071374
+Triazolam	translocator protein (18kDa)	13	0.011126	TSPO	0.034036
+Triazolam	CYP3A7-CYP3A51P readthrough	5	0.003726	CYP3A7-CYP3A51P	0.011399
+Trimethadione	cytochrome P450	555	0.21049	CYP2C19, CYP2E1, CYP2C8, CYP2C9, CYP3A4	0.53863
+Trimethadione	calcium channel	93	0.1803	CACNA1G	0.46137
+Valproic Acid	4-aminobutyrate aminotransferase	122	0.1035	ABAT	0.37972
+Valproic Acid	cytochrome P450	982	0.085399	CYP2C19, CYP2C18, CYP2A6, CYP2B6, CYP3A5, CYP2C8, CYP2C9, CYP1A2, CYP3A4	0.31332
+Valproic Acid	UDP glucuronosyltransferase 1 family	454	0.053588	UGT1A8, UGT1A4, UGT1A6, UGT1A3, UGT1A9, UGT1A10	0.19661
+Valproic Acid	aldehyde dehydrogenase 5 family	123	0.0074236	ALDH5A1	0.027236
+Valproic Acid	UDP glucuronosyltransferase 2 family	144	0.0044037	UGT2B7, UGT2B15	0.016156
+Valproic Acid	histone deacetylase 2	312	0.0039119	HDAC2	0.014352
+Valproic Acid	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	81	0.0036329	OGDH	0.013328
+Valproic Acid	histone deacetylase 9	202	0.0029054	HDAC9	0.01066
+Valproic Acid	solute carrier family 22 (organic anion transporter)	181	0.0024124	SLC22A6, SLC22A7, SLC22A8	0.0088507
+Valproic Acid	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	117	0.00186	PTGS1	0.0068242
+Valproic Acid	acyl-CoA dehydrogenase	70	0.0015684	ACADSB	0.0057541
+Valproic Acid	solute carrier family 16 (monocarboxylate transporter)	158	0.0014304	SLC16A1	0.0052478
+Valproic Acid	solute carrier family 22 (organic cation/carnitine transporter)	62	0.00052924	SLC22A5	0.0019417
+Verapamil	calcium channel	2273	0.36041	CACNB4, CACNA1A, CACNA1B, CACNA1G, CACNA1H, CACNA1D, CACNA1I, CACNB3, CACNB1, CACNA1F, CACNA1C, CACNB2, CACNA1S	0.60075
+Verapamil	cytochrome P450	1060	0.097534	CYP2C19, CYP2C18, CYP2D6, CYP2B6, CYP3A5, CYP2C8, CYP3A7, CYP2C9, CYP1A2, CYP3A4	0.16257
+Verapamil	ATP-binding cassette	912	0.050129	ABCC2, ABCG2, ABCC3, ABCB1, ABCB11, ABCC1, ABCC10, ABCC4	0.083558
+Verapamil	sodium channel	148	0.02945	SCN5A	0.049088
+Verapamil	solute carrier organic anion transporter family	300	0.021083	SLCO1A2, SLCO1B1	0.035141
+Verapamil	potassium channel	288	0.020784	KCNJ11, KCNH2	0.034644
+Verapamil	solute carrier family 6 (neurotransmitter transporter)	87	0.0084862	SLC6A4	0.014145
+Verapamil	CYP3A7-CYP3A51P readthrough	5	0.00579	CYP3A7-CYP3A51P	0.009651
+Verapamil	solute carrier family 22 (organic cation transporter)	236	0.0035513	SLC22A1	0.0059195
+Verapamil	solute carrier family 22 (organic cation/carnitine transporter)	63	0.0021119	SLC22A5	0.0035202
+Verapamil	solute carrier family 22 (organic cation/zwitterion transporter)	60	0.00060467	SLC22A4	0.0010079
+Zolpidem	gamma-aminobutyric acid (GABA) A receptor	1314	0.45245	GABRG2, GABRB3, GABRB2, GABRA1, GABRA3, GABRA2	0.7408
+Zolpidem	cytochrome P450	751	0.13784	CYP2C19, CYP2D6, CYP3A5, CYP3A7, CYP2C9, CYP1A2, CYP3A4	0.22569
+Zolpidem	CYP3A7-CYP3A51P readthrough	5	0.01315	CYP3A7-CYP3A51P	0.021531
+Zolpidem	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0073161	PTGS1	0.011979
+Zonisamide	sodium channel	1311	0.26991	SCN1B, SCN9A, SCN3A, SCN4A, SCN1A, SCN2A, SCN11A, SCN5A, SCN3B, SCN2B, SCN4B	0.51146
+Zonisamide	carbonic anhydrase XIII	70	0.060122	CA13	0.11393
+Zonisamide	calcium channel	301	0.046418	CACNA1G, CACNA1H, CACNA1I	0.08796
+Zonisamide	carbonic anhydrase III	69	0.024632	CA3	0.046677
+Zonisamide	carbonic anhydrase IV	76	0.019818	CA4	0.037555
+Zonisamide	cytochrome P450	229	0.016832	CYP2C19, CYP3A4	0.031897
+Zonisamide	carbonic anhydrase VI	65	0.012613	CA6	0.023901
+Zonisamide	carbonic anhydrase VB	67	0.01072	CA5B	0.020314
+Zonisamide	carbonic anhydrase XIV	68	0.010538	CA14	0.019968
+Zonisamide	carbonic anhydrase IX	94	0.0092153	CA9	0.017463
+Zonisamide	carbonic anhydrase I	76	0.0090204	CA1	0.017093
+Zonisamide	carbonic anhydrase II	77	0.0080596	CA2	0.015273
+Zonisamide	carbonic anhydrase VA	62	0.0068265	CA5A	0.012936
+Zonisamide	carbonic anhydrase VII	65	0.0062107	CA7	0.011769
+Zonisamide	carbonic anhydrase XII	68	0.0055344	CA12	0.010488
+Zonisamide	carbonic anhydrase X	13	0.003264	CA10	0.0061852
+Zonisamide	monoamine oxidase A	237	0.0021454	MAOA	0.0040654
+Zonisamide	carbonic anhydrase XI	12	0.0018313	CA11	0.0034702
+Zonisamide	aldehyde oxidase 1	105	0.0015346	AOX1	0.002908
+Zonisamide	carbonic anhydrase VIII	7	0.001475	CA8	0.0027951
+Zonisamide	monoamine oxidase B	88	0.00099823	MAOB	0.0018916
+Zopiclone	gamma-aminobutyric acid (GABA) A receptor	1720	0.50714	GABRG2, GABRA5, GABRB3, GABRB2, GABRA1, GABRA3, GABRG3, GABRA2	0.8203
+Zopiclone	cytochrome P450	460	0.070178	CYP2E1, CYP2C8, CYP2C9, CYP3A4	0.11351
+Zopiclone	translocator protein (18kDa)	13	0.034396	TSPO	0.055635
+Zopiclone	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	118	0.0065267	PTGS1	0.010557
