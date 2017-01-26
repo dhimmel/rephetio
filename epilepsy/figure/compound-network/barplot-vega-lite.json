@@ -1,0 +1,48 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/dhimmel/rephetio/09e596ad0e56e47930764a205a94c924865f8bcc/epilepsy/figure/compound-network/target-contributions-long.tsv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "compound_name",
+      "type": "ordinal",
+      "sort": {"field": "disease_pctl","order": "ascending"},
+      "axis": {"title": ""}
+    },
+    "x": {
+      "field": "normalized_contribution",
+      "type": "quantitative",
+      "axis": {"title": ""}
+    },
+    "color": {
+      "field": "target",
+      "type": "nominal",
+      "legend": {"title": "Target (gene family)"},
+      "scale": {
+        "domain": [
+          "gamma-aminobutyric acid (GABA) A receptor",
+          "cytochrome P450",
+          "sodium channel",
+          "glutamate receptor",
+          "calcium channel",
+          "carbonic anhydrase",
+          "cholinergic receptor",
+          "potassium channel",
+          "other"
+        ],
+        "range": [
+          "#bcbd22",
+          "#ff7f0e",
+          "#2ca02c",
+          "#d62728",
+          "#8c564b",
+          "#e377c2",
+          "#7f7f7f",
+          "#1f77b4",
+          "#ffffff"
+        ]
+      }
+    }
+  }
+}
