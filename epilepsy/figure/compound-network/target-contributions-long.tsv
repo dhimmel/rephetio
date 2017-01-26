@@ -1,0 +1,901 @@
+compound_name	compound_rank	gene_main_name	normalized_contribution
+Acamprosate	1	gamma-aminobutyric acid (GABA) A receptor	0.30217
+Acamprosate	1	cytochrome P450	0
+Acamprosate	1	sodium channel	0
+Acamprosate	1	glutamate receptor	0.60517
+Acamprosate	1	calcium channel	0
+Acamprosate	1	carbonic anhydrase	0
+Acamprosate	1	cholinergic receptor	0
+Acamprosate	1	potassium channel	0
+Acamprosate	1	other	0.092663
+Acetazolamide	2	gamma-aminobutyric acid (GABA) A receptor	0
+Acetazolamide	2	cytochrome P450	0.025442
+Acetazolamide	2	sodium channel	0
+Acetazolamide	2	glutamate receptor	0
+Acetazolamide	2	calcium channel	0
+Acetazolamide	2	carbonic anhydrase	0.66137
+Acetazolamide	2	cholinergic receptor	0
+Acetazolamide	2	potassium channel	0
+Acetazolamide	2	other	0.31319
+Adinazolam	3	gamma-aminobutyric acid (GABA) A receptor	0.93179
+Adinazolam	3	cytochrome P450	0.068206
+Adinazolam	3	sodium channel	0
+Adinazolam	3	glutamate receptor	0
+Adinazolam	3	calcium channel	0
+Adinazolam	3	carbonic anhydrase	0
+Adinazolam	3	cholinergic receptor	0
+Adinazolam	3	potassium channel	0
+Adinazolam	3	other	0
+Alprazolam	4	gamma-aminobutyric acid (GABA) A receptor	0.87281
+Alprazolam	4	cytochrome P450	0.10485
+Alprazolam	4	sodium channel	0
+Alprazolam	4	glutamate receptor	0
+Alprazolam	4	calcium channel	0
+Alprazolam	4	carbonic anhydrase	0
+Alprazolam	4	cholinergic receptor	0
+Alprazolam	4	potassium channel	0
+Alprazolam	4	other	0.022342
+Amitriptyline	5	gamma-aminobutyric acid (GABA) A receptor	0
+Amitriptyline	5	cytochrome P450	0.30745
+Amitriptyline	5	sodium channel	0
+Amitriptyline	5	glutamate receptor	0
+Amitriptyline	5	calcium channel	0
+Amitriptyline	5	carbonic anhydrase	0
+Amitriptyline	5	cholinergic receptor	0.073393
+Amitriptyline	5	potassium channel	0.28246
+Amitriptyline	5	other	0.3367
+Amobarbital	6	gamma-aminobutyric acid (GABA) A receptor	0.39668
+Amobarbital	6	cytochrome P450	0.019493
+Amobarbital	6	sodium channel	0
+Amobarbital	6	glutamate receptor	0.31594
+Amobarbital	6	calcium channel	0
+Amobarbital	6	carbonic anhydrase	0
+Amobarbital	6	cholinergic receptor	0.22859
+Amobarbital	6	potassium channel	0
+Amobarbital	6	other	0.039304
+Amoxapine	7	gamma-aminobutyric acid (GABA) A receptor	0.40009
+Amoxapine	7	cytochrome P450	0.048794
+Amoxapine	7	sodium channel	0
+Amoxapine	7	glutamate receptor	0
+Amoxapine	7	calcium channel	0
+Amoxapine	7	carbonic anhydrase	0
+Amoxapine	7	cholinergic receptor	0.10913
+Amoxapine	7	potassium channel	0
+Amoxapine	7	other	0.44198
+Antipyrine	8	gamma-aminobutyric acid (GABA) A receptor	0
+Antipyrine	8	cytochrome P450	0.84251
+Antipyrine	8	sodium channel	0
+Antipyrine	8	glutamate receptor	0
+Antipyrine	8	calcium channel	0
+Antipyrine	8	carbonic anhydrase	0
+Antipyrine	8	cholinergic receptor	0
+Antipyrine	8	potassium channel	0
+Antipyrine	8	other	0.15749
+Aprobarbital	9	gamma-aminobutyric acid (GABA) A receptor	0.39293
+Aprobarbital	9	cytochrome P450	0
+Aprobarbital	9	sodium channel	0
+Aprobarbital	9	glutamate receptor	0.32045
+Aprobarbital	9	calcium channel	0
+Aprobarbital	9	carbonic anhydrase	0
+Aprobarbital	9	cholinergic receptor	0.23908
+Aprobarbital	9	potassium channel	0
+Aprobarbital	9	other	0.047539
+Baclofen	10	gamma-aminobutyric acid (GABA) A receptor	0
+Baclofen	10	cytochrome P450	0
+Baclofen	10	sodium channel	0
+Baclofen	10	glutamate receptor	0
+Baclofen	10	calcium channel	0
+Baclofen	10	carbonic anhydrase	0
+Baclofen	10	cholinergic receptor	0
+Baclofen	10	potassium channel	0
+Baclofen	10	other	1
+Bortezomib	11	gamma-aminobutyric acid (GABA) A receptor	0
+Bortezomib	11	cytochrome P450	0.80387
+Bortezomib	11	sodium channel	0
+Bortezomib	11	glutamate receptor	0
+Bortezomib	11	calcium channel	0
+Bortezomib	11	carbonic anhydrase	0
+Bortezomib	11	cholinergic receptor	0
+Bortezomib	11	potassium channel	0
+Bortezomib	11	other	0.19613
+Bromazepam	12	gamma-aminobutyric acid (GABA) A receptor	0.90262
+Bromazepam	12	cytochrome P450	0.097383
+Bromazepam	12	sodium channel	0
+Bromazepam	12	glutamate receptor	0
+Bromazepam	12	calcium channel	0
+Bromazepam	12	carbonic anhydrase	0
+Bromazepam	12	cholinergic receptor	0
+Bromazepam	12	potassium channel	0
+Bromazepam	12	other	0
+Butabarbital	13	gamma-aminobutyric acid (GABA) A receptor	0.37445
+Butabarbital	13	cytochrome P450	0
+Butabarbital	13	sodium channel	0
+Butabarbital	13	glutamate receptor	0.32789
+Butabarbital	13	calcium channel	0
+Butabarbital	13	carbonic anhydrase	0
+Butabarbital	13	cholinergic receptor	0.24441
+Butabarbital	13	potassium channel	0
+Butabarbital	13	other	0.053251
+Butalbital	14	gamma-aminobutyric acid (GABA) A receptor	0.50532
+Butalbital	14	cytochrome P450	0
+Butalbital	14	sodium channel	0
+Butalbital	14	glutamate receptor	0.25998
+Butalbital	14	calcium channel	0
+Butalbital	14	carbonic anhydrase	0
+Butalbital	14	cholinergic receptor	0.19371
+Butalbital	14	potassium channel	0
+Butalbital	14	other	0.040996
+Butethal	15	gamma-aminobutyric acid (GABA) A receptor	0.39308
+Butethal	15	cytochrome P450	0
+Butethal	15	sodium channel	0
+Butethal	15	glutamate receptor	0.32036
+Butethal	15	calcium channel	0
+Butethal	15	carbonic anhydrase	0
+Butethal	15	cholinergic receptor	0.23901
+Butethal	15	potassium channel	0
+Butethal	15	other	0.04756
+Carbamazepine	16	gamma-aminobutyric acid (GABA) A receptor	0
+Carbamazepine	16	cytochrome P450	0.23695
+Carbamazepine	16	sodium channel	0.61637
+Carbamazepine	16	glutamate receptor	0
+Carbamazepine	16	calcium channel	0
+Carbamazepine	16	carbonic anhydrase	0
+Carbamazepine	16	cholinergic receptor	0
+Carbamazepine	16	potassium channel	0
+Carbamazepine	16	other	0.14668
+Chlordiazepoxide	17	gamma-aminobutyric acid (GABA) A receptor	0.93684
+Chlordiazepoxide	17	cytochrome P450	0.063158
+Chlordiazepoxide	17	sodium channel	0
+Chlordiazepoxide	17	glutamate receptor	0
+Chlordiazepoxide	17	calcium channel	0
+Chlordiazepoxide	17	carbonic anhydrase	0
+Chlordiazepoxide	17	cholinergic receptor	0
+Chlordiazepoxide	17	potassium channel	0
+Chlordiazepoxide	17	other	0
+Chlorthalidone	18	gamma-aminobutyric acid (GABA) A receptor	0
+Chlorthalidone	18	cytochrome P450	0
+Chlorthalidone	18	sodium channel	0
+Chlorthalidone	18	glutamate receptor	0
+Chlorthalidone	18	calcium channel	0
+Chlorthalidone	18	carbonic anhydrase	0.96591
+Chlorthalidone	18	cholinergic receptor	0
+Chlorthalidone	18	potassium channel	0
+Chlorthalidone	18	other	0.034089
+Cinolazepam	19	gamma-aminobutyric acid (GABA) A receptor	1
+Cinolazepam	19	cytochrome P450	0
+Cinolazepam	19	sodium channel	0
+Cinolazepam	19	glutamate receptor	0
+Cinolazepam	19	calcium channel	0
+Cinolazepam	19	carbonic anhydrase	0
+Cinolazepam	19	cholinergic receptor	0
+Cinolazepam	19	potassium channel	0
+Cinolazepam	19	other	0
+Clobazam	20	gamma-aminobutyric acid (GABA) A receptor	0.45111
+Clobazam	20	cytochrome P450	0.24492
+Clobazam	20	sodium channel	0
+Clobazam	20	glutamate receptor	0
+Clobazam	20	calcium channel	0
+Clobazam	20	carbonic anhydrase	0
+Clobazam	20	cholinergic receptor	0
+Clobazam	20	potassium channel	0
+Clobazam	20	other	0.30397
+Clomipramine	21	gamma-aminobutyric acid (GABA) A receptor	0
+Clomipramine	21	cytochrome P450	0.39443
+Clomipramine	21	sodium channel	0
+Clomipramine	21	glutamate receptor	0
+Clomipramine	21	calcium channel	0
+Clomipramine	21	carbonic anhydrase	0
+Clomipramine	21	cholinergic receptor	0
+Clomipramine	21	potassium channel	0
+Clomipramine	21	other	0.60557
+Clonazepam	22	gamma-aminobutyric acid (GABA) A receptor	0.7715
+Clonazepam	22	cytochrome P450	0.1025
+Clonazepam	22	sodium channel	0
+Clonazepam	22	glutamate receptor	0
+Clonazepam	22	calcium channel	0
+Clonazepam	22	carbonic anhydrase	0
+Clonazepam	22	cholinergic receptor	0
+Clonazepam	22	potassium channel	0
+Clonazepam	22	other	0.126
+Clorazepate	23	gamma-aminobutyric acid (GABA) A receptor	0.8997
+Clorazepate	23	cytochrome P450	0.030949
+Clorazepate	23	sodium channel	0
+Clorazepate	23	glutamate receptor	0
+Clorazepate	23	calcium channel	0
+Clorazepate	23	carbonic anhydrase	0
+Clorazepate	23	cholinergic receptor	0
+Clorazepate	23	potassium channel	0
+Clorazepate	23	other	0.069347
+Clotiazepam	24	gamma-aminobutyric acid (GABA) A receptor	0.85567
+Clotiazepam	24	cytochrome P450	0.14433
+Clotiazepam	24	sodium channel	0
+Clotiazepam	24	glutamate receptor	0
+Clotiazepam	24	calcium channel	0
+Clotiazepam	24	carbonic anhydrase	0
+Clotiazepam	24	cholinergic receptor	0
+Clotiazepam	24	potassium channel	0
+Clotiazepam	24	other	0
+Clozapine	25	gamma-aminobutyric acid (GABA) A receptor	0
+Clozapine	25	cytochrome P450	0.34532
+Clozapine	25	sodium channel	0
+Clozapine	25	glutamate receptor	0
+Clozapine	25	calcium channel	0
+Clozapine	25	carbonic anhydrase	0
+Clozapine	25	cholinergic receptor	0.17276
+Clozapine	25	potassium channel	0
+Clozapine	25	other	0.48192
+Cyproheptadine	26	gamma-aminobutyric acid (GABA) A receptor	0
+Cyproheptadine	26	cytochrome P450	0
+Cyproheptadine	26	sodium channel	0
+Cyproheptadine	26	glutamate receptor	0
+Cyproheptadine	26	calcium channel	0
+Cyproheptadine	26	carbonic anhydrase	0
+Cyproheptadine	26	cholinergic receptor	0.53451
+Cyproheptadine	26	potassium channel	0
+Cyproheptadine	26	other	0.46549
+Dabrafenib	27	gamma-aminobutyric acid (GABA) A receptor	0
+Dabrafenib	27	cytochrome P450	0.31796
+Dabrafenib	27	sodium channel	0
+Dabrafenib	27	glutamate receptor	0
+Dabrafenib	27	calcium channel	0
+Dabrafenib	27	carbonic anhydrase	0
+Dabrafenib	27	cholinergic receptor	0
+Dabrafenib	27	potassium channel	0
+Dabrafenib	27	other	0.68204
+Dalfampridine	28	gamma-aminobutyric acid (GABA) A receptor	0
+Dalfampridine	28	cytochrome P450	0.11403
+Dalfampridine	28	sodium channel	0
+Dalfampridine	28	glutamate receptor	0
+Dalfampridine	28	calcium channel	0
+Dalfampridine	28	carbonic anhydrase	0
+Dalfampridine	28	cholinergic receptor	0
+Dalfampridine	28	potassium channel	0.86642
+Dalfampridine	28	other	0.019547
+Desflurane	29	gamma-aminobutyric acid (GABA) A receptor	0.64941
+Desflurane	29	cytochrome P450	0
+Desflurane	29	sodium channel	0
+Desflurane	29	glutamate receptor	0.08295
+Desflurane	29	calcium channel	0
+Desflurane	29	carbonic anhydrase	0
+Desflurane	29	cholinergic receptor	0
+Desflurane	29	potassium channel	0.21987
+Desflurane	29	other	0.047774
+Desipramine	30	gamma-aminobutyric acid (GABA) A receptor	0
+Desipramine	30	cytochrome P450	0.49013
+Desipramine	30	sodium channel	0
+Desipramine	30	glutamate receptor	0
+Desipramine	30	calcium channel	0
+Desipramine	30	carbonic anhydrase	0
+Desipramine	30	cholinergic receptor	0.25943
+Desipramine	30	potassium channel	0
+Desipramine	30	other	0.25044
+Diazepam	31	gamma-aminobutyric acid (GABA) A receptor	0.7017
+Diazepam	31	cytochrome P450	0.2061
+Diazepam	31	sodium channel	0
+Diazepam	31	glutamate receptor	0
+Diazepam	31	calcium channel	0
+Diazepam	31	carbonic anhydrase	0
+Diazepam	31	cholinergic receptor	0
+Diazepam	31	potassium channel	0
+Diazepam	31	other	0.092208
+Diclofenamide	32	gamma-aminobutyric acid (GABA) A receptor	0
+Diclofenamide	32	cytochrome P450	0.026135
+Diclofenamide	32	sodium channel	0
+Diclofenamide	32	glutamate receptor	0
+Diclofenamide	32	calcium channel	0
+Diclofenamide	32	carbonic anhydrase	0.97387
+Diclofenamide	32	cholinergic receptor	0
+Diclofenamide	32	potassium channel	0
+Diclofenamide	32	other	0
+Enflurane	33	gamma-aminobutyric acid (GABA) A receptor	0
+Enflurane	33	cytochrome P450	0.1259
+Enflurane	33	sodium channel	0
+Enflurane	33	glutamate receptor	0.22897
+Enflurane	33	calcium channel	0
+Enflurane	33	carbonic anhydrase	0
+Enflurane	33	cholinergic receptor	0
+Enflurane	33	potassium channel	0.49762
+Enflurane	33	other	0.14751
+Estazolam	34	gamma-aminobutyric acid (GABA) A receptor	0.97895
+Estazolam	34	cytochrome P450	0.02105
+Estazolam	34	sodium channel	0
+Estazolam	34	glutamate receptor	0
+Estazolam	34	calcium channel	0
+Estazolam	34	carbonic anhydrase	0
+Estazolam	34	cholinergic receptor	0
+Estazolam	34	potassium channel	0
+Estazolam	34	other	1.1102e-16
+Eszopiclone	35	gamma-aminobutyric acid (GABA) A receptor	0.8491
+Eszopiclone	35	cytochrome P450	0.080242
+Eszopiclone	35	sodium channel	0
+Eszopiclone	35	glutamate receptor	0
+Eszopiclone	35	calcium channel	0
+Eszopiclone	35	carbonic anhydrase	0
+Eszopiclone	35	cholinergic receptor	0
+Eszopiclone	35	potassium channel	0
+Eszopiclone	35	other	0.070657
+Ethosuximide	36	gamma-aminobutyric acid (GABA) A receptor	0
+Ethosuximide	36	cytochrome P450	0.31931
+Ethosuximide	36	sodium channel	0
+Ethosuximide	36	glutamate receptor	0
+Ethosuximide	36	calcium channel	0.62503
+Ethosuximide	36	carbonic anhydrase	0
+Ethosuximide	36	cholinergic receptor	0
+Ethosuximide	36	potassium channel	0
+Ethosuximide	36	other	0.055662
+Ethotoin	37	gamma-aminobutyric acid (GABA) A receptor	0
+Ethotoin	37	cytochrome P450	0.037966
+Ethotoin	37	sodium channel	0.96203
+Ethotoin	37	glutamate receptor	0
+Ethotoin	37	calcium channel	0
+Ethotoin	37	carbonic anhydrase	0
+Ethotoin	37	cholinergic receptor	0
+Ethotoin	37	potassium channel	0
+Ethotoin	37	other	-2.2204e-16
+Etomidate	38	gamma-aminobutyric acid (GABA) A receptor	0.66039
+Etomidate	38	cytochrome P450	0.068518
+Etomidate	38	sodium channel	0
+Etomidate	38	glutamate receptor	0
+Etomidate	38	calcium channel	0
+Etomidate	38	carbonic anhydrase	0
+Etomidate	38	cholinergic receptor	0
+Etomidate	38	potassium channel	0
+Etomidate	38	other	0.2711
+Felbamate	39	gamma-aminobutyric acid (GABA) A receptor	0
+Felbamate	39	cytochrome P450	0.4736
+Felbamate	39	sodium channel	0
+Felbamate	39	glutamate receptor	0.5264
+Felbamate	39	calcium channel	0
+Felbamate	39	carbonic anhydrase	0
+Felbamate	39	cholinergic receptor	0
+Felbamate	39	potassium channel	0
+Felbamate	39	other	1.1102e-16
+Fludiazepam	40	gamma-aminobutyric acid (GABA) A receptor	1
+Fludiazepam	40	cytochrome P450	0
+Fludiazepam	40	sodium channel	0
+Fludiazepam	40	glutamate receptor	0
+Fludiazepam	40	calcium channel	0
+Fludiazepam	40	carbonic anhydrase	0
+Fludiazepam	40	cholinergic receptor	0
+Fludiazepam	40	potassium channel	0
+Fludiazepam	40	other	0
+Flunitrazepam	41	gamma-aminobutyric acid (GABA) A receptor	0.60302
+Flunitrazepam	41	cytochrome P450	0.26856
+Flunitrazepam	41	sodium channel	0
+Flunitrazepam	41	glutamate receptor	0
+Flunitrazepam	41	calcium channel	0
+Flunitrazepam	41	carbonic anhydrase	0
+Flunitrazepam	41	cholinergic receptor	0
+Flunitrazepam	41	potassium channel	0
+Flunitrazepam	41	other	0.12842
+Flurazepam	42	gamma-aminobutyric acid (GABA) A receptor	0.91334
+Flurazepam	42	cytochrome P450	0.057944
+Flurazepam	42	sodium channel	0
+Flurazepam	42	glutamate receptor	0
+Flurazepam	42	calcium channel	0
+Flurazepam	42	carbonic anhydrase	0
+Flurazepam	42	cholinergic receptor	0
+Flurazepam	42	potassium channel	0
+Flurazepam	42	other	0.028711
+Fosphenytoin	43	gamma-aminobutyric acid (GABA) A receptor	0
+Fosphenytoin	43	cytochrome P450	0.57284
+Fosphenytoin	43	sodium channel	0.24268
+Fosphenytoin	43	glutamate receptor	0
+Fosphenytoin	43	calcium channel	0
+Fosphenytoin	43	carbonic anhydrase	0
+Fosphenytoin	43	cholinergic receptor	0
+Fosphenytoin	43	potassium channel	0
+Fosphenytoin	43	other	0.18448
+Fospropofol	44	gamma-aminobutyric acid (GABA) A receptor	0.94673
+Fospropofol	44	cytochrome P450	0
+Fospropofol	44	sodium channel	0
+Fospropofol	44	glutamate receptor	0
+Fospropofol	44	calcium channel	0
+Fospropofol	44	carbonic anhydrase	0
+Fospropofol	44	cholinergic receptor	0
+Fospropofol	44	potassium channel	0
+Fospropofol	44	other	0.053268
+Gabapentin	45	gamma-aminobutyric acid (GABA) A receptor	0
+Gabapentin	45	cytochrome P450	0
+Gabapentin	45	sodium channel	0
+Gabapentin	45	glutamate receptor	0
+Gabapentin	45	calcium channel	0.96793
+Gabapentin	45	carbonic anhydrase	0
+Gabapentin	45	cholinergic receptor	0
+Gabapentin	45	potassium channel	0
+Gabapentin	45	other	0.032068
+Glutethimide	46	gamma-aminobutyric acid (GABA) A receptor	0.83568
+Glutethimide	46	cytochrome P450	0.16432
+Glutethimide	46	sodium channel	0
+Glutethimide	46	glutamate receptor	0
+Glutethimide	46	calcium channel	0
+Glutethimide	46	carbonic anhydrase	0
+Glutethimide	46	cholinergic receptor	0
+Glutethimide	46	potassium channel	0
+Glutethimide	46	other	0
+Halazepam	47	gamma-aminobutyric acid (GABA) A receptor	1
+Halazepam	47	cytochrome P450	0
+Halazepam	47	sodium channel	0
+Halazepam	47	glutamate receptor	0
+Halazepam	47	calcium channel	0
+Halazepam	47	carbonic anhydrase	0
+Halazepam	47	cholinergic receptor	0
+Halazepam	47	potassium channel	0
+Halazepam	47	other	0
+Heptabarbital	48	gamma-aminobutyric acid (GABA) A receptor	0.39322
+Heptabarbital	48	cytochrome P450	0
+Heptabarbital	48	sodium channel	0
+Heptabarbital	48	glutamate receptor	0.32033
+Heptabarbital	48	calcium channel	0
+Heptabarbital	48	carbonic anhydrase	0
+Heptabarbital	48	cholinergic receptor	0.23889
+Heptabarbital	48	potassium channel	0
+Heptabarbital	48	other	0.047559
+Hexobarbital	49	gamma-aminobutyric acid (GABA) A receptor	0.3393
+Hexobarbital	49	cytochrome P450	0.12217
+Hexobarbital	49	sodium channel	0
+Hexobarbital	49	glutamate receptor	0.28145
+Hexobarbital	49	calcium channel	0
+Hexobarbital	49	carbonic anhydrase	0
+Hexobarbital	49	cholinergic receptor	0.21033
+Hexobarbital	49	potassium channel	0
+Hexobarbital	49	other	0.046755
+Imipramine	50	gamma-aminobutyric acid (GABA) A receptor	0
+Imipramine	50	cytochrome P450	0.39399
+Imipramine	50	sodium channel	0
+Imipramine	50	glutamate receptor	0
+Imipramine	50	calcium channel	0
+Imipramine	50	carbonic anhydrase	0
+Imipramine	50	cholinergic receptor	0.15121
+Imipramine	50	potassium channel	0.21289
+Imipramine	50	other	0.24191
+Indapamide	51	gamma-aminobutyric acid (GABA) A receptor	0
+Indapamide	51	cytochrome P450	0.043091
+Indapamide	51	sodium channel	0
+Indapamide	51	glutamate receptor	0
+Indapamide	51	calcium channel	0
+Indapamide	51	carbonic anhydrase	0.89475
+Indapamide	51	cholinergic receptor	0
+Indapamide	51	potassium channel	0.049695
+Indapamide	51	other	0.012463
+Isocarboxazid	52	gamma-aminobutyric acid (GABA) A receptor	0
+Isocarboxazid	52	cytochrome P450	0
+Isocarboxazid	52	sodium channel	0
+Isocarboxazid	52	glutamate receptor	0
+Isocarboxazid	52	calcium channel	0
+Isocarboxazid	52	carbonic anhydrase	0
+Isocarboxazid	52	cholinergic receptor	0
+Isocarboxazid	52	potassium channel	0
+Isocarboxazid	52	other	1
+Isoflurane	53	gamma-aminobutyric acid (GABA) A receptor	0.599
+Isoflurane	53	cytochrome P450	0.049151
+Isoflurane	53	sodium channel	0
+Isoflurane	53	glutamate receptor	0.078457
+Isoflurane	53	calcium channel	0
+Isoflurane	53	carbonic anhydrase	0
+Isoflurane	53	cholinergic receptor	0
+Isoflurane	53	potassium channel	0.21096
+Isoflurane	53	other	0.062425
+Ketamine	54	gamma-aminobutyric acid (GABA) A receptor	0
+Ketamine	54	cytochrome P450	0.18442
+Ketamine	54	sodium channel	0
+Ketamine	54	glutamate receptor	0.54295
+Ketamine	54	calcium channel	0
+Ketamine	54	carbonic anhydrase	0
+Ketamine	54	cholinergic receptor	0
+Ketamine	54	potassium channel	0
+Ketamine	54	other	0.27263
+Ketazolam	55	gamma-aminobutyric acid (GABA) A receptor	0.68402
+Ketazolam	55	cytochrome P450	0.04687
+Ketazolam	55	sodium channel	0
+Ketazolam	55	glutamate receptor	0
+Ketazolam	55	calcium channel	0
+Ketazolam	55	carbonic anhydrase	0
+Ketazolam	55	cholinergic receptor	0
+Ketazolam	55	potassium channel	0
+Ketazolam	55	other	0.26911
+Lacosamide	56	gamma-aminobutyric acid (GABA) A receptor	0
+Lacosamide	56	cytochrome P450	0
+Lacosamide	56	sodium channel	0.53229
+Lacosamide	56	glutamate receptor	0
+Lacosamide	56	calcium channel	0
+Lacosamide	56	carbonic anhydrase	0.46771
+Lacosamide	56	cholinergic receptor	0
+Lacosamide	56	potassium channel	0
+Lacosamide	56	other	0
+Lamotrigine	57	gamma-aminobutyric acid (GABA) A receptor	0
+Lamotrigine	57	cytochrome P450	0
+Lamotrigine	57	sodium channel	0.92712
+Lamotrigine	57	glutamate receptor	0
+Lamotrigine	57	calcium channel	0
+Lamotrigine	57	carbonic anhydrase	0
+Lamotrigine	57	cholinergic receptor	0
+Lamotrigine	57	potassium channel	0
+Lamotrigine	57	other	0.072878
+Levetiracetam	58	gamma-aminobutyric acid (GABA) A receptor	0
+Levetiracetam	58	cytochrome P450	0
+Levetiracetam	58	sodium channel	0
+Levetiracetam	58	glutamate receptor	0
+Levetiracetam	58	calcium channel	0.33654
+Levetiracetam	58	carbonic anhydrase	0
+Levetiracetam	58	cholinergic receptor	0
+Levetiracetam	58	potassium channel	0
+Levetiracetam	58	other	0.66346
+Lorazepam	59	gamma-aminobutyric acid (GABA) A receptor	0.81083
+Lorazepam	59	cytochrome P450	0
+Lorazepam	59	sodium channel	0
+Lorazepam	59	glutamate receptor	0
+Lorazepam	59	calcium channel	0
+Lorazepam	59	carbonic anhydrase	0
+Lorazepam	59	cholinergic receptor	0
+Lorazepam	59	potassium channel	0
+Lorazepam	59	other	0.18917
+Loxapine	60	gamma-aminobutyric acid (GABA) A receptor	0
+Loxapine	60	cytochrome P450	0
+Loxapine	60	sodium channel	0
+Loxapine	60	glutamate receptor	0
+Loxapine	60	calcium channel	0
+Loxapine	60	carbonic anhydrase	0
+Loxapine	60	cholinergic receptor	0.40423
+Loxapine	60	potassium channel	0
+Loxapine	60	other	0.59577
+Memantine	61	gamma-aminobutyric acid (GABA) A receptor	0
+Memantine	61	cytochrome P450	0.26001
+Memantine	61	sodium channel	0
+Memantine	61	glutamate receptor	0.7073
+Memantine	61	calcium channel	0
+Memantine	61	carbonic anhydrase	0
+Memantine	61	cholinergic receptor	0
+Memantine	61	potassium channel	0
+Memantine	61	other	0.032689
+Methazolamide	62	gamma-aminobutyric acid (GABA) A receptor	0
+Methazolamide	62	cytochrome P450	0.24015
+Methazolamide	62	sodium channel	0
+Methazolamide	62	glutamate receptor	0
+Methazolamide	62	calcium channel	0
+Methazolamide	62	carbonic anhydrase	0.75136
+Methazolamide	62	cholinergic receptor	0
+Methazolamide	62	potassium channel	0
+Methazolamide	62	other	0.0084971
+Methsuximide	63	gamma-aminobutyric acid (GABA) A receptor	0
+Methsuximide	63	cytochrome P450	0.16677
+Methsuximide	63	sodium channel	0
+Methsuximide	63	glutamate receptor	0
+Methsuximide	63	calcium channel	0.83323
+Methsuximide	63	carbonic anhydrase	0
+Methsuximide	63	cholinergic receptor	0
+Methsuximide	63	potassium channel	0
+Methsuximide	63	other	1.1102e-16
+Methylphenobarbital	64	gamma-aminobutyric acid (GABA) A receptor	0.35823
+Methylphenobarbital	64	cytochrome P450	0.086129
+Methylphenobarbital	64	sodium channel	0
+Methylphenobarbital	64	glutamate receptor	0.29389
+Methylphenobarbital	64	calcium channel	0
+Methylphenobarbital	64	carbonic anhydrase	0
+Methylphenobarbital	64	cholinergic receptor	0.21945
+Methylphenobarbital	64	potassium channel	0
+Methylphenobarbital	64	other	0.042295
+Midazolam	65	gamma-aminobutyric acid (GABA) A receptor	0.782
+Midazolam	65	cytochrome P450	0.13692
+Midazolam	65	sodium channel	0
+Midazolam	65	glutamate receptor	0
+Midazolam	65	calcium channel	0
+Midazolam	65	carbonic anhydrase	0
+Midazolam	65	cholinergic receptor	0
+Midazolam	65	potassium channel	0
+Midazolam	65	other	0.081084
+Modafinil	66	gamma-aminobutyric acid (GABA) A receptor	0
+Modafinil	66	cytochrome P450	0.95561
+Modafinil	66	sodium channel	0
+Modafinil	66	glutamate receptor	0
+Modafinil	66	calcium channel	0
+Modafinil	66	carbonic anhydrase	0
+Modafinil	66	cholinergic receptor	0
+Modafinil	66	potassium channel	0
+Modafinil	66	other	0.044389
+Nitrazepam	67	gamma-aminobutyric acid (GABA) A receptor	0.82738
+Nitrazepam	67	cytochrome P450	0.038928
+Nitrazepam	67	sodium channel	0.11094
+Nitrazepam	67	glutamate receptor	0
+Nitrazepam	67	calcium channel	0
+Nitrazepam	67	carbonic anhydrase	0
+Nitrazepam	67	cholinergic receptor	0
+Nitrazepam	67	potassium channel	0
+Nitrazepam	67	other	0.022752
+Nortriptyline	68	gamma-aminobutyric acid (GABA) A receptor	0
+Nortriptyline	68	cytochrome P450	0.42752
+Nortriptyline	68	sodium channel	0
+Nortriptyline	68	glutamate receptor	0
+Nortriptyline	68	calcium channel	0
+Nortriptyline	68	carbonic anhydrase	0
+Nortriptyline	68	cholinergic receptor	0.28149
+Nortriptyline	68	potassium channel	0
+Nortriptyline	68	other	0.29099
+Oxazepam	69	gamma-aminobutyric acid (GABA) A receptor	0.90017
+Oxazepam	69	cytochrome P450	0.044231
+Oxazepam	69	sodium channel	0
+Oxazepam	69	glutamate receptor	0
+Oxazepam	69	calcium channel	0
+Oxazepam	69	carbonic anhydrase	0
+Oxazepam	69	cholinergic receptor	0
+Oxazepam	69	potassium channel	0
+Oxazepam	69	other	0.055603
+Oxcarbazepine	70	gamma-aminobutyric acid (GABA) A receptor	0
+Oxcarbazepine	70	cytochrome P450	0.47837
+Oxcarbazepine	70	sodium channel	0.30492
+Oxcarbazepine	70	glutamate receptor	0
+Oxcarbazepine	70	calcium channel	0
+Oxcarbazepine	70	carbonic anhydrase	0
+Oxcarbazepine	70	cholinergic receptor	0
+Oxcarbazepine	70	potassium channel	0
+Oxcarbazepine	70	other	0.2167
+Paramethadione	71	gamma-aminobutyric acid (GABA) A receptor	0
+Paramethadione	71	cytochrome P450	0.2523
+Paramethadione	71	sodium channel	0
+Paramethadione	71	glutamate receptor	0
+Paramethadione	71	calcium channel	0.7477
+Paramethadione	71	carbonic anhydrase	0
+Paramethadione	71	cholinergic receptor	0
+Paramethadione	71	potassium channel	0
+Paramethadione	71	other	0
+Pentobarbital	72	gamma-aminobutyric acid (GABA) A receptor	0.51069
+Pentobarbital	72	cytochrome P450	0.071222
+Pentobarbital	72	sodium channel	0
+Pentobarbital	72	glutamate receptor	0.22028
+Pentobarbital	72	calcium channel	0
+Pentobarbital	72	carbonic anhydrase	0
+Pentobarbital	72	cholinergic receptor	0.1642
+Pentobarbital	72	potassium channel	0
+Pentobarbital	72	other	0.033612
+Phenacemide	73	gamma-aminobutyric acid (GABA) A receptor	0
+Phenacemide	73	cytochrome P450	0
+Phenacemide	73	sodium channel	1
+Phenacemide	73	glutamate receptor	0
+Phenacemide	73	calcium channel	0
+Phenacemide	73	carbonic anhydrase	0
+Phenacemide	73	cholinergic receptor	0
+Phenacemide	73	potassium channel	0
+Phenacemide	73	other	0
+Phenazopyridine	74	gamma-aminobutyric acid (GABA) A receptor	0
+Phenazopyridine	74	cytochrome P450	0
+Phenazopyridine	74	sodium channel	1
+Phenazopyridine	74	glutamate receptor	0
+Phenazopyridine	74	calcium channel	0
+Phenazopyridine	74	carbonic anhydrase	0
+Phenazopyridine	74	cholinergic receptor	0
+Phenazopyridine	74	potassium channel	0
+Phenazopyridine	74	other	0
+Phenelzine	75	gamma-aminobutyric acid (GABA) A receptor	0
+Phenelzine	75	cytochrome P450	0.33379
+Phenelzine	75	sodium channel	0
+Phenelzine	75	glutamate receptor	0
+Phenelzine	75	calcium channel	0
+Phenelzine	75	carbonic anhydrase	0
+Phenelzine	75	cholinergic receptor	0
+Phenelzine	75	potassium channel	0
+Phenelzine	75	other	0.66621
+Phenobarbital	76	gamma-aminobutyric acid (GABA) A receptor	0.096933
+Phenobarbital	76	cytochrome P450	0.31509
+Phenobarbital	76	sodium channel	0
+Phenobarbital	76	glutamate receptor	0.26051
+Phenobarbital	76	calcium channel	0
+Phenobarbital	76	carbonic anhydrase	0
+Phenobarbital	76	cholinergic receptor	0.19245
+Phenobarbital	76	potassium channel	0
+Phenobarbital	76	other	0.13501
+Phensuximide	77	gamma-aminobutyric acid (GABA) A receptor	0
+Phensuximide	77	cytochrome P450	0.16678
+Phensuximide	77	sodium channel	0
+Phensuximide	77	glutamate receptor	0
+Phensuximide	77	calcium channel	0.83322
+Phensuximide	77	carbonic anhydrase	0
+Phensuximide	77	cholinergic receptor	0
+Phensuximide	77	potassium channel	0
+Phensuximide	77	other	0
+Phenytoin	78	gamma-aminobutyric acid (GABA) A receptor	0
+Phenytoin	78	cytochrome P450	0.15866
+Phenytoin	78	sodium channel	0.74257
+Phenytoin	78	glutamate receptor	0
+Phenytoin	78	calcium channel	0
+Phenytoin	78	carbonic anhydrase	0
+Phenytoin	78	cholinergic receptor	0
+Phenytoin	78	potassium channel	0
+Phenytoin	78	other	0.098776
+Prazepam	79	gamma-aminobutyric acid (GABA) A receptor	0.97896
+Prazepam	79	cytochrome P450	0.021039
+Prazepam	79	sodium channel	0
+Prazepam	79	glutamate receptor	0
+Prazepam	79	calcium channel	0
+Prazepam	79	carbonic anhydrase	0
+Prazepam	79	cholinergic receptor	0
+Prazepam	79	potassium channel	0
+Prazepam	79	other	0
+Pregabalin	80	gamma-aminobutyric acid (GABA) A receptor	0
+Pregabalin	80	cytochrome P450	0
+Pregabalin	80	sodium channel	0
+Pregabalin	80	glutamate receptor	0
+Pregabalin	80	calcium channel	0.74262
+Pregabalin	80	carbonic anhydrase	0
+Pregabalin	80	cholinergic receptor	0
+Pregabalin	80	potassium channel	0
+Pregabalin	80	other	0.25738
+Primidone	81	gamma-aminobutyric acid (GABA) A receptor	0.45987
+Primidone	81	cytochrome P450	0.13037
+Primidone	81	sodium channel	0
+Primidone	81	glutamate receptor	0.22111
+Primidone	81	calcium channel	0
+Primidone	81	carbonic anhydrase	0
+Primidone	81	cholinergic receptor	0.16154
+Primidone	81	potassium channel	0
+Primidone	81	other	0.027123
+Quazepam	82	gamma-aminobutyric acid (GABA) A receptor	0.90078
+Quazepam	82	cytochrome P450	0.099216
+Quazepam	82	sodium channel	0
+Quazepam	82	glutamate receptor	0
+Quazepam	82	calcium channel	0
+Quazepam	82	carbonic anhydrase	0
+Quazepam	82	cholinergic receptor	0
+Quazepam	82	potassium channel	0
+Quazepam	82	other	0
+Quinidine	83	gamma-aminobutyric acid (GABA) A receptor	0
+Quinidine	83	cytochrome P450	0.17783
+Quinidine	83	sodium channel	0.53096
+Quinidine	83	glutamate receptor	0
+Quinidine	83	calcium channel	0
+Quinidine	83	carbonic anhydrase	0
+Quinidine	83	cholinergic receptor	0.040321
+Quinidine	83	potassium channel	0.041342
+Quinidine	83	other	0.20955
+Ranolazine	84	gamma-aminobutyric acid (GABA) A receptor	0
+Ranolazine	84	cytochrome P450	0.11869
+Ranolazine	84	sodium channel	0.88131
+Ranolazine	84	glutamate receptor	0
+Ranolazine	84	calcium channel	0
+Ranolazine	84	carbonic anhydrase	0
+Ranolazine	84	cholinergic receptor	0
+Ranolazine	84	potassium channel	0
+Ranolazine	84	other	0
+Rufinamide	85	gamma-aminobutyric acid (GABA) A receptor	0
+Rufinamide	85	cytochrome P450	0.04
+Rufinamide	85	sodium channel	0.82146
+Rufinamide	85	glutamate receptor	0.10752
+Rufinamide	85	calcium channel	0
+Rufinamide	85	carbonic anhydrase	0
+Rufinamide	85	cholinergic receptor	0
+Rufinamide	85	potassium channel	0
+Rufinamide	85	other	0.031022
+Secobarbital	86	gamma-aminobutyric acid (GABA) A receptor	0.49464
+Secobarbital	86	cytochrome P450	0.042577
+Secobarbital	86	sodium channel	0
+Secobarbital	86	glutamate receptor	0.24431
+Secobarbital	86	calcium channel	0
+Secobarbital	86	carbonic anhydrase	0
+Secobarbital	86	cholinergic receptor	0.18231
+Secobarbital	86	potassium channel	0
+Secobarbital	86	other	0.036168
+Sevoflurane	87	gamma-aminobutyric acid (GABA) A receptor	0.5901
+Sevoflurane	87	cytochrome P450	0.07611
+Sevoflurane	87	sodium channel	0
+Sevoflurane	87	glutamate receptor	0.079344
+Sevoflurane	87	calcium channel	0
+Sevoflurane	87	carbonic anhydrase	0
+Sevoflurane	87	cholinergic receptor	0
+Sevoflurane	87	potassium channel	0.21585
+Sevoflurane	87	other	0.038598
+Talbutal	88	gamma-aminobutyric acid (GABA) A receptor	0.63161
+Talbutal	88	cytochrome P450	0
+Talbutal	88	sodium channel	0
+Talbutal	88	glutamate receptor	0.19391
+Talbutal	88	calcium channel	0
+Talbutal	88	carbonic anhydrase	0
+Talbutal	88	cholinergic receptor	0.14454
+Talbutal	88	potassium channel	0
+Talbutal	88	other	0.029935
+Temazepam	89	gamma-aminobutyric acid (GABA) A receptor	0.85374
+Temazepam	89	cytochrome P450	0.11311
+Temazepam	89	sodium channel	0
+Temazepam	89	glutamate receptor	0
+Temazepam	89	calcium channel	0
+Temazepam	89	carbonic anhydrase	0
+Temazepam	89	cholinergic receptor	0
+Temazepam	89	potassium channel	0
+Temazepam	89	other	0.033151
+Thiamylal	90	gamma-aminobutyric acid (GABA) A receptor	0.91041
+Thiamylal	90	cytochrome P450	0.016867
+Thiamylal	90	sodium channel	0
+Thiamylal	90	glutamate receptor	0
+Thiamylal	90	calcium channel	0
+Thiamylal	90	carbonic anhydrase	0
+Thiamylal	90	cholinergic receptor	0
+Thiamylal	90	potassium channel	0.072728
+Thiamylal	90	other	0
+Thiopental	91	gamma-aminobutyric acid (GABA) A receptor	0.46396
+Thiopental	91	cytochrome P450	0.038117
+Thiopental	91	sodium channel	0
+Thiopental	91	glutamate receptor	0.2306
+Thiopental	91	calcium channel	0
+Thiopental	91	carbonic anhydrase	0
+Thiopental	91	cholinergic receptor	0.17251
+Thiopental	91	potassium channel	0
+Thiopental	91	other	0.094814
+Tiagabine	92	gamma-aminobutyric acid (GABA) A receptor	0
+Tiagabine	92	cytochrome P450	0.074504
+Tiagabine	92	sodium channel	0
+Tiagabine	92	glutamate receptor	0
+Tiagabine	92	calcium channel	0
+Tiagabine	92	carbonic anhydrase	0
+Tiagabine	92	cholinergic receptor	0
+Tiagabine	92	potassium channel	0
+Tiagabine	92	other	0.9255
+Topiramate	93	gamma-aminobutyric acid (GABA) A receptor	0.14443
+Topiramate	93	cytochrome P450	0.037887
+Topiramate	93	sodium channel	0.10185
+Topiramate	93	glutamate receptor	0.50477
+Topiramate	93	calcium channel	0
+Topiramate	93	carbonic anhydrase	0.21106
+Topiramate	93	cholinergic receptor	0
+Topiramate	93	potassium channel	0
+Topiramate	93	other	2.2204e-16
+Triazolam	94	gamma-aminobutyric acid (GABA) A receptor	0.88319
+Triazolam	94	cytochrome P450	0.071374
+Triazolam	94	sodium channel	0
+Triazolam	94	glutamate receptor	0
+Triazolam	94	calcium channel	0
+Triazolam	94	carbonic anhydrase	0
+Triazolam	94	cholinergic receptor	0
+Triazolam	94	potassium channel	0
+Triazolam	94	other	0.045434
+Trimethadione	95	gamma-aminobutyric acid (GABA) A receptor	0
+Trimethadione	95	cytochrome P450	0.53863
+Trimethadione	95	sodium channel	0
+Trimethadione	95	glutamate receptor	0
+Trimethadione	95	calcium channel	0.46137
+Trimethadione	95	carbonic anhydrase	0
+Trimethadione	95	cholinergic receptor	0
+Trimethadione	95	potassium channel	0
+Trimethadione	95	other	0
+Valproic Acid	96	gamma-aminobutyric acid (GABA) A receptor	0
+Valproic Acid	96	cytochrome P450	0.31332
+Valproic Acid	96	sodium channel	0
+Valproic Acid	96	glutamate receptor	0
+Valproic Acid	96	calcium channel	0
+Valproic Acid	96	carbonic anhydrase	0
+Valproic Acid	96	cholinergic receptor	0
+Valproic Acid	96	potassium channel	0
+Valproic Acid	96	other	0.68668
+Verapamil	97	gamma-aminobutyric acid (GABA) A receptor	0
+Verapamil	97	cytochrome P450	0.16257
+Verapamil	97	sodium channel	0.049088
+Verapamil	97	glutamate receptor	0
+Verapamil	97	calcium channel	0.60075
+Verapamil	97	carbonic anhydrase	0
+Verapamil	97	cholinergic receptor	0
+Verapamil	97	potassium channel	0.034644
+Verapamil	97	other	0.15294
+Zolpidem	98	gamma-aminobutyric acid (GABA) A receptor	0.7408
+Zolpidem	98	cytochrome P450	0.22569
+Zolpidem	98	sodium channel	0
+Zolpidem	98	glutamate receptor	0
+Zolpidem	98	calcium channel	0
+Zolpidem	98	carbonic anhydrase	0
+Zolpidem	98	cholinergic receptor	0
+Zolpidem	98	potassium channel	0
+Zolpidem	98	other	0.033509
+Zonisamide	99	gamma-aminobutyric acid (GABA) A receptor	0
+Zonisamide	99	cytochrome P450	0.031897
+Zonisamide	99	sodium channel	0.51146
+Zonisamide	99	glutamate receptor	0
+Zonisamide	99	calcium channel	0.08796
+Zonisamide	99	carbonic anhydrase	0.35982
+Zonisamide	99	cholinergic receptor	0
+Zonisamide	99	potassium channel	0
+Zonisamide	99	other	0.008865
+Zopiclone	100	gamma-aminobutyric acid (GABA) A receptor	0.8203
+Zopiclone	100	cytochrome P450	0.11351
+Zopiclone	100	sodium channel	0
+Zopiclone	100	glutamate receptor	0
+Zopiclone	100	calcium channel	0
+Zopiclone	100	carbonic anhydrase	0
+Zopiclone	100	cholinergic receptor	0
+Zopiclone	100	potassium channel	0
+Zopiclone	100	other	0.066192
