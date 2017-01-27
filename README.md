@@ -1,11 +1,17 @@
-rephetio
-========
+# Miscellaneous Content for Project Rephetio
 
-Main repository for:
+This repository hosts miscellaneous content for [Project Rephetio](http://thinklab.com/p/rephetio), an open project to predict new uses for existing drugs. The codebase for this project encompases a large number of repositories which are referenced in the corresponding Thinklab discussions and Zenodo archives. This repository hosts miscellaneous content, mostly visualization related.
 
->
-**Repurposing drugs on a heterogeneous network**<br>
-*ThinkLab* (2015) [doi:10.15363/thinklab.4](https://dx.doi.org/10.15363/thinklab.4)<br>
-[Daniel Himmelstein](https://github.com/dhimmel), [Leo Brueggeman](https://github.com/LABrueggs), Sergio Baranzini
+You can learn more about and cite Project Rephetio at:
 
-This [project](http://thinklab.com/p/rephetio) composes several additional GitHub repositories ***not*** linked to from here.
++ [**Systematic integration of biomedical knowledge prioritizes drugs for repurposing**](https://doi.org/10.1101/087619)<br>
+  Daniel S Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini<br>
+  _bioRxiv_. 2016. DOI: 10.1101/087619
+
+
++ [**Rephetio: Repurposing drugs on a hetnet**](https://doi.org/10.15363/thinklab.a7)<br>
+  Daniel S Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini<br>
+  _Thinklab_. 2016. DOI: 10.15363/thinklab.a7
+
+Project discussion happens primarily on Thinklab. See [this issue](https://github.com/dhimmel/rephetio/issues/1) for a drag and drop image upload location.
+
