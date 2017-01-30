@@ -1,10 +1,10 @@
 target	color	label
 gamma-aminobutyric acid (GABA) A receptor	#bcbd22	GABAᴀ Receptors
-cytochrome P450	#ff7f0e	Cytochrome P450s
+cytochrome P450	#d8d8d8	Cytochrome P450s
 sodium channel	#2ca02c	Sodium Channel
 glutamate receptor	#d62728	Glutamate Receptors
 calcium channel	#8c564b	Calcium Channel
 carbonic anhydrase	#e377c2	Carbonic Anhydrases
-cholinergic receptor	#7f7f7f	Cholinergic Receptors
+cholinergic receptor	#ff7f0e	Cholinergic Receptors
 potassium channel	#1f77b4	Potassium Channel
 other	#ffffff	Other Targets
