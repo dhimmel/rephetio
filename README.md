@@ -16,3 +16,7 @@ You can learn more about and cite Project Rephetio at:
 
 Project discussion happens primarily on Thinklab. See [this issue](https://github.com/dhimmel/rephetio/issues/1) for a drag and drop image upload location.
 
+## License
+
+This repository is released under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+For reuse, please attribute either the Project Rephetio publication at <https://doi.org/10.7554/eLife.26726> or this repository at <https://github.com/dhimmel/rephetio>, whichever is most appropriate.
